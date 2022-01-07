@@ -1,0 +1,3112 @@
+﻿Postcode,Town_Area,Region
+AB1,Aberdeen,Aberdeen
+AB2,Aberdeen,Aberdeen
+AB3,Aberdeen,Aberdeen
+AB4,"Fraserburgh, Peterhead, Macduff",Aberdeen
+AB5,"Buckie, Huntly, Inverurie",Aberdeen
+AB9,Aberdeen,Aberdeen
+AB10,"Aberdeen city centre, Bridge of Dee, Mannofield",Aberdeen
+AB11,"Aberdeen city centre, Torry",Aberdeen
+AB12,"Aberdeen, Altens, Ardoe, Banchory Devenick, Blairs, Bridge of Dee, Cove Bay, Maryculter, Nigg, Portlethen",Aberdeen
+AB13,Milltimber,Aberdeen
+AB14,"Peterculter, Upper Anguston",Aberdeen
+AB15,"Aberdeen, Bieldside, Craigiebuckler, Cults, Hazlehead, Kingswells, Mannofield, Milltimber",Aberdeen
+AB16,"Aberdeen, Mastrick, Northfield, Middlefield, Cornhill",Aberdeen
+AB21,"Aberdeen, Blackburn, Bucksburn, Dyce, Fintray, Kinellar, Newmachar, Whiterashes",Aberdeen
+AB22,"Aberdeen, Bridge of Don, Danestone, Grandholm, Persley",Aberdeen
+AB23,"Aberdeen, Balmedie, Belhelvie, Bridge of Don, Potterton, Whitecairns",Aberdeen
+AB24,"Aberdeen, Old Aberdeen, Woodside, Tillydrone, Seaton, Bedford",Aberdeen
+AB25,"Aberdeen city centre, Kittybrewster, Foresterhill, Rosemount, George Street",Aberdeen
+AB30,Laurencekirk,Aberdeenshire
+AB31,Banchory,Aberdeenshire
+AB32,Westhill,Aberdeenshire
+AB33,Alford,Aberdeenshire
+AB34,Aboyne,Aberdeenshire
+AB35,Ballater,Aberdeenshire
+AB36,Strathdon,Aberdeenshire
+AB37,Ballindalloch,Moray
+AB38,Aberlour,Moray
+AB39,"Stonehaven, Newtonhill",Aberdeenshire
+AB41,Ellon,Aberdeenshire
+AB42,"Hatton, St. Fergus",Aberdeenshire
+AB43,Crimond,Aberdeenshire
+AB44,Macduff,Aberdeenshire
+AB45,Banff,Aberdeenshire
+AB51,Inverurie,Aberdeenshire
+AB52,Insch,Aberdeenshire
+AB53,Turriff,Aberdeenshire
+AB54,"Aberchirder, Cabrach, Cairnie, Forgue, Gartly, Glass, Kennethmont, Lumsden, Rhynie, Rothiemay",Aberdeenshire
+AB55,Keith,Moray
+AB56,Buckie,Moray
+AB99,Non-geographic,Aberdeen
+AL1,St Albans,St Albans
+AL2,"St Albans, Bricket Wood, Colney Street, Frogmore, London Colney, Napsbury, Park Street, Potters Crouch, Chiswell Green",St Albans
+AL3,"St Albans, Childwickbury, Flamstead, Gorhambury, Markyate, Porters Wood, Redbourn, Sandridge",St Albans
+AL4,"St Albans, Colney Heath, London Colney, Jersey Farm, Marshalswick, Oaklands, Sandridge, Smallford, Tyttenhanger, Wheathampstead",St Albans
+AL5,Harpenden,St Albans
+AL6,"Welwyn, Ayot St Peter, Ayot St Lawrence, Digswell, Rabley Heath, Tewin",Welwyn Hatfield
+AL7,Welwyn Garden City,Welwyn Hatfield
+AL8,"Welwyn Garden City, Lemsford",Welwyn Hatfield
+AL9,"Hatfield, Brookmans Park, Essendon, North Mymms",Welwyn Hatfield
+AL10,Hatfield,Welwyn Hatfield
+B1,"Birmingham City Centre, Ladywood",Birmingham 
+B2,"Birmingham City Centre, Ladywood",Birmingham 
+B3,"Birmingham City Centre, Ladywood",Birmingham 
+B4,"Birmingham City Centre, Ladywood",Birmingham 
+B5,"Digbeth, Highgate, Lee Bank",Birmingham
+B6,Aston,Birmingham
+B7,Nechells,Birmingham
+B8,"Washwood Heath, Ward End, Saltley",Birmingham
+B9,Bordesley Green,Birmingham
+B10,Small Heath,Birmingham
+B11,"Sparkhill, Tyseley",Birmingham
+B12,"Balsall Heath, Sparkbrook, Highgate",Birmingham
+B13,"Moseley, Billesley",Birmingham
+B14,"Kings Heath, Yardley Wood, Brandwood, Druids Heath, Warstock",Birmingham
+B15,"Edgbaston, Lee Bank",Birmingham
+B16,"Edgbaston, Ladywood",Birmingham
+B17,Harborne,Birmingham
+B18,"Winson Green, Hockley",Birmingham
+B19,"Lozells, Newtown, Birchfield",Birmingham
+B20,"Birchfield, Handsworth Wood Perry Barr",Birmingham
+B21,Handsworth,Birmingham
+B22,Kings Norton,Birmingham
+B23,"Erdington, Short Heath",Birmingham
+B24,"Erdington, Tyburn",Birmingham
+B25,Yardley,Birmingham
+B26,"Sheldon, Yardley",Birmingham
+B27,Acocks Green,Birmingham
+B28,Hall Green,Birmingham
+B29,"Selly Oak, Bournbrook, Selly Park, Weoley Castle, California",Birmingham
+B30,"Bournville, Cotteridge, Stirchley",Birmingham
+B31,Northfield,Birmingham
+B32,"Woodgate, Bartley Green, Quinton, California",Birmingham
+B33,"Kitts Green, Stechford",Birmingham
+B34,"Shard End, Buckland End",Birmingham
+B35,Castle Vale,Birmingham
+B36,"Castle Bromwich, Smith's Wood",Solihull
+B37,"Chelmsley Wood, Marston Green, Kingshurst, Fordbridge",Solihull
+B38,Kings Norton,Birmingham
+B40,"National Exhibition Centre, Birmingham International Airport, Bickenhill",Solihull
+B42,"Perry Barr, Great Barr, Hamstead",Birmingham
+B43,"Great Barr, Hamstead, Pheasey",Birmingham
+B44,"Perry Barr, Kingstanding, Great Barr",Birmingham
+B45,"Rednal, Rubery",Birmingham
+B46,"Water Orton, Coleshill",North Warwickshire
+B47,"Hollywood, Wythall",Bromsgrove Worcestershire
+B48,Alvechurch,Bromsgrove Worcestershire
+B49,Alcester,Stratford-on-Avon
+B50,Alcester,Stratford-on-Avon
+B60,Bromsgrove,Bromsgrove
+B61,Bromsgrove,Bromsgrove
+B62,Halesowen,Dudley
+B63,Halesowen,Dudley
+B64,Cradley Heath,Sandwell
+B65,Rowley Regis,Sandwell
+B66,"Smethwick, Bearwood",Sandwell
+B67,"Smethwick, Bearwood",Sandwell
+B68,Oldbury,Sandwell
+B69,Oldbury,Sandwell
+B70,West Bromwich,Sandwell
+B71,West Bromwich,Sandwell
+B72,"Sutton Coldfield town centre, Maney, Wylde Green",Birmingham
+B73,"Boldmere, New Oscott, Wylde Green",Birmingham
+B74,"Four Oaks, Mere Green, Little Aston, Streetly",Birmingham
+B75,"Sutton Trinity, Falcon Lodge, Rectory",Birmingham
+B76,Walmley,Birmingham
+B77,Tamworth,Tamworth
+B78,Tamworth,Tamworth
+B79,Tamworth,Tamworth
+B80,Studley,Stratford-on-Avon
+B90,"Shirley, Wythall, Majors Green, Dickens Heath",Solihull
+B91,"Olton, Solihull",Solihull
+B92,"Olton, Solihull",Solihull
+B93,"Knowle, Dorridge",Solihull
+B94,"Olton, Solihull",Solihull
+B95,Henley-in-Arden,Stratford-on-Avon
+B96,Redditch,Redditch
+B97,Redditch,Redditch
+B98,Redditch,Redditch
+B99,Non-geographic,Birmingham
+BA1,Bath,Bath and North East Somerset
+BA2,Bath,Bath and North East Somerset
+BA3,"Radstock, Midsomer Norton, Holcombe, Coleford",Bath and North East Somerset
+BA4,Shepton Mallet,Mendip
+BA5,Wells,Mendip
+BA6,Glastonbury,Mendip
+BA7,Castle Cary,South Somerset
+BA8,Templecombe,South Somerset
+BA9,Wincanton,South Somerset
+BA10,Bruton,South Somerset
+BA11,Frome,Mendip
+BA12,Warminster,Wiltshire
+BA13,Westbury,Wiltshire
+BA14,Trowbridge,Wiltshire
+BA15,Bradford-on-Avon,Wiltshire
+BA16,Street,Mendip
+BA20,Yeovil,South Somerset
+BA21,Yeovil,South Somerset
+BA22,Yeovil,South Somerset
+BB0,Blackburn,Blackburn
+BB1,"Blackburn, Bank Hey, Belthorn, Blackamoor, Clayton-le-Dale, Guide, Knuzden, Mellor, Ramsgreave, Rishton, Salesbury, Shadsworth, Sunnybower, Whitebirk, Wilpshire",Blackburn with Darwen
+BB2,"Blackburn, Beardwood, Balderstone, Cherry Tree, Feniscowles, Mellor, Mellor Brook, Mill Hill, Pleasington, Witton, Holly Tree and Griffin",Blackburn with Darwen
+BB3,"Darwen, Bank Fold, Eccleshill, Hoddlesden, Lower Darwen, Pickup Bank, Tockholes",Blackburn with Darwen
+BB4,"Acre, Bent Gate, Haslingden, Helmshore, Rawtenstall",Rossendale
+BB5,"Accrington, Altham, Baxenden, Church, Clayton-le-Moors, Huncoat, Oswaldtwistle, Rising Bridge",Hyndburn
+BB6,"Dinckley, Great Harwood, Langho",Hyndburn
+BB7,"Clitheroe, Barrow, Chatburn, Dunsop Bridge, Gisburn, Hurst Green, Pendleton, Sabden, Slaidburn, Waddington, Whalley, Whitewell, Wiswell",Ribble Valley
+BB8,"Colne, Foulridge, Laneshaw Bridge, Trawden, Winewall, Wycoller",Pendle
+BB9,"Nelson, Barrowford, Blacko, Brierfield, Higherford, Roughlee",Pendle
+BB10,"Burnley, Cliviger, Reedley, Worsthorne",Burnley
+BB11,Burnley,Burnley
+BB12,"Burnley, Barley, Fence, Higham, Padiham, Read, Simonstone, Wheatley Lane",Burnley
+BB18,"Barnoldswick, Earby, Kelbrook, Salterforth, Sough",Pendle
+BB94,"Non-geographic, Earby ",Pendle
+BD1,"Bradford city centre, Little Germany",Bradford 
+BD2,"Eccleshill, Fagley",Bradford
+BD3,"Barkerend, Bradford Moor, Thornbury",Bradford
+BD4,"Bierley, Bowling, East Bierley, Laisterdyke, Tong, Tong Street, Tyersal",Bradford
+BD5,"Bankfoot, Little Horton, West Bowling",Bradford
+BD6,"Buttershaw, Wibsey",Bradford
+BD7,"Great Horton, Lidget Green",Bradford
+BD8,"Girlington, Manningham, Lower Grange",Bradford
+BD9,"Frizinghall, Heaton",Bradford
+BD10,"Apperley Bridge, Eccleshill, Greengates, Idle, Thackley",Bradford
+BD11,"Birkenshaw, Drighlington",Kirklees
+BD12,"Low Moor, Oakenshaw, Wyke",Bradford
+BD13,"Cullingworth, Denholme, Queensbury, Thornton",Bradford
+BD14,Clayton,Bradford
+BD15,"Allerton, Norr, Wilsden",Bradford
+BD16,"Bingley, Cottingley, Eldwick, Harden",Bingley
+BD17,"Baildon, Shipley",Bradford
+BD18,"Saltaire, Shipley",Bradford
+BD19,"Cleckheaton, Gomersal, Scholes",Kirklees
+BD20,"Cononley, Cross Hills, Glusburn, Kildwick, Silsden, Steeton, Sutton-in-Craven",Bradford
+BD21,"Hainworth, Keighley",Bradford
+BD22,"Cowling, Haworth, Oakworth, Oxenhope",Bradford
+BD23,"Carleton-in-Craven, Embsay, Gargrave, Grassington, Hebden, Hellifield, Kettlewell, Kirkby Malham, Skipton, Threshfield",Craven
+BD24,"Giggleswick, Horton in Ribblesdale, Settle",Craven
+BD97,Bingley,Bradford
+BD98,Shipley,Bradford
+BD99,Bradford,Bradford
+BF1,British Forces,British Forces
+BH1,"Bournemouth town centre, Springbourne, East Cliff, Boscombe",Bournemouth 
+BH2,"Bournemouth Central, West Cliff",Bournemouth
+BH3,"Talbot Woods, Winton",Bournemouth
+BH4,"Westbourne, Branksome Woods",Bournemouth
+BH5,"Boscombe, Pokesdown",Bournemouth
+BH6,"Southbourne, Tuckton, Wick",Bournemouth
+BH7,"Littledown, Iford",Bournemouth
+BH8,"Malmesbury Park, Charminster, Queens Park, Strouden Park, Townsend",Bournemouth
+BH9,"Winton, Moordown, Throop, Muscliff",Bournemouth
+BH10,"Kinson, Northbourne, Redhill, Ensbury Park, Wallisdown",Bournemouth
+BH11,"Kinson, Bear Cross, West Howe, Wallisdown",Bournemouth
+BH12,"Branksome, Alderney, Upper Parkstone, Newtown",Poole
+BH13,"Canford Cliffs, Sandbanks, Branksome Park",Poole
+BH14,"Lower Parkstone, Lilliput, Penn Hill",Poole
+BH15,"Poole town centre, Hamworthy, Oakdale",Poole
+BH16,"Upton, Turlin Moor, Lytchett Minster, Lytchett Matravers",Poole
+BH17,"Canford Heath, Creekmoor",Poole
+BH18,Broadstone,Poole
+BH19,Swanage,Purbeck
+BH20,Wareham,Purbeck
+BH21,Wimborne,East Dorset
+BH22,West Moors,East Dorset
+BH23,Christchurch,Christchurch
+BH24,Ringwood,New Forest
+BH25,New Milton,New Forest
+BH31,Verwood,East Dorset
+BL0,"Bury, Ramsbottom, Edenfield, Shuttleworth",Bury
+BL1,"Bolton, Smithills, Halliwell, Heaton",Bolton
+BL2,"Bolton, Ainsworth, Bradley Fold, Bradshaw, Breightmet, Harwood, Tonge Fold, Tonge Moor",Bolton
+BL3,"Bolton, Little Lever",Bolton
+BL4,"Bolton, Farnworth, Kearsley",Bolton
+BL5,"Bolton, Over Hulton, Westhoughton",Bolton
+BL6,"Bolton, Blackrod, Horwich, Lostock, Rivington",Bolton
+BL7,"Bolton, Belmont, Bromley Cross, Chapeltown, Edgworth, Egerton, Turton",Bolton
+BL8,"Bury, Brandlesholme, Greenmount, Affetside, Hawkshaw, Holcombe, Ramsbottom, Tottington, Walshaw",Bury
+BL9,"Bury, Heap, Heap Bridge, Nangreaves, Summerseat, Unsworth, Walmersley",Bury
+BL11,Bolton,Bolton
+BL78,Bolton,Bolton
+BN1,"Brighton, Coldean, Falmer, Hollingbury, Patcham, Preston, Stanmer, Withdean",Brighton and Hove
+BN2,"Brighton, Bevendean, Brighton Marina, Kemptown, Moulsecoomb, Ovingdean, Rottingdean, Saltdean, Woodingdean",Brighton and Hove
+BN3,"Hove, Hangleton, West Blatchington",Brighton and Hove
+BN4,Shoreham by Sea,Brighton and Hove
+BN5,"Henfield, Blackstone, Edburton, Fulking, Small Dole, Wineham, Woodmancote",Horsham
+BN6,"Hassocks, Albourne, Clayton, Ditchling, Goddards Green, Hurstpierpoint, Keymer, Newtimber, Sayers Common, Streat, Westmeston",Lewes
+BN7,"Lewes, Cooksbridge, East Chiltington, Iford, Kingston, Offham, Plumpton, Plumpton Green, Rodmell, Southease, Swanborough, Telscombe",Lewes
+BN8,"Barcombe, Barcombe Cross, Beddingham, Chailey Green, Chiddingly, East Hoathly, Firle, Glynde, Halland, Hamsey, Holmes Hill, Laughton, Newick, North Chailey, Ringmer, Ripe, Shortgate, South Chailey, Southerham, Stoneham, Whitesmith",Lewes
+BN9,"Newhaven, Piddinghoe, South Heighton, Tarring Neville",Lewes
+BN10,"Peacehaven, Telscombe Cliffs",Lewes
+BN11,Worthing,Worthing
+BN12,"Worthing, Ferring, Goring-by-Sea",Worthing
+BN13,"Worthing, Clapham, Durrington, High Salvington, Patching, Tarring",Worthing
+BN14,"Worthing, Broadwater, Findon, Northend, Tarring",Worthing
+BN15,"Lancing, Coombes, Sompting",Worthing
+BN16,"Angmering, East Preston, Kingston Gorse, Rustington",Arun
+BN17,"Littlehampton, Climping, Lyminster, Wick",Arun
+BN18,"Arundel, Amberley, Binsted, Burpham, Crossbush, Fontwell, Ford, Houghton, Madehurst, Poling, Slindon, Slindon Common, South Stoke, Tortington, Walberton, Warningcamp, Wepham, Yapton",Arun
+BN20,"Eastbourne, Beachy Head, East Dean, Friston, Old Town, Ratton, Wannock, Willingdon",Eastbourne
+BN21,"Eastbourne, Old Town",Eastbourne
+BN22,"Eastbourne, Hampden Park, Willingdon",Eastbourne
+BN23,"Eastbourne, Friday Street, Langney, Sovereign Harbour",Eastbourne
+BN24,"Pevensey, Beachlands, Hankham, Normans Bay, Pevensey Bay, Stone Cross, Westham",Wealden
+BN25,"Seaford, Bishopstone, Cuckmere Haven, Exceat, Norton, Rookery Hill, Westdean",Wealden
+BN26,"Polegate, Alciston, Alfriston, Arlington, Berwick, Caneheath, Filching, Folkington, Jevington, Litlington, Lullington, Milton Street, Sayerland, Selmeston, Summerhill, Wilmington",Wealden
+BN27,"Hailsham, Amberstone, Bodle Street, Bodle Street Green, Boreham Street, Carters Corner, Chalvington, Cowbeech, Downash, Golden Cross, Hellingly, Herstmonceux, Horsebridge, Lower Dicker, Lower Horsebridge, Magham Down, Mulbrooks, Rickney, Trolliloes, Upper Dicker, Wartling, Windmill Hill",Wealden
+BN41,"Fishersgate, Portslade",Brighton and Hove
+BN42,Southwick,Adur
+BN43,Shoreham-by-Sea,Adur
+BN44,"Steyning, Ashurst, Botolphs, Bramber, Upper Beeding, Wiston",Horsham
+BN45,"Poynings, Pyecombe, Saddlescombe",Mid Sussex
+BN50,Brighton,Brighton and Hove
+BN51,"Non-geographic, Rottingdean",Brighton and Hove
+BN52,Hove,Brighton and Hove
+BN88,Brighton,Brighton and Hove
+BN91,Non-geographic,Brighton
+BN95,Non-geographic,Brighton
+BN99,"Worthing, Lancing",Worthing
+BR1,"Bromley, Bickley, Downham",Bromley
+BR2,"Bickley, Hayes, Bromley Common, Shortlands",Bromley
+BR3,"Beckenham, Eden Park, Elmers End, Park Langley, Shortlands",Bromley
+BR4,West Wickham,Bromley
+BR5,"Orpington, St Mary Cray, Petts Wood",Bromley
+BR6,"Orpington, Farnborough, Downe, Pratt's Bottom, Chelsfield, Well Hill",Bromley
+BR7,"Chislehurst, Elmstead",Bromley
+BR8,Swanley,Sevenoaks
+BR98,Non-geographic,Bromley
+BS0,Non-geographic,Bristol
+BS1,"Bristol city centre, Redcliffe",Bristol
+BS2,"Kingsdown, St Pauls, St Phillips, St Agnes",Bristol
+BS3,"Bedminster, Southville, Bower Ashton, Totterdown, Windmill Hill",Bristol
+BS4,"Brislington, Knowle, Knowle West, St Annes, Totterdown",Bristol
+BS5,"Easton, St George, Whitehall",Bristol
+BS6,"Redland, Montpelier, Westbury Park",Bristol
+BS7,"Bishopston, Horfield, Filton",Bristol
+BS8,"Clifton, Hotwells",Bristol
+BS9,"Coombe Dingle, Sneyd Park, Stoke Bishop, Westbury on Trym, Henleaze, Bristol",Bristol
+BS10,"Brentry, Henbury, Southmead",Bristol
+BS11,"Avonmouth, Shirehampton",Bristol
+BS12,"Thornbury, Almondsbury",Bristol
+BS13,"Bedminster Down, Bishopsworth, Hartcliffe, Withywood",Bristol
+BS14,"Hengrove, Stockwood, Whitchurch, Withywood",Bristol
+BS15,"Hanham, Kingswood",Bristol
+BS16,"Downend, Fishponds, Frenchay",Bristol
+BS17,Chipping Sodbury,Bristol
+BS18,Bristol,Bristol
+BS19,"Nailsea, Backwell",Bristol
+BS20,Portishead,North Somerset
+BS21,Clevedon,North Somerset
+BS22,"Kewstoke, Weston-super-Mare, Worle",North Somerset
+BS23,"Uphill, Weston-super-Mare",North Somerset
+BS24,"Bleadon, Hutton, Locking, Lympsham, Puxton, Weston-super-Mare, Wick St. Lawrence",North Somerset
+BS25,"Churchill, Winscombe, Sandford, Shipham",Somerset
+BS26,"Axbridge, Compton Bishop, Loxton",Somerset
+BS27,"Cheddar, Draycott",Somerset
+BS28,Wedmore,Somerset
+BS29,Banwell,Somerset
+BS30,"Bitton, Cadbury Heath, Warmley, Wick",South Gloucestershire
+BS31,"Chewton Keynsham, Keynsham, Saltford",Bath and North East Somerset
+BS32,"Almondsbury, Bradley Stoke",South Gloucestershire
+BS34,"Filton, Little Stoke, Patchway, Stoke Gifford",South Gloucestershire
+BS35,"Alveston, Rudgeway, Thornbury",South Gloucestershire
+BS36,"Frampton Cotterell, Winterbourne",South Gloucestershire
+BS37,"Chipping Sodbury, Yate",South Gloucestershire
+BS38,Non-geographic,Bristol
+BS39,"Clutton, Temple Cloud",Bath and North East Somerset
+BS40,"Chew Valley, Chew Magna, Chew Stoke, Wrington",Bath and North East Somerset
+BS41,Long Ashton,North Somerset
+BS48,"Backwell, Nailsea",North Somerset
+BS49,"Congresbury, Yatton",North Somerset
+BS77,Bedminster,Bristol
+BS80,Bristol,Bristol
+BS98,Non-geographic,Bristol
+BS99,Non-geographic,Bristol
+BT1,Belfast,Belfast
+BT2,Belfast,Belfast
+BT3,Belfast,Belfast
+BT4,"Belfast, Sydenham,Belmont, Stormont",Belfast
+BT5,"Belfast, Castlereagh, Crossnacreevy, Gilnahirk, Knock",Belfast
+BT6,"Belfast, Cregagh, Knockbreda",Belfast
+BT7,"Belfast, Ormeau",Belfast
+BT8,"Belfast, Carryduff, Knockbreda, Newtownbreda",Belfast
+BT9,"Belfast, Malone, Lisburn Road, Taughmonagh, Stranmillis",Belfast
+BT10,"Belfast, Finaghy",Belfast
+BT11,"Belfast, Andersonstown",Belfast
+BT12,"Belfast, Falls Road, Sandy Row, The Village",Belfast
+BT13,"Belfast, Shankill Road, Woodvale, Ballygomartin, Springmartin, Glencairn, Highfield",Belfast
+BT14,"Belfast, Ballysillan, Upper Ballysillan",Belfast
+BT15,Belfast,Belfast
+BT16,Dundonald,Belfast
+BT17,"Belfast, Derriaghy, Dunmurry, Hannahstown",Belfast
+BT18,"Holywood, Craigavad",North Down
+BT19,"Bangor, Crawfordsburn, Groomsport, Helens Bay",North Down
+BT20,Bangor,North Down
+BT21,Donaghadee,Ards
+BT22,"Newtownards, Ardkeen, Ballyhalbert, Ballywalter, Carrowdore, Cloughey, Greyabbey, Kircubbin, Millisle, Portaferry, Portavogie",North Down
+BT23,"Newtownards, Ballygowan, Comber, Conlig, Killinchy, Moneyrea",Ards
+BT24,"Ballynahinch, Drumaness, Saintfield",Down
+BT25,"Dromore, Dromara, Finnis, Waringsford",Banbridge
+BT26,"Hillsborough, Annahilt, Culcavy",Lisburn
+BT27,"Lisburn, Cargacreevy, Drumalig, Drumbo, Hilden, Hillhall, Lambeg",Lisburn
+BT28,Lisburn,County Antrim
+BT29,"Belfast, Crumlin, Aldergrove, Dundrod, Glenavy, Nutts Corner",County Antrim
+BT30,"Downpatrick, Ardglass, Ballyhornan, Ballykinler, Castleward, Clough, Crossgar, Kilclief, Killard, Killough, Killyleagh, Loughinisland, Seaforde, Strangford, Toye",Down
+BT31,"Castlewellan, Ballyward",Down
+BT32,"Banbridge, Annaclone, Ballinaskeagh, Ballyroney, Corbet, Katesbridge, Lenaderg, Loughbrickland, Seapatrick",Banbridge
+BT33,"Newcastle, Bryansford, Dundrum",Down
+BT34,"Newry, Annalong, Ballymartin, Cabra, Hilltown, Kilcoo, Kilkeel, Mayobridge, Poyntzpass, Rathfriland, Rostrevor, Warrenpoint",Newry and Mourne
+BT35,"Jerrettspass, Bessbrook, Camlough, Crossmaglen, Belleek, Newtownhamilton",Newry and Mourne
+BT36,"Newtownabbey, Mossley, Glengormley",Newtownabbey
+BT37,Newtownabbey,Newtownabbey
+BT38,"Carrickfergus, Ballycarry, Greenisland, Kilroot, Whitehead",Carrickfergus
+BT39,"Ballyclare, Ballynure, Doagh, Parkgate, Straid, Templepatrick",Newtownabbey
+BT40,"Larne, Ballygally, Gleno, Glynn, Islandmagee, Kilwaughter, Magheramorne, Millbrook",Larne
+BT41,"Antrim, Dunadry, Muckamore, Randalstown, Toomebridge",Antrim
+BT42,"Broughshane, Cullybackey, Galgorm, Kells",Ballymena
+BT43,"Cargan, Knockanully",Ballymena
+BT44,"Portglenone, Carnlough, Glenarm, Clogh Mills, Rasharkin, Glenariff/Waterfoot, Cushendun, Cushendall, Dunloy, Loughguile, Glarryford",Ballymena
+BT45,"Magherafelt, Ballyronan, Bellaghy, Castledawson, Desertmartin, Draperstown, Knockloughrim, Moneymore, Tobermore, Fallalea, Fallaghloon",Magherafelt
+BT46,"Maghera, Lisnamuck, Swatragh, Upperlands",Magherafelt
+BT47,"Derry, Waterside, Claudy, Feeny, Dungiven, Eglinton, Park, New Buildings",Derry
+BT48,"Derry, Cityside, Ballynagard, Coshquin, Rosemount, The Collon, Culmore",Derry
+BT49,"Limavady, Ballykelly",Limavady
+BT51,"Coleraine, Aghadowey, Articlave, Bellany, Blackhill, Castlerock, Castleroe, Garvagh, Kilrea, Macosquin, Ringsend",Coleraine
+BT52,"Coleraine, Ballyvelton, Cloyfin",Coleraine
+BT53,"Ballymoney, Dervock, Armoy, Ballybogy",Ballymoney
+BT54,"Ballycastle, Ballintoy, Ballypatrick, Ballyvoy, Cape Castle, Glenshesk, Maghercashel, Maghernahar, Moyarget, Torr, Rathlin Island",Moyle
+BT55,Portstewart,Coleraine
+BT56,"Portrush, Craigahullier, Urbalreagh",Coleraine
+BT57,"Bushmills, Castlecatt, Dunseverick, Portballintrae",Moyle
+BT58,Non-geographic,Newtownabbey
+BT60,"Killylea, Tynan, Belcoo, Middletown, Keady, Darkley, Markethill, Kingsmills",Armagh
+BT61,"Armagh, Collone, Hamiltonsbawn, Kilmore, Loughgall, Richhill",Armagh
+BT62,"Craigavon, Portadown, Tandragee, Clare, Scotch Street",Craigavon
+BT63,"Gilford, Laurencetown, Portadown, Scarva",Craigavon
+BT64,"Craigavon, Knockmenagh, Mandeville",Craigavon
+BT65,"Craigavon, Drumgor, Legaghory, Tullygally, Brownlow.",Craigavon
+BT66,"Derryadd, Derrytrasna, Dollingstown, Donaghcloney, Lurgan, Waringstown",Craigavon
+BT67,"Aghagallon, Aghalee, Gawley's Gate, Lurgan, Magheralin, Moira",Craigavon
+BT68,"Caledon, Minterburn",Dungannon and South Tyrone
+BT69,"Aughnacloy, Carnteel",Dungannon and South Tyrone
+BT70,"Dungannon, Ballygawley, Cappagh, Castlecaulfield, Donaghmore, Galbally, Garvaghy, Pomeroy, Rock, Seskilgreen",Dungannon and South Tyrone
+BT71,"Dungannon, Benburb, Blackwatertown, Bush, Coalisland, Killycolpy, Ardboe, Moygashel, Stewartstown",Dungannon and South Tyrone
+BT74,"Enniskillen town, Boho",Fermanagh
+BT75,"Fivemiletown, Clabby",Fermanagh
+BT76,Clogher,Dungannon and South Tyrone
+BT77,Augher,Dungannon and South Tyrone
+BT78,"Omagh, Dromore, Drumquin, Eskra, Fintona, Killynure, Newtownstewart, Seskanore, Trillick",Omagh
+BT79,"Omagh, Drumlea, Glengawna, Gortin, Mountfield, Plumbridge, Rosnamuck, Sheskinshule, Sixmilecross",Omagh
+BT80,"Cookstown, Coagh, Tullyhogue",Cookstown
+BT81,"Castlederg, Aghyaran, Clare, Garvetagh, Killen, Killeter, Mournebeg, Scraghey, Spamount",Strabane
+BT82,"Strabane, Artigarvan, Ballymagorry, Bready, Clady, Douglas Bridge, Dunamanagh, Sion Mills, Victoria Bridge",Strabane
+BT92,"Lisnaskea, Florencecourt, Derrylin, Newtownbutler",Fermanagh
+BT93,"Belleek, Belcoo, Kesh, Derrygonnelly, Garrison",Fermanagh
+BT94,"Irvinestown, Ballinamallard, Brookeborough, Tempo, Maguiresbridge, Lisbellaw",Fermanagh
+BT99,Non-geographic,Belfast
+CA1,Carlisle East,Carlisle
+CA2,Carlisle South West,Carlisle
+CA3,Carlisle North,Carlisle
+CA4,"Warwick Bridge, Wetheral, Cumwhinton, Armathwaite",Carlisle
+CA5,"Dalston, Burgh by Sands",Carlisle
+CA6,"Longtown, Bewcastle",Carlisle
+CA7,"Wigton, Silloth, Aspatria, Caldbeck, Hesket Newmarket",Allerdale
+CA8,"Brampton, Gilsland, Greenhead, Slaggyford",Carlisle
+CA9,"Alston, Garrigill, Nenthead",Eden
+CA10,"Penrith Carleton Hall area, Shap, Tebay, Langwathby, Lazonby, Pooley Bridge",Eden
+CA11,"Penrith, Stainton, Mungrisdale, Glenridding, Patterdale",Eden
+CA12,"Keswick, Seatoller, Braithwaite, Bassenthwaite, Threlkeld",Allerdale
+CA13,"Cockermouth, Lorton, Buttermere",Allerdale
+CA14,"Workington, Distington, Seaton",Allerdale
+CA15,"Maryport, Dearham, Flimby, Allonby",Allerdale
+CA16,Appleby-in-Westmorland,Eden
+CA17,"Kirkby Stephen, Brough, Ravenstonedale",Eden
+CA18,Ravenglass,Copeland
+CA19,"Holmrook, Santon Bridge, Eskdale",Copeland
+CA20,"Seascale, Sellafield, Gosforth, Wasdale Head",Copeland
+CA21,Beckermet,Copeland
+CA22,"Egremont, Thornhill",Copeland
+CA23,Ennerdale Bridge,Copeland
+CA24,Moor Row,Copeland
+CA25,Cleator Moor,Copeland
+CA26,"Frizington, Croasdale",Copeland
+CA27,Saint Bees,Copeland
+CA28,"Whitehaven, Sandwith",Copeland
+CA95,Non-geographic,Allerdale
+CA99,Non-geographic,Carlisle
+CB1,"Cambridge (Central and South), Teversham",Cambridge
+CB2,Cambridge (West),Cambridge
+CB3,"Cambridge (North-West), Girton",Cambridge
+CB4,Cambridge (North),Cambridge
+CB5,Cambridge (East),Cambridge
+CB6,"Aldreth, Apes Hall, Chettisham, Coveney, Ely, Haddenham, Little Downham, Little Thetford, Littleport, Mepal, Pymore, Stretham, Sutton, Wardy Hill, Wentworth, Wilburton, Witcham, Witchford",Ely
+CB7,"Barway, Brandon Bank, Brandon Creek, Broad Hill, Chippenham, Down Field, Ely, Fordham, Isleham, Prickwillow, Queen Adelaide, River Bank, Soham, Stuntney, Upware, Wicken",Ely
+CB8,"Ashley, Brinkley, Burrough End, Burrough Green, Carlton, Cheveley, Clopton Green, Cowlinge, Dalham, Denston, Ditton Green, Dullingham, Dunstall Green, Exning, Gazeley, Great Bradley, Kennett, Kentford, Kirtling, Kirtling Green, Lady's Green, Landwade, Lidgate, Moulton, Newmarket, Ousden, Saxon Street, Six Mile Bottom, Snailwell, Stetchworth, Stradishall, Thorns, Upend, Westley Waterless, Wickhambr",Newmarket
+CB9,"Barnardiston, Great Thurlow, Great Wratting, Haverhill, Helions Bumpstead, Kedington, Little Bradley, Little Thurlow, Little Wratting, Steeple Bumpstead, Sturmer, Withersfield",St Edmundsbury
+CB10,"Ashdon, Church End, Great Chesterford, Great Sampford, Hempstead, Hinxton, Howlett End, Ickleton, Little Chesterford, Little Sampford, Little Walden, Radwinter, Red Oaks Hill, Saffron Walden, Sewards End, Wimbish, Wimbish Green",Uttlesford
+CB11,"Arkesden, Audley End, Clavering, Debden, Debden Green, Duddenhoe End, Elmdon, Langley, Littlebury, Littlebury Green, Newport, Pond Street, Quendon, Rickling, Rickling Green, Shortgrove, Starling's Green, Strethall, Upper Green, Wendens Ambo, Wicken Bonhunt, Widdington",Uttlesford
+CB21,"Fulbourn, Great and Little Wilbraham, West Wratting, Weston Colville, Teversham, Abington (incl. Little), Hildersham, Barlow, Hadstock, Horseheath, Shudy Camps, West Wickham, Castle Camps, Balsham, Linton",Cambridge
+CB22,"Babraham, Sawston, Pampisford, Duxford, Whittlesford, Great and Little Shelford, Stapleford, Harston, Barrington, Hauxton, Newton, Foxton",Cambridge
+CB23,"Cambourne (incl. Great and Lower), Barton, Comberton, Harlton, Great and Little Eversden, Bourn, Highfields Caldecote, Coton, Haslingfield, Kingston, Hardwick, Toft, Longstowe, Madingley, Dry Drayton, Papworth Everard, Lolworth, Bar Hill, Elsworth, Knapwell, Conington, Boxworth, Caxton, Papworth Saint Agnes",Cambridge
+CB24,"Histon, Impington, Oakington, Longstanton, Willingham, Swavesey, Over, Fen Drayton, Milton, Rampton, Cottenham",Cambridge
+CB25,"Cottenham, Landbeach, Rampton, Histon, Impington, Burwell, Swaffham Bulbeck, Swaffham Prior, Stow-Cum-Quy, Bottisham, Lode, Waterbeach, Horningsea, Chittering",Cambridge
+CF1,Cardiff,Cardiff
+CF2,Cardiff,Cardiff
+CF3,"Rumney, Trowbridge, Llanrumney, St Mellons, Castleton, Marshfield",Cardiff
+CF4,Cardiff,Cardiff
+CF5,"Ely, Caerau, St Fagans, Culverhouse Cross, Canton, Leckwith, Fairwater, Danescourt, Llandaff, Riverside, Wenvoe, Peterston Super Ely, St Georges Super Ely, Michaelston",Cardiff
+CF6,"Barry, Penarth",Cardiff
+CF7,"Llantrisant, Cowbridge",Cardiff
+CF8,"Caerphilly, Bargoed, Rhymney",Cardiff
+CF10,"Cardiff city centre, Grangetown, Cardiff Bay, Butetown",Cardiff
+CF11,"Cardiff city centre, Canton, Cardiff Bay, Grangetown",Cardiff
+CF14,"Whitchurch, Thornhill, Lisvane, Rhiwbina, Pantmawr, Gabalfa, Heath, Llandaff North",Cardiff
+CF15,"Pentyrch, Gwaelod-y-Garth, Creigiau, Radyr, Morganstown, Tongwynlais, Taffs Well, Nantgarw",Cardiff
+CF21,Non-geographic,Cardiff
+CF23,"Llanishen, Cyncoed, Pentwyn, Penylan, Pontprennau, Old St Mellons",Cardiff
+CF24,"Cardiff city centre, Cathays, Roath, Plasnewydd, Splott, Adamsdown",Cardiff
+CF30,Non-geographic,Cardiff
+CF31,"Bridgend, Brackla, Coity, Pen-y-Fai",Bridgend
+CF32,"Cefn Cribwr, Laleston, Merthyr Mawr, Ogmore Vale, Tondu, Sarn, Ynysawdre, St Brides Minor, Pontycymer, Llangeinor, Garw Valley, Blaengarw, Blackmill, Bettws, Aberkenfig, St Brides Major",Bridgend
+CF33,"Cornelly, Pyle",Bridgend
+CF34,"Maesteg, Llangynwyd, Caerau, Nantyffyllon",Bridgend
+CF35,"Pencoed, Coychurch, Llangan, Ewenny",Bridgend
+CF36,"Porthcawl, Nottage, Newton",Bridgend
+CF37,"Pontypridd, Cilfynydd, Glyncoch, Graig, Treforest, Hopkinstown, Trallwng, Maesycoed, Pwllgwaun, Hawthorn, Rhydfelen, Trehafod, Ynysybwl, Coed-y-Cwm",Rhondda Cynon Taf
+CF38,"Llantwit Fardre, Church village, Tonteg, Efail Isaf, Beddau, Ty Nant",Rhondda Cynon Taf
+CF39,"Porth, Llwyncelyn, Cymmer, Glynfach, Trebanog, Ynyshir, Wattstown, Dinas, Tonyrefail, Coed Ely, Thomastown, Gilfach Goch, Evanstown",Rhondda Cynon Taf
+CF40,"Tonypandy, Trealaw, Penygraig, Dinas, Williamstown, Cwm Clydach, Llwynypia, Penrhiwfer",Rhondda Cynon Taf
+CF41,"Pentre, Ton Pentre, Ystrad, Gelli",Rhondda Cynon Taf
+CF42,"Treorchy, Cwmparc, Ynyswen, Treherbert, Blaencwm, Blaenrhondda",Rhondda Cynon Taf
+CF43,"Ferndale, Blaenllechau, Tylorstown, Penrhys, Pontygwaith, Stanleytown, Maerdy",Rhondda Cynon Taf
+CF44,"Aberdare, Cwmaman, Aberaman, Llwydcoed, Cwmbach, Hirwaun, Penywaun, Rhigos, Penderyn",Rhondda Cynon Taf
+CF45,"Mountain Ash, Abercynon, Penrhiwceiber",Rhondda Cynon Taf
+CF46,"Treharris, Quakers Yard, Bedlinog, Nelson",Merthyr Tydfil
+CF47,"Merthyr Tydfil, Gurnos, Penydarren",Merthyr Tydfil
+CF48,"Cyfarthfa, Pant, Merthyr Vale, Troed-y-rhiw, Vaynor, Pentrebach",Merthyr Tydfil
+CF61,"Llantwit Major, Llan-maes",Vale of Glamorgan
+CF62,"Barry, Rhoose, St Athan, Llancarfan, Barry Island",Vale of Glamorgan
+CF63,"Barry, Cadoxton, Barry Docks",Vale of Glamorgan
+CF64,"Penarth, Dinas Powys, Sully, Llandough",Vale of Glamorgan
+CF71,"Cowbridge, St Brides Major, Welsh St Donats, Pendoylan, Llandow, Colwinston, Llanblethian, Penllyn, Llanfair",Vale of Glamorgan
+CF72,"Pontyclun, Llantrisant, Llanharan, Talbot Green, Brynsadler, Miskin, Brynna, Llanharry",Rhondda Cynon Taf
+CF81,"Bargoed, Aberbargoed, Darran Valley, Gilfach, Pontlottyn",Caerphilly
+CF82,"Hengoed, Cefn Hengoed, Ystad Mynach, Gelligaer, Maesycwmmer",Caerphilly
+CF83,"Caerphilly, Abertridwr, Senghenydd, Bedwas, Trethomas, Machen, Llanbradach, Pwllypant, Penyrheol, Energlyn, Trecenydd, Rudry",Caerphilly
+CF91,Non-geographic,Cardiff
+CF95,Non-geographic,Cardiff
+CF99,Non-geographic,Cardiff
+CH1,"Blacon, Chester, Higher Ferry, Capenhurst, Backford",Cheshire West and Chester
+CH2,"Backford, Chester, Elton, Hoole, Ince, Mickle Trafford, Moston",Cheshire West and Chester
+CH3,"Boughton, Chester, Huntington, Mouldsworth, Tarvin, Tattenhall, Farndon",Cheshire West and Chester
+CH4,"Chester, Handbridge, Lache, Pulford, Penyffordd, Broughton, Saltney",Cheshire West and Chester
+CH5,"Connah's Quay, Shotton, Queensferry, Sealand, Sandycroft, Dobshill, Ewloe",Flintshire
+CH6,"Flint, Oakenholt, Flint Mountain, The Nant, Bagillt",Flintshire
+CH7,"Buckley, Leeswood, Treuddyn, Llanarmon-yn-Ial, Caerwys, Mold, Northop Hall, Drury",Flintshire
+CH8,"Holywell, Milwr, Holway, Carmel, Lloc, Bryn Celyn, Greenfield, Halkyn, Lixwm, Talacre",Flintshire
+CH25,"Non-geographic, Birkenhead",Wirral
+CH26,"Non-geographic, Prenton",Wirral
+CH27,Wallasey,Wirral
+CH28,"Non-geographic, Moreton",Wirral
+CH29,"Non-geographic, Hoylake",Wirral
+CH30,"Non-geographic, Upton",Wirral
+CH31,"Non-geographic, Heswall",Wirral
+CH32,"Non-geographic, New Ferry",Wirral
+CH33,"Non-geographic, Neston",Cheshire West and Chester
+CH34,Ellesmere Port,Cheshire West and Chester
+CH41,"Birkenhead, Claughton, Seacombe, Tranmere, Woodside",Wirral
+CH42,"Birkenhead, Oxton, Prenton, Rock Ferry",Wirral
+CH43,"Bidston, Noctorum, Oxton, Prenton",Wirral
+CH44,"Egremont, Liscard, Poulton, Seacombe, Wallasey",Wirral
+CH45,"New Brighton, Wallasey, Wallasey Village",Wirral
+CH46,"Leasowe, Moreton",Wirral
+CH47,"Hoylake, Meols, Saughall Massie, West Kirby",Wirral
+CH48,"Caldy, Frankby, Grange, Greasby, Hoylake, Meols, Newton, Saughall Massie, West Kirby",Wirral
+CH49,"Greasby, Landican, Upton, Woodchurch",Wirral
+CH60,"Gayton, Heswall",Wirral
+CH61,"Barnston, Heswall, Irby, Pensby, Thingwall, Thurstaston",Wirral
+CH62,"Bromborough, Eastham, New Ferry, Port Sunlight, Spital",Wirral
+CH63,"Bebington, Brimstage, Bromborough, Clatterbridge, Higher Bebington, Raby, Raby Mere, Spital, Storeton, Thornton Hough",Wirral
+CH64,"Little Neston, Ness, Neston, Parkgate, Puddington, Willaston",Cheshire West and Chester
+CH65,"Ellesmere Port, Great Sutton, Whitby, Wolverham",Cheshire West and Chester
+CH66,"Childer Thornton, Ellesmere Port, Great Sutton, Hooton, Ledsham, Little Sutton, Overpool, Whitby",Cheshire West and Chester
+CH70,Department for Work and Pensions,Chester
+CH88,North West Securities Bank,Chester
+CH99,"Benefits Agency, St. Michaels Financial Services & Chargecard",Chester
+CM0,"Southminster, Bradwell, Tillingham, Asheldham, Dengie, Burnham-on-Crouch, Tillingham",Maldon
+CM1,"Chelmsford, Writtle",Chelmsford
+CM2,Chelmsford,Chelmsford
+CM3,"Hatfield Peverel, South Woodham Ferrers, Boreham, Maylandsea",Chelmsford
+CM4,"Blackmore, Fryerning, Ingatestone, Stock",Brentwood
+CM5,"Chipping Ongar, High Ongar, Bobbingworth, Moreton, The Lavers, The Rodings",Epping Forest
+CM6,"Great Dunmow, Felsted",Uttlesford
+CM7,Braintree,Braintree
+CM8,Witham,Braintree
+CM9,"Maldon, Tollesbury, Tolleshunt D'Arcy, Tolleshunt Knights",Maldon
+CM11,"Billericay (East), Great Burstead",Basildon
+CM12,Billericay (West),Basildon
+CM13,"Brentwood, East Horndon, Great Warley, Herongate, Hutton, Ingrave, Little Warley, West Horndon",Brentwood
+CM14,Brentwood,Brentwood
+CM15,"Brentwood, Doddinghurst, Kelvedon Hatch, Mountnessing, Shenfield, Stondon Massey",Brentwood
+CM16,"Epping, Theydon Bois",Epping Forest
+CM17,"Harlow, Old Harlow, Matching, Matching Tye, Matching Green",Harlow
+CM18,Harlow,Harlow
+CM19,"Harlow, Roydon",Harlow
+CM20,Harlow,Harlow
+CM21,Sawbridgeworth,East Hertfordshire
+CM22,"Bishop's Stortford, Sheering",East Hertfordshire
+CM23,Bishop's Stortford,East Hertfordshire
+CM24,Stansted Mountfitchet,Uttlesford
+CM77,"Braintree, Great Notley, Rayne",Braintree
+CM92,Non-geographic,Harlow
+CM98,Non-geographic,Chelmsford
+CM99,Chelmsford,Chelmsford
+CO1,Colchester,Colchester
+CO2,Colchester,Colchester
+CO3,Colchester,Colchester
+CO4,Colchester,Colchester
+CO5,Colchester,Colchester
+CO6,Colchester,Colchester
+CO7,"Wivenhoe, Great Bentley",Colchester
+CO8,Bures,Colchester
+CO9,Halstead,Braintree
+CO10,Sudbury,Babergh
+CO11,Manningtree,Tendring
+CO12,Harwich,Tendring
+CO13,Frinton-on-Sea,Tendring
+CO14,Walton On The Naze,Tendring
+CO15,Clacton-on-Sea,Tendring
+CO16,Clacton-on-Sea,Tendring
+CR0,"Croydon, Addiscombe, Shirley, Addington, New Addington, Forestdale, Waddon",Croydon
+CR2,"South Croydon, Sanderstead, Selsdon, Addington",Croydon
+CR3,"Caterham, Whyteleafe, Chaldon, Woldingham",Croydon
+CR4,"Mitcham, Beddington Corner",Merton
+CR5,"Coulsdon, Chipstead, Woodmansterne",Croydon
+CR6,"Warlingham, Chelsham, Farleigh",Croydon
+CR7,Thornton Heath,Croydon
+CR8,"Purley, Kenley",Croydon
+CR9,Non-geographic,Croydon
+CR44,Non-geographic,Croydon
+CR90,Non-geographic,Croydon
+CT1,Canterbury,Kent
+CT2,Sturry,Canterbury
+CT3,Canterbury,Kent
+CT4,Canterbury,Kent
+CT5,Whitstable,Kent
+CT6,Herne Bay,Kent
+CT7,Birchington,Kent
+CT8,Westgate-on-sea,Kent
+CT9,Margate,Kent
+CT10,"Pysons Road Industrial Estate, St Peters",Broadstairs
+CT11,Ramsgate,Kent
+CT12,Minster,Ramsgate
+CT13,Sandwich,Kent
+CT14,Deal,Kent
+CT15,Dover,Kent
+CT16,Dover,Kent
+CT17,Dover,Kent
+CT18,"Hawkinge, Lyminge, Etchinghill, Capel-le-Ferne",Folkestone
+CT19,"Central Folkestone, Cheriton",Folkestone
+CT20,Central Folkestone,Folkestone
+CT21,Hythe,Kent
+CT50,Folkestone,Kent
+CV1,"Coventry City Centre, Gosford Green, Hillfields, Spon End, Coventry University",Coventry
+CV2,"Walsgrave, Wyken, Stoke, Bell Green, Wood End, Potters Green, Aldermans Green, Clifford Park, Woodway Park",Coventry
+CV3,"Binley, Whitley, Willenhall, Cheylesmore, Styvechale, Finham, Fenside, Stoke Aldermoor, Green Lane, Ernesford Grange, Binley Woods",Coventry
+CV4,"Tile Hill, Canley, Cannon Park, Lime Tree Park, Gibbet Hill, Westwood Heath, University of Warwick",Coventry
+CV5,"Allesley, Allesley Park, Allesley Green, Earlsdon, Eastern Green, Whoberley, Chapelfields, Mount Nod, Brownshill Green",Coventry
+CV6,"Holbrooks, Coundon, Radford, Longford, Rowley's Green, Whitmore Park, Hawkesbury",Coventry
+CV7,"Exhall, Ash Green, Keresley, Meriden, Balsall Common, Berkswell, Corley, Arley, Ansty, Shilton, Fillongley",Coventry
+CV8,"Kenilworth, Baginton, Bubbenhall, Brandon, Stoneleigh, Wolston, Ryton-On-Dunsmore, Ashow",Warwick
+CV9,"Atherstone, Mancetter, Grendon, Baddesley Ensor, Baxterley, Hurley, Witherley, Wood End, Twycross",North Warwickshire
+CV10,"Weddington, Stockingford, Camp Hill, Galley Common, Grove Farm, Whittleford, Chapel End, Bermuda Village, Caldecote, Fenny Drayton, Hartshill, Ansley, Astley, Oldbury, Ridge Lane",Nuneaton & Bedworth
+CV11,"Nuneaton town centre, Abbey Green, St Nicolas Park, Horeston Grange, Attleborough, Whitestone, Hill Top, Chilvers Coton, Caldwell, Burton Hastings, Bramcote",Nuneaton & Bedworth
+CV12,"Bedworth, Bulkington",Nuneaton & Bedworth
+CV13,"Barlestone, Barton in the Beans, Bilstone, Cadeby, Carlton, Congerstone, Dadlington, Fenny Drayton, Higham on the Hill, Market Bosworth, Nailstone, Odstone, Osbaston, Shackerstone, Shenton, Stoke Golding, Sutton Cheney, Upton, Wellsborough",Hinckley and Bosworth
+CV21,Rugby E,Rugby
+CV22,Rugby SW,Rugby
+CV23,"Brownsover, Dunchurch, Thurlaston, Princethorpe, Brinklow, Long Lawford, Stretton-under-Fosse, Monks Kirby",Rugby
+CV31,"Leamington Spa S, Whitnash, Radford Semele",Warwick
+CV32,Leamington Spa N,Warwick
+CV33,Harbury,Warwick
+CV34,Warwick,Warwick
+CV35,"Wellesbourne, Kineton",Warwick
+CV36,Shipston-on-Stour,Stratford-on-Avon
+CV37,Stratford-Upon-Avon,Stratford-on-Avon
+CV47,Southam,Stratford-on-Avon
+CW1,Crewe,Cheshire East
+CW2,Crewe,Cheshire East
+CW3,Crewe,Cheshire East
+CW4,"Holmes Chapel, Goostrey",Cheshire East
+CW5,"Nantwich, Willaston",Cheshire East
+CW6,Tarporley,Cheshire West and Chester
+CW7,Winsford,Cheshire West and Chester
+CW8,Northwich,Cheshire West and Chester
+CW9,"Northwich, Wincham, Pickmere",Cheshire West and Chester
+CW10,Middlewich,Cheshire East
+CW11,Sandbach,Cheshire East
+CW12,Congleton,Cheshire East
+CW98,Non-geographic,Cheshire East
+DA1,"Dartford, Crayford, Barnes Cray",Dartford
+DA2,"Dartford, Stone, Joydens Wood, Wilmington, Bean",Dartford
+DA3,"Longfield, Hartley, Fawkham",Dartford
+DA4,"Dartford, South Darenth, Farningham, Eynsford",Dartford
+DA5,"Bexley, Albany Park, Joydens Wood",Bexley
+DA6,"Bexleyheath, Upton",Bexley
+DA7,"Bexleyheath, Barnehurst",Bexley
+DA8,"Erith, Northumberland Heath, Slade Green",Bexley
+DA9,"Greenhithe, Stone",Dartford
+DA10,"Swanscombe, Ebbsfleet",Dartford
+DA11,"Gravesend (west), Northfleet",Gravesham
+DA12,Gravesend (east),Gravesham
+DA13,Meopham,Gravesham
+DA14,"Sidcup, Foots Cray, Albany Park, Longlands",Bexley
+DA15,"Sidcup, Blackfen, Longlands, Lamorbey, Avery Hill",Bexley
+DA16,"Welling, Falconwood, East Wickham",Bexley
+DA17,"Belvedere, Lessness Heath",Bexley
+DA18,"Erith Marshes, Thamesmead",Bexley
+DD1,Dundee city centre,Dundee
+DD2,"Lochee, Blackness, Ninewells, Menziehill, Charleston, Balgay, Ardler, Logie",Dundee
+DD3,"St Marys, Downfield, Kirkton, Strathmartine, Coldside, Hilltown",Dundee
+DD4,"Stobswell, Craigie, Pitkerro, Douglas, Fintry, Whitfield",Dundee
+DD5,"Broughty Ferry, Barnhill, Monifieth",Dundee
+DD6,"Newport-on-Tay, Wormit, Balmerino, Gauldry, Tayport",Fife
+DD7,Carnoustie,Angus
+DD8,"Forfar, Glamis, Kirriemuir",Angus
+DD9,Brechin,Angus
+DD10,"Montrose, St Cyrus, Inverbervie, Gourdon",Angus
+DD11,"Arbroath, Friockheim",Angus
+DE1,Derby city centre,Derby
+DE2,Derby,Derby
+DE3,Mickleover,Derby
+DE4,"Darley Dale, Beeley, Rowsley, Winster, Darley Bridge, Elton, Bonsall, Matlock, Matlock Bath, Cromford, Middleton-by-Wirksworth, Wirksworth, Bolehill, Crich, Holloway, Lea, Tansley",Derbyshire Dales
+DE5,"Codnor, Denby, Ripley",Amber Valley
+DE6,"Ashbourne, Hulland Ward, Weston Underwood",Derbyshire Dales
+DE7,"Horsley Woodhouse, Ilkeston, Morley, West Hallam",Erewash
+DE11,"Church Gresley, Hartshorne, Newhall, Swadlincote",South Derbyshire
+DE12,"Appleby Magna, Linton, Measham, Overseal, Rosliston, Walton-on-Trent",South Derbyshire
+DE13,"Alrewas, Barton-under-Needwood, Rolleston on Dove, Tutbury",East Staffordshire
+DE14,"Branston, Burton upon Trent, Newton Solney, Winshill",East Staffordshire
+DE15,"Bretby, Stapenhill",East Staffordshire
+DE21,"Chaddesden, Oakwood, Spondon, Breadsall, Horsley, Little Eaton",Derby
+DE22,"Allestree, Darley Abbey, Mackworth Estate, Kedleston, Mackworth, Quarndon",Derby
+DE23,"Heatherton Village, Littleover, Normanton, Pear Tree",Derby
+DE24,"Allenton, Alvaston, Boulton, Osmaston, Shelton Lock, Sinfin, Wilmorton, Stenson Fields",Derby
+DE45,"Ashford-in-the-Water, Bakewell, Baslow, Chatsworth, Edensor, Hassop, Monyash, Youlgreave",Derbyshire Dales
+DE55,"Swanwick, South Normanton Alfreton, Riddings, Leabrooks, Somercotes, Tibshelf, Newton, Blackwell, Bolsover, Hilcote, Wessington, Higham, Stonebroom, Morton, Derbyshire, Shirland, Alfreton, South Wingfield",Amber Valley
+DE56,"Ambergate, Belper, Duffield, Heage, Holbrook, Kilburn, Milford",Amber Valley
+DE65,"Burnaston, Egginton, Etwall, Findern, Hatton, Hilton, Milton, Repton, Willington",South Derbyshire
+DE72,"Ambaston, Aston-on-Trent, Borrowash, Breaston, Church Wilne, Draycott, Elvaston, Ockbrook, Risley, Shardlow, Weston-on-Trent",Erewash
+DE73,"Chellaston, Barrow upon Trent, Ingleby, Melbourne, Stanton by Bridge, Swarkestone, Ticknall",Derby
+DE74,"Castle Donington, Hemington, Kegworth",North West Leicestershire
+DE75,"Heanor, Loscoe",Amber Valley
+DE99,Non-geographic,Derby
+DG1,Dumfries,Dumfriesshire
+DG2,Dumfries,Dumfriesshire
+DG3,Thornhill,Dumfriesshire
+DG4,Sanquhar,Dumfriesshire
+DG5,Dalbeattie,Kirkcudbrightshire
+DG6,Kirkcudbright,Kirkcudbrightshire
+DG7,Castle Douglas,Kirkcudbrightshire
+DG8,Newton Stewart,Wigtownshire
+DG9,Stranraer,Wigtownshire
+DG10,Moffat,Dumfriesshire
+DG11,Lockerbie,Dumfriesshire
+DG12,Annan,Dumfriesshire
+DG13,Langholm,Dumfriesshire
+DG14,Canonbie,Dumfriesshire
+DG16,Gretna,Dumfriesshire
+DH1,Durham,County Durham
+DH2,"Chester-le-Street, Ouston, Pelton, Birtley",County Durham
+DH3,"Chester-le-Street, Great Lumley, Birtley",County Durham
+DH4,Houghton-le-Spring,Sunderland
+DH5,"Houghton-le-Spring, Hetton-le-Hole",Sunderland
+DH6,"Thornley, Coxhoe",County Durham
+DH7,"Brandon, Lanchester, Esh Winning, Burnhope, Langley Park, Sacriston, Ushaw Moor",County Durham
+DH8,"Consett, Ebchester",County Durham
+DH9,"Dipton, Stanley",County Durham
+DH97,Durham,County Durham
+DH98,Durham,County Durham
+DH99,Durham,County Durham
+DL1,Darlington East,Darlington
+DL2,"Staindrop, Gainford, Darlington",Darlington
+DL3,Darlington West,Darlington
+DL4,Shildon,County Durham
+DL5,"Newton Aycliffe, Heighington",County Durham
+DL6,"Northallerton East, Ingleby Cross",North Yorkshire
+DL7,Northallerton West,North Yorkshire
+DL8,"Wensleydale, Bedale",North Yorkshire
+DL9,Catterick Garrison,North Yorkshire
+DL10,"Richmond, Catterick, Brompton-upon-Swale, Scotch Corner",North Yorkshire
+DL11,"Swaledale, Arkengarthdale",North Yorkshire
+DL12,"Barnard Castle, Bowes, Middleton-in-Teesdale",County Durham
+DL13,"Stanhope, Frosterley, Wolsingham, Tow Law",County Durham
+DL14,"Bishop Auckland, Evenwood",County Durham
+DL15,"Crook, Willington",County Durham
+DL16,Spennymoor,County Durham
+DL17,"Ferryhill, Chilton, Cornforth, Bishop Middleham",County Durham
+DL98,Non-geographic,County Durham
+DN1,Doncaster town centre,Doncaster
+DN2,"Intake, Wheatley, Wheatley Hills",Doncaster
+DN3,"Armthorpe, Barnby Dun, Branton, Edenthorpe, Kirk Sandall",Doncaster
+DN4,"Balby, Belle Vue, Bessacarr, Cantley, Hexthorpe, Hyde Park, Warmsworth",Doncaster
+DN5,"Arksey, Barnburgh, Bentley, Cusworth, Harlington, Scawsby, Scawthorpe, Sprotborough, Toll Bar",Doncaster
+DN6,"Adwick-le-Street, Askern, Campsall, Moss, Norton, Sutton, Walden Stubbs, Woodlands",Doncaster
+DN7,"Dunsville, Hatfield, Lindholme, Stainforth",Doncaster
+DN8,Thorne,Doncaster
+DN9,"Epworth, Finningley, Haxey, Owston Ferry",Doncaster
+DN10,"Bawtry, Misson, Misterton, Scrooby",Doncaster
+DN11,"Harworth, New Rossington, Rossington, Tickhill, Wadworth",Doncaster
+DN12,"Conisbrough, Denaby Main, New Edlington, Old Denaby, Old Edlington",Doncaster
+DN14,"Goole, Howden, Rawcliffe, Carlton",East Riding of Yorkshire
+DN15,"Alkborough, Appleby, Burton upon Stather, Coleby, Dragonby, Flixborough, Flixborough Ind Estate, Foxhills Ind Estate, Gunness, High Risby, High Santon, Low Risby, Low Santon, Normanby, Roxby, Scunthorpe, Thealby, West Halton, Whitton, Wintringham, Winterton",North Lincolnshire
+DN16,"Bottesford, Holme, Queensway Ind Estate, Raventhorpe, Scunthorpe, Twigmoor",North Lincolnshire
+DN17,"Althorpe, Amcotts, Bottesford Moor, Bottesford, Crowle, Derrythorpe, Ealand, East Butterwick, Eastoft, Garthorpe, Gunness, Keadby, Luddington, Messingham, North Ewster, Scunthorpe, Susworth, West Butterwick, Yaddlethorpe",North Lincolnshire
+DN18,Barton-Upon-Humber,North Lincolnshire
+DN19,Barrow-Upon-Humber,North Lincolnshire
+DN20,"Brigg, Broughton, Hibaldstow, Scawby, Wrawby",North Lincolnshire
+DN21,Gainsborough,West Lindsey
+DN22,"Ranskill, Retford",Bassetlaw
+DN31,Grimsby,North East Lincolnshire
+DN32,Grimsby,North East Lincolnshire
+DN33,Grimsby,North East Lincolnshire
+DN34,Grimsby,North East Lincolnshire
+DN35,Cleethorpes,North East Lincolnshire
+DN36,"Holton le Clay, Humberston, Ludborough, Marshchapel, New Waltham, North Cotes, North Thoresby, Tetney",North East Lincolnshire
+DN37,"Ashby-cum-Fenby, Barnoldby-le-Beck, Beelsby, Bradley, Brocklesby, Great Coates, Great Limber, Irby-upon-Humber, Laceby, Waltham",North East Lincolnshire
+DN38,"Barnetby, Grasby, Searby, Somerby",North Lincolnshire
+DN39,"Croxton, Kirmington, Ulceby, Wootton",North Lincolnshire
+DN40,"North Killingholme, South Killingholme, Habrough, Immingham, East Halton",North Lincolnshire
+DN41,"Healing, Keelby, Stallingborough",North East Lincolnshire
+DN55,"Non-geographic, Doncaster",Doncaster
+DT1,Dorchester,West Dorset
+DT2,Dorchester,West Dorset
+DT3,Weymouth,Weymouth and Portland
+DT4,Weymouth,Weymouth and Portland
+DT5,Portland,Weymouth and Portland
+DT6,Bridport,West Dorset
+DT7,Lyme Regis,West Dorset
+DT8,Beaminster,West Dorset
+DT9,Sherborne,West Dorset
+DT10,Sturminster Newton,North Dorset
+DT11,Blandford Forum,North Dorset
+DY1,"Dudley town centre, Woodsetton",Dudley
+DY2,"Dudley, Kates Hill, Netherton",Dudley
+DY3,"Sedgley, Lower Gornal, Upper Gornal, Gornalwood, Himley, Swindon, Woodsetton",Dudley
+DY4,"Tipton, Tividale, Coseley",Dudley
+DY5,"Brierley Hill, Pensnett, Quarry Bank",Dudley
+DY6,Kingswinford,Dudley
+DY7,"Kinver, Enville, Stourton",South Staffordshire
+DY8,"Stourbridge, Wollaston, Wordsley, Amblecote",Dudley
+DY9,"Lye, Pedmore, Hagley",Dudley
+DY10,Kidderminster,Wyre Forest
+DY11,Kidderminster,Wyre Forest
+DY12,Bewdley,Wyre Forest
+DY13,Stourport-on-Severn,Wyre Forest
+DY14,Cleobury Mortimer,Shropshire
+E1,"Aldgate, Bishopsgate, Whitechapel, Shoreditch, Spitalfields, Shadwell, Stepney, Mile End, Portsoken",Tower Hamlets
+E1W,Wapping,Tower Hamlets
+E2,"Bethnal Green, Haggerston, Shoreditch, Cambridge Heath",Tower Hamlets
+E3,"Bow, Bromley-by-Bow, Old Ford, Mile End, Three Mills, London Gas Museum",Tower Hamlets
+E4,"Chingford, Sewardstone, Highams Park",Waltham Forest
+E5,"Upper Clapton, Lower Clapton, Leyton, Stoke Newington",Hackney
+E6,"East Ham, Beckton, Upton Park, Barking",Newham
+E7,"Forest Gate, Stratford",Newham
+E8,"Hackney Central, Dalston, London Fields",Hackney
+E9,"Homerton, Hackney Wick, South Hackney, Hackney Marshes, Victoria Park",Hackney
+E10,"Leyton, Temple Mills, Hackney Marshes, Upper Clapton, Walthamstow Marshes",Hackney
+E11,"Leytonstone, Wanstead, Aldersbrook, Snaresbrook, Cann Hall",Waltham Forest
+E12,"Manor Park, Little Ilford, Aldersbrook",Newham
+E13,"Plaistow, West Ham, Upton Park",Newham
+E14,"Poplar, Isle of Dogs, Limehouse, Canary Wharf, Blackwall, Cubitt Town",Tower Hamlets
+E15,"Stratford, West Ham, Maryland, Leyton, Leytonstone, Temple Mills, Hackney Wick, Bow",Newham
+E16,"Silvertown, North Woolwich, Canning Town, Custom House, London City Airport",Newham
+E17,"Walthamstow, Upper Walthamstow",Waltham Forest
+E18,"Woodford, South Woodford",Redbridge
+E20,"Olympic Park, Stratford",Newham
+E77,Non-geographic,Tower Hamlets
+E98,Non-geographic,Tower Hamlets
+EC1A,St Bartholomew's Hospital,City of London
+EC1M,"Clerkenwell, Farringdon",Islington
+EC1N,Hatton Garden,Camden
+EC1P,Non-geographic,London
+EC1R,"Finsbury, Finsbury Estate",Islington
+EC1V,"Finsbury, Moorfields Eye Hospital",Islington
+EC1Y,"St Luke's, Bunhill Fields",Islington
+EC2A,Shoreditch,Hackney
+EC2M,"Broadgate, Liverpool Street",City of London
+EC2N,"Old Broad Street, Tower 42",City of London
+EC2P,Non-geographic,London
+EC2R,Bank of England,City of London
+EC2V,Guildhall,City of London
+EC2Y,Barbican,City of London
+EC3A,"St Mary Axe, Aldgate",City of London
+EC3B,City of London,London
+EC3M,"Leadenhall, Lloyd's of London, Fenchurch Street",City of London
+EC3N,"Tower Hill, Tower of London",Tower Hamlets
+EC3P,Non-geographic,London
+EC3R,"Monument, Billingsgate",City of London
+EC3V,"Royal Exchange, Lombard Street",City of London
+EC4A,Fetter Lane,City of London
+EC4M,St Paul's,City of London
+EC4N,Mansion House,City of London
+EC4P,Non-geographic,London
+EC4R,Cannon Street,City of London
+EC4V,Blackfriars,City of London
+EC4Y,Temple,City of London
+EC50,Non-geographic,London
+EC88,Non-geographic,London
+EH1,Old Town,Edinburgh
+EH2,New Town,Edinburgh
+EH3,"New Town, West End, Tollcross, Fountainbridge",Edinburgh
+EH4,"Dean Village, Comely Bank, Barnton, Cramond",Edinburgh
+EH5,Granton,Edinburgh
+EH6,"Leith, Newhaven",Edinburgh
+EH7,"Leith, Restalrig, Craigentinny",Edinburgh
+EH8,"Southside, Newington, Canongate, Northfield, Mountcastle",Edinburgh
+EH9,"Marchmont, Grange, Blackford",Edinburgh
+EH10,"Bruntsfield, Morningside, Fairmilehead",Edinburgh
+EH11,"Haymarket Station, Gorgie, Stenhouse, Sighthill",Edinburgh
+EH12,"Haymarket, Murrayfield, Corstorphine",Edinburgh
+EH13,"Colinton, Oxgangs",Edinburgh
+EH14,"Slateford, Longstone, Wester Hailes, Juniper Green, Currie, Balerno",Edinburgh
+EH15,"Portobello, Duddingston",Edinburgh
+EH16,"Liberton, Cameron Toll, Craigmillar, Niddrie",Edinburgh
+EH17,"Gilmerton, Moredun, Mortonhall",Edinburgh
+EH18,"Lasswade, Polton",Midlothian
+EH19,Bonnyrigg,Midlothian
+EH20,Loanhead,Midlothian
+EH21,"Musselburgh, Wallyford, Whitecraig",East Lothian
+EH22,"Dalkeith, Danderhall, Mayfield, Newtongrange",Midlothian
+EH23,Gorebridge,Midlothian
+EH24,Rosewell,Midlothian
+EH25,"Roslin, Bilston",Midlothian
+EH26,Penicuik,Midlothian
+EH27,Kirknewton,West Lothian
+EH28,"Newbridge, Ratho",Edinburgh
+EH29,Kirkliston,Edinburgh
+EH30,South Queensferry,Edinburgh
+EH31,Gullane,East Lothian
+EH32,"Prestonpans, Cockenzie, Port Seton",East Lothian
+EH33,Tranent,East Lothian
+EH34,Pencaitland,East Lothian
+EH35,Ormiston,East Lothian
+EH36,Humbie,East Lothian
+EH37,Pathhead,Midlothian
+EH38,"North Middleton, Heriot",Midlothian
+EH39,North Berwick,East Lothian
+EH40,East Linton,East Lothian
+EH41,Haddington,East Lothian
+EH42,"Dunbar, Broxburn, East Lothian",East Lothian
+EH43,Walkerburn,Scottish Borders
+EH44,Innerleithen,Scottish Borders
+EH45,Peebles,Scottish Borders
+EH46,West Linton,Scottish Borders
+EH47,"Whitburn, Bathgate, Fauldhouse, Stoneyburn",West Lothian
+EH48,"Armadale, Bathgate",West Lothian
+EH49,Linlithgow,West Lothian
+EH51,Bo'ness,Falkirk
+EH52,"Broxburn, West Lothian, Winchburgh",West Lothian
+EH53,"Livingston, Mid Calder, Pumpherston",West Lothian
+EH54,Livingston,West Lothian
+EH55,West Calder,West Lothian
+EH91,Edinburgh,Edinburgh
+EH95,Scottish Gas,Edinburgh
+EH99,Scottish Parliament,Edinburgh
+EN1,"Bush Hill Park, Bulls Cross, Enfield Town, Forty Hill",Enfield
+EN2,"Botany Bay, Clay Hill, Crews Hill, Bulls Cross, Enfield Chase, Enfield Town, Forty Hill",Enfield
+EN3,"Enfield Highway, Enfield Island Village, Enfield Lock, Enfield Wash, Ponders End",Enfield
+EN4,"Hadley Wood, Cockfosters, East Barnet, New Barnet",Enfield
+EN5,"High Barnet, Arkley",Barnet
+EN6,"Potters Bar, South Mimms, Cuffley, Northaw",Hertsmere
+EN7,Cheshunt,Broxbourne
+EN8,"Waltham Cross, Cheshunt",Enfield
+EN9,Waltham Abbey,Epping Forest
+EN10,Broxbourne,Broxbourne
+EN11,Hoddesdon,Broxbourne
+EN77,Non-geographic,Enfield
+EX1,Exeter city centre,Exeter
+EX2,"St Thomas, Countess Wear , Wonford",Exeter
+EX3,Exeter,Exeter
+EX4,"Exwick, St Thomas, Beacon Heath , Redhils",Exeter
+EX5,"Clyst St. Mary, Woodbury",East Devon
+EX6,"Haldon, Mamhead, Exminster",Teignbridge
+EX7,Dawlish,Exeter
+EX8,Exmouth,Exeter
+EX9,Budleigh Salterton,Exeter
+EX10,Sidmouth,Exeter
+EX11,Ottery Saint Mary,Exeter
+EX12,Seaton,Exeter
+EX13,Axminster,Exeter
+EX14,Honiton,Exeter
+EX15,"Cullompton, Plymtree",Exeter
+EX16,Tiverton,Mid Devon
+EX17,Crediton,Mid Devon
+EX18,Chulmleigh,Exeter
+EX19,Winkleigh,Exeter
+EX20,Okehampton,Exeter
+EX21,Beaworthy,Exeter
+EX22,Holsworthy,Exeter
+EX23,"Bude, Coombe, Crackington Haven, Launcells, Poundstock, Stratton",Cornwall
+EX24,Colyton,Exeter
+EX31,Barnstaple,Exeter
+EX32,Barnstaple,Exeter
+EX33,Braunton,Exeter
+EX34,"Ilfracombe, Woolacombe",Exeter
+EX35,"Lynmouth, Lynton",Exeter
+EX36,South Molton,Exeter
+EX37,Umberleigh,Exeter
+EX38,Torrington,Exeter
+EX39,"Bideford, Lundy Island",Torridge
+FK1,Falkirk,Falkirk
+FK2,"Bainsford, Polmont, Maddiston, Airth",Falkirk
+FK3,"Grangemouth, Glensburgh",Falkirk
+FK4,"Banknock, Bonnybridge, Haggs",Falkirk
+FK5,"Larbert, Stenhousemuir, Torwood",Falkirk
+FK6,"Denny, Fankerton, Stoneywood",Falkirk
+FK7,"Bannockburn, Plean, Cowie",Falkirk
+FK8,"Stirling, Gargunnock",Falkirk
+FK9,"Bridge of Allan, Lecropt",Falkirk
+FK10,"Alloa, Clackmannan, Sauchie, Tullibody",Falkirk
+FK11,Menstrie,Falkirk
+FK12,Alva,Falkirk
+FK13,"Tillicoultry, Coalsnaughton, Devonside",Falkirk
+FK14,"Dollar, Glendeven, Burnfoot",Falkirk
+FK15,Braco,Falkirk
+FK16,"Doune, Argaty, Buchany, Deanston",Falkirk
+FK17,Callander,Falkirk
+FK18,"Callander, Strathyre",Falkirk
+FK19,Lochearnhead,Falkirk
+FK20,"Crianlarich, Luib, Tyndrum",Falkirk
+FK21,"Killin, Ardeonaig, Auchmore, Clachaig, Glenlochay, Kinnell",Falkirk
+FY0,Blackpool,Blackpool
+FY1,Blackpool,Blackpool
+FY2,Bispham,Blackpool
+FY3,"Layton, Marton, Staining",Blackpool
+FY4,"Blackpool, Blackpool Airport, Marton, South Shore",Blackpool
+FY5,Thornton-Cleveleys,Wyre
+FY6,"Poulton-Le-Fylde, Hambleton, Knott End-on-Sea, Preesall, Singleton",Wyre
+FY7,Fleetwood,Wyre
+FY8,"Lytham St. Annes, Moss Side",Fylde
+G1,Merchant City,Glasgow
+G2,Blythswood Hill,Glasgow
+G3,"Anderston, Finnieston, Garnethill, Park, Woodlands, Yorkhill",Glasgow
+G4,"Calton, Cowcaddens, Drygate, Kelvinbridge, Townhead, Woodlands, Woodside",Glasgow
+G5,Gorbals,Glasgow
+G9,Non-geographic,Glasgow
+G11,"Broomhill, Partick, Partickhill",Glasgow
+G12,"West End, Cleveden, Dowanhill, Hillhead, Hyndland, Kelvindale, Botanic Gardens",Glasgow
+G13,"Anniesland, Knightswood, Yoker",Glasgow
+G14,"Whiteinch, Scotstoun",Glasgow
+G15,Drumchapel,Glasgow
+G20,"Maryhill, North Kelvinside, Ruchill",Glasgow
+G21,"Barmulloch, Cowlairs, Royston, Springburn, Sighthill",Glasgow
+G22,"Milton, Possilpark",Glasgow
+G23,"Lambhill, Summerston",Glasgow
+G31,"Dennistoun, Haghill, Parkhead",Glasgow
+G32,"Carmyle, Tollcross, Mount Vernon, Lightburn, Sandyhills",Glasgow
+G33,"Carntyne, Craigend, Cranhill, Millerston, Provanmill, Riddrie, Robroyston, Ruchazie, Stepps",Glasgow
+G34,Easterhouse,Glasgow
+G40,"Bridgeton, Calton",Glasgow
+G41,"Pollokshields, Shawlands",Glasgow
+G42,"Battlefield, Govanhill, Mount Florida, Strathbungo East",Glasgow
+G43,"Mansewood, Newlands, Pollokshaws",Glasgow
+G44,"Cathcart, Croftfoot, King's Park, Muirend, Netherlee",Glasgow
+G45,Castlemilk,Glasgow
+G46,"Giffnock, Kennishead, Thornliebank, Deaconsbank",Glasgow
+G51,"Govan, Ibrox",Glasgow
+G52,"Cardonald, Hillington, Penilee",Glasgow
+G53,"Darnley, Pollok, Crookston",Glasgow
+G58,Non-geographic,Glasgow
+G59,Non-geographic,Glasgow
+G60,"Bowling, Old Kilpatrick",West Dunbartonshire
+G61,Bearsden,East Dunbartonshire
+G62,Milngavie,East Dunbartonshire
+G63,"Balfron, Blanefield, Croftamie, Drymen, Dumgoyne, Fintry, Killearn, Strathblane",Stirling
+G64,"Bishopbriggs, Torrance",East Dunbartonshire
+G65,"Croy, Kilsyth",North Lanarkshire
+G66,"Kirkintilloch, Lennoxtown, Lenzie, Milton of Campsie",East Dunbartonshire
+G67,Cumbernauld,North Lanarkshire
+G68,"Cumbernauld, Dullatur",North Lanarkshire
+G69,"Baillieston, Garrowhill, Gartcosh, Moodiesburn, Muirhead",Glasgow
+G70,Non-geographic,North Lanarkshire
+G71,"Bothwell, Uddingston",Lanarkshire
+G72,"Blantyre, Cambuslang",South Lanarkshire
+G73,Rutherglen,South Lanarkshire
+G74,"East Kilbride, Thorntonhall",South Lanarkshire
+G75,East Kilbride,South Lanarkshire
+G76,"Busby, Clarkston, Eaglesham, Waterfoot",East Renfrewshire
+G77,Newton Mearns,East Renfrewshire
+G78,"Barrhead, Neilston, Uplawmoor",East Renfrewshire
+G79,Non-geographic ,South Lanarkshire
+G80,Non-geographic,Glasgow
+G81,"Dalmuir, Duntocher, Faifley, Hardgate",West Dunbartonshire
+G82,"Cardross, Milton",West Dunbartonshire
+G83,"Ardlui, Balloch, Bonhill, Gartocharn, Luss, Renton, Tarbet",West Dunbartonshire
+G84,"Clynder, Cove, Garelochhead, Kilcreggan, Rhu, Rosneath, Shandon",Argyll and Bute
+G90,Non-geographic,Glasgow
+GIR,Non-geographic,
+GL1,Gloucester,Gloucester
+GL2,Gloucester,Gloucester
+GL3,Gloucester,Gloucester
+GL4,Gloucester,Gloucester
+GL5,Stroud,Stroud
+GL6,"Nailsworth, Painswick",Stroud
+GL7,"Cirencester, Fairford, Lechlade",Cotswold
+GL8,Tetbury,Cotswold
+GL9,Badminton,Gloucester
+GL10,Stonehouse,Stroud
+GL11,Dursley,Stroud
+GL12,Wotton-under-Edge,Stroud
+GL13,Berkeley,Gloucester
+GL14,"Cinderford, Newnham, Westbury-on-Severn",Gloucester
+GL15,"Blakeney, Lydney",Gloucester
+GL16,Coleford,Gloucester
+GL17,"Lydbrook, Drybrook, Longhope, Mitcheldean, Ruardean",Gloucester
+GL18,"Dymock, Newent",Gloucester
+GL19,Gloucester,Gloucester
+GL20,"Tewkesbury, Bredon",Tewkesbury
+GL50,Cheltenham,Tewkesbury
+GL51,Cheltenham,Tewkesbury
+GL52,Cheltenham,Tewkesbury
+GL53,Cheltenham,Tewkesbury
+GL54,Cheltenham,Tewkesbury
+GL55,Chipping Campden,Gloucester
+GL56,Moreton-in-Marsh,Tewkesbury
+GU1,"Guildford Town Centre, Slyfield, Merrow",Guildford
+GU2,"Guildford Park, Onslow Village, Park Barn, University of Surrey",Guildford
+GU3,"Normandy, Puttenham, Worplesdon, Christmas Pie, Flexford",Guildford
+GU4,"Burpham, Chilworth, Jacobs Well, Shalford",Guildford
+GU5,"Albury, Bramley, Shere",Guildford
+GU6,"Cranleigh, Ewhurst, Alfold",Waverley
+GU7,"Farncombe, Godalming",Waverley
+GU8,"Chiddingfold, Dunsfold, Elstead, Hascombe, Milford, Thursley, Witley",Waverley
+GU9,"Farnham, Badshot Lea, Hale, Heath End",Waverley
+GU10,"Bentley, Frensham, Churt, Crondall, Tongham, Ewshot, Seale, Tilford",Waverley
+GU11,Aldershot,Rushmoor
+GU12,"Aldershot, Ash, Ash Green, Ash Vale",Rushmoor
+GU13,Fleet,Hampshire
+GU14,"Farnborough, Cove",Rushmoor
+GU15,"Camberley, Old Dean, RMAS",Surrey Heath
+GU16,"Frimley, Frimley Green, Deepcut, Mytchett",Surrey Heath
+GU17,"Blackwater, Hawley, Minley, Darby Green, Frogmore, Blackbushe",Hart
+GU18,Lightwater,Surrey Heath
+GU19,Bagshot,Surrey Heath
+GU20,Windlesham,Surrey Heath
+GU21,"Woking, Knaphill, St. John's, Horsell, Goldsworth Park",Woking
+GU22,"Woking, Pyrford, Hook Heath, Mayford, Old Woking",Woking
+GU23,"Send, Ripley, Ockham, Wisley",Guildford
+GU24,"Bisley, Pirbright, Chobham, Knaphill, Brookwood, West End",Woking
+GU25,"Virginia Water, Wentworth",Runnymede
+GU26,"Hindhead, Bramshott Chase, Grayshott",Waverley
+GU27,"Haslemere, Fernhurst, Shottermill, Grayswood",Waverley
+GU28,"Petworth, Graffham, Northchapel, Byworth, Lodsworth",Chichester
+GU29,"Midhurst, Cocking, Easebourne",Chichester
+GU30,"Liphook, Bramshott, Conford, Linch, Milland, Passfield",East Hampshire
+GU31,"Petersfield, Buriton, East Harting, South Harting, Elsted, Rogate",East Hampshire
+GU32,"East Meon, West Meon, Sheet, Steep",East Hampshire
+GU33,"Liss, Greatham, Selborne, Rake",East Hampshire
+GU34,"Alton, Beech, Bentworth, Medstead, Four Marks, Golden Pot, Lasham",East Hampshire
+GU35,"Bordon, Headley, Headley Down Lindford, Oakhanger, Kingsley, Arford, Whitehill",East Hampshire
+GU46,Yateley,Hart
+GU47,"Sandhurst, College Town, Owlsmoor, Little Sandhurst",Bracknell Forest
+GU51,"Fleet, Elvetham Heath",Hart
+GU52,"Church Crookham, Crookham Village",Hart
+GU95,British Gas,Guildford
+GY1,Saint Peter Port,Guernsey
+GY2,Saint Sampson,Guernsey
+GY3,Vale,Guernsey
+GY4,Saint Martin,Guernsey
+GY5,Castel,Guernsey
+GY6,"Vale, Saint Andrew",Guernsey
+GY7,"Saint Pierre Du Bois, Saint Saviour",Guernsey
+GY8,"Forest, Torteval",Guernsey
+GY9,Alderney,Guernsey
+GY10,Sark,Guernsey
+HA0,"Alperton, Sudbury, Sudbury Hill, Wembley Central, North Wembley",Harrow
+HA1,"Harrow, North Harrow, Northwick Park",Harrow
+HA2,"North Harrow, South Harrow",Harrow
+HA3,"Harrow Weald, Kenton, Wealdstone",Harrow
+HA4,Ruislip,Hillingdon
+HA5,"Pinner, Eastcote, Hatch End, Carpenders Park",Harrow
+HA6,"Northwood, Moor Park, Sandy Lodge",Hillingdon
+HA7,Stanmore,Harrow
+HA8,Edgware,Harrow
+HA9,"Wembley, Wembley Park, Wembley Central, Preston, Tokyngton",Brent
+HD1,"Huddersfield Town Centre, Hillhouse, Lockwood, Marsh, Paddock",Kirklees
+HD2,"Birkby, Brackenhall, Bradley, Deighton, Fartown, Fixby, Sheepridge",Kirklees
+HD3,"Lindley, Milnsbridge, Oakes, Outlane, Paddock, Salendine Nook, Scammonden",Kirklees
+HD4,"Berry Brow, Crosland Moor, Farnley Tyas, Netherton, Newsome, Lowerhouses, Stocksmoor",Kirklees
+HD5,"Almondbury, Dalton, Kirkheaton, Moldgreen, Waterloo",Kirklees
+HD6,"Bailiff Bridge, Brighouse, Rastrick, Clifton",Calderdale
+HD7,"Golcar, Linthwaite, Marsden, Scapegoat Hill, Slaithwaite",Kirklees
+HD8,"Clayton West, Denby Dale, Emley, Fenay Bridge, Kirkburton, Lepton, Scissett, Shelley, Shepley, Skelmanthorpe",Kirklees
+HD9,"Birdsedge, Brockholes, Hepworth, Holme, Holmfirth, Honley, Meltham, Scholes, Upperthong, Wooldale",Kirklees
+HG1,Harrogate,Harrogate
+HG2,Harrogate,Harrogate
+HG3,"Pannal, High Meadows, Killinghall, Spofforth, Bishop Monkton, Glasshouses",Harrogate
+HG4,"North Stainley, High Grantley",Ripon
+HG5,"Scotton, Knaresborough",Harrogate
+HP1,"Bourne End, Boxmoor, Fields End, Gadebridge, Great Gaddesden, Nettleden, Piccotts End, Water End, Warner's End",Dacorum
+HP2,"Gaddesden Row, Piccotts End, Grove Hill, Adeyfield, Hemel Hempstead Industrial Estate",Dacorum
+HP3,"Apsley, Bovingdon, Felden, Flaunden, Hemel Hempstead, Leverstock Green",Dacorum
+HP4,"Berkhamsted, Dagnall, Dudswell, Little Gaddesden, Northchurch, Potten End, Ringshall",Dacorum
+HP5,"Chesham, Ashley Green, Bellingdon, Botley, Chartridge, Hawridge, Latimer, Lye Green, Newtown, Waterside, Whelpley Hill",Chiltern
+HP6,"Amersham, Chesham Bois, Hyde Heath, Little Chalfont",Chiltern
+HP7,"Amersham, Coleshill, Little Chalfont, Little Missenden, Penn Street, Winchmore Hill",Chiltern
+HP8,Chalfont Saint Giles,South Buckinghamshire
+HP9,"Beaconsfield, Forty Green, Holtspur, Jordans, Knotty Green, Seer Green",Chiltern
+HP10,"High Wycombe, Flackwell Heath, Handy Cross, Hedsor, Loudwater, Penn, Tylers Green, Wooburn, Wooburn Green, Wooburn Moor",Wycombe
+HP11,Wycombe Marsh,Wycombe
+HP12,"High Wycombe, Booker, Sands",Wycombe
+HP13,"High Wycombe, Downley",Wycombe
+HP14,"Beacon's Bottom, Bledlow Ridge, Bolter End, Bradenham, Cadmore End, Hughenden Valley, Ibstone, Lane End, Naphill, Northend, Stokenchurch, The City, Upper North Dean, West Wycombe",Wycombe
+HP15,"Cryers Hill, Great Kingshill, Hazlemere, Holmer Green, Hughenden Valley",Wycombe
+HP16,"Great Missenden, Ballinger, The Lee, Little Hampden, Little Kingshill, Prestwood, South Heath",Wycombe
+HP17,"Aston Sandford, Bishopstone, Butler's Cross, Dinton, Dorton, Ellesborough, Ford, The Kimbles, Kingsey, Haddenham, Meadle, Nash Lee, Stone, Upton, Westlington",Aylesbury Vale
+HP18,"Ashendon, Boarstall, Brill, Chearsley, Chilton, Cuddington, Dorton, Easington, Edgcott, Grendon Underwood, Ickford, Kingswood, Long Crendon, Lower Winchendon, Ludgershall, Oakley, Shabbington, Upper Winchendon, Waddesdon, Westcott, Worminghall, Wotton Underwood",Aylesbury Vale
+HP19,"Aylesbury, Fairford Leys, Prebendal Farm, Quarrendon, Watermead",Aylesbury Vale
+HP20,"Aylesbury, Aylesbury Town Centre, Broughton, Elmhurst",Aylesbury Vale
+HP21,"Aylesbury, Bedgrove, Elm Farm, Queens Park, Southcourt, Walton, Walton Court",Aylesbury Vale
+HP22,"Aston Abbotts, Aston Clinton, Bierton, Buckland, Drayton Beauchamp, Dunsmore, Halton, Hardwick, Hulcott, North Lee, Nup End, Oving, Pitchcott, Quainton, Rowsham, Stoke Mandeville, Weedon, Wendover, Weston Turville, Whitchurch, Wingrave",Aylesbury Vale
+HP23,"Aldbury, Buckland Common, Cholesbury, Hastoe, Long Marston, Marsworth, New Mill, Puttenham, St Leonards, Tring, Wigginton, Wilstone",Dacorum
+HP27,"Askett, Bledlow, Ilmer, Lacey Green, Longwick, Loosley Row, Monks Risborough, Owlswick, Pitch Green, Princes Risborough, Saunderton",Wycombe
+HR1,Hereford city centre,Hereford
+HR2,South Hereford,Hereford
+HR3,"West Hereford, Hay on Wye",Hereford
+HR4,North Hereford,Hereford
+HR5,Kington,Hereford
+HR6,Leominster,Hereford
+HR7,Bromyard,Hereford
+HR8,Ledbury,Hereford
+HR9,Ross-on-Wye,Hereford
+HS1,"Stornoway, Plasterfield",Comhairle nan Eilean Siar
+HS2,Isle Of Lewis,Comhairle nan Eilean Siar
+HS3,Isle Of Harris,Comhairle nan Eilean Siar
+HS4,Isle Of Scalpay,Comhairle nan Eilean Siar
+HS5,Isle Of Harris,Comhairle nan Eilean Siar
+HS6,Isle Of North Uist,Comhairle nan Eilean Siar
+HS7,Isle Of Benbecula,Comhairle nan Eilean Siar
+HS8,Isle Of South Uist,Comhairle nan Eilean Siar
+HS9,Isle Of Barra,Comhairle nan Eilean Siar
+HU1,Hull,Kingston upon Hull
+HU2,Hull,Kingston upon Hull
+HU3,Hull,Kingston upon Hull
+HU4,"Hull, Anlaby Common, Anlaby Park, Gipsyville",Kingston upon Hull
+HU5,Hull,Kingston upon Hull
+HU6,"Hull, Dunswell",Kingston upon Hull
+HU7,"Hull, Bransholme, Kingswood, Sutton-on-Hull, Wawne",Kingston upon Hull
+HU8,"Hull, Longhill, Ings",Kingston upon Hull
+HU9,"Hull, Marfleet",Kingston upon Hull
+HU10,"Anlaby, Kirk Ella, West Ella, Willerby",East Riding of Yorkshire
+HU11,Bilton,East Riding of Yorkshire
+HU12,"Hedon, Patrington",East Riding of Yorkshire
+HU13,Hessle,East Riding of Yorkshire
+HU14,"North Ferriby, Melton, Swanland",East Riding of Yorkshire
+HU15,"Elloughton-cum-Brough, South Cave",East Riding of Yorkshire
+HU16,"Cottingham, Eppleworth, Raywell, Skidby",East Riding of Yorkshire
+HU17,Beverley,East Riding of Yorkshire
+HU18,"Hornsea, Mappleton, Rolston",East Riding of Yorkshire
+HU19,"Withernsea, Hollym, Holmpton, Out Newton, Rimswell, Waxholme",East Riding of Yorkshire
+HU20,"High Hunsley, Little Weighton, Low Hunsley, Riplingham",East Riding of Yorkshire
+HU55,Non-geographic,Hull
+HX1,"Halifax Town Centre, Savile Park",Calderdale
+HX2,"Highroad Well, Illingworth, Luddenden, Luddenden Foot, Midgley, Mixenden, Mount Tabor, Norton Tower, Ogden, Wainstalls, Warley Town",Calderdale
+HX3,"Boothtown, Hipperholme, Lightcliffe, Norwood Green, Northowram, Ovenden, Shelf, Skircoat Green, Southowram",Calderdale
+HX4,"Barkisland, Greetland, Holywell Green, Sowood, Stainland, West Vale",Calderdale
+HX5,"Elland, Blackley",Calderdale
+HX6,"Norland, Ripponden, Rishworth, Sowerby, Sowerby Bridge",Calderdale
+HX7,"Cragg Vale, Hebden Bridge, Heptonstall, Mytholmroyd, Old Town",Calderdale
+IG1,Ilford,Redbridge
+IG2,"Gants Hill, Newbury Park",Redbridge
+IG3,Seven Kings,Redbridge
+IG4,Redbridge,Redbridge
+IG5,Clayhall,Redbridge
+IG6,"Barkingside, Hainault",Redbridge
+IG7,Chigwell,Epping Forest
+IG8,"Woodford Green, Woodford Bridge",Redbridge
+IG9,Buckhurst Hill,Epping Forest
+IG10,"Loughton, High Beach",Epping Forest
+IG11,Barking,Barking and Dagenham
+IM1,Douglas,Isle of Man
+IM2,Douglas,Isle of Man
+IM3,Onchan,Isle of Man
+IM4,"Port Soderick, Santon, Greeba, Braddan, St John's, Foxdale, Onchan, Baldrine, Laxey, Lonan",Isle of Man
+IM5,"Peel, Patrick",Isle of Man
+IM6,Kirk Michael,Isle of Man
+IM7,"Maughold, Sulby, Lezayre, Jurby, Andreas, Bride, Ballaugh",Isle of Man
+IM8,Ramsey,Isle of Man
+IM9,"Castletown, Ballasalla, Malew, Arbory, Port St Mary, Port Erin",Isle of Man
+IP1,"North West Ipswich, Akenham",Ipswich
+IP2,"South West Ipswich, Belstead, Wherstead, Stoke Park",Ipswich
+IP3,"South East Ipswich, Ravenswood",Ipswich
+IP4,North East Ipswich,Ipswich
+IP5,"Rushmere St Andrew, Kesgrave, Martlesham Heath",Suffolk Coastal
+IP6,"Needham Market, Creeting St. Mary, Barham, Henley, Claydon, Witnesham",Mid Suffolk
+IP7,Hadleigh,Ipswich
+IP8,"Copdock, Belstead",Babergh
+IP9,"Shotley Peninsula: Capel St Mary, Chelmondiston, Shotley",Babergh
+IP10,"Kirton, Nacton, Levington",Suffolk Coastal
+IP11,"Felixstowe, Trimley St. Martin, Trimley St. Mary",Suffolk Coastal
+IP12,"Woodbridge, Orford",Suffolk Coastal
+IP13,"Woodbridge, Easton, Framlingham, Little Bealings, Laxfield",Suffolk Coastal
+IP14,"Stowmarket, Stowupland",Mid Suffolk
+IP15,Aldeburgh,Suffolk Coastal
+IP16,"Leiston, Aldringham, Eastbridge, Sizewell, Theberton, Thorpeness",Suffolk Coastal
+IP17,Saxmundham,Suffolk Coastal
+IP18,"Southwold, Easton Bavents, Reydon, Walberswick",Waveney
+IP19,Halesworth,Waveney
+IP20,Harleston,Waveney
+IP21,Thorpe Abbotts,Mid Suffolk
+IP22,Diss,South Norfolk
+IP23,Eye,Mid Suffolk
+IP24,Thetford,Breckland
+IP25,"Watton, Saham Toney",Breckland
+IP26,"Hilborough, Northwold",Breckland
+IP27,Brandon,Forest Heath
+IP28,"Mildenhall, Culford",Forest Heath
+IP29,Barrow,St Edmundsbury
+IP30,"Cockfield, Woolpit",St Edmundsbury
+IP31,Bury Saint Edmunds,St Edmundsbury
+IP32,Bury Saint Edmunds,St Edmundsbury
+IP33,Bury Saint Edmunds,St Edmundsbury
+IP98,Diss,Ipswich
+IV1,"Inverness centre and north, The Longman, North Kessock, Kilmuir",Highland
+IV2,"Inverness east, Culloden, Balloch, Ardersier",Highland
+IV3,"Inverness west, Dochgarroch, Abriachan, Bunchrew",Highland
+IV4,"Beauly, Kiltarlity, Struy, Cannich, Tomich",Highland
+IV5,"Kirkhill, Inchmore, Moniack, Cabrich",Highland
+IV6,"Muir of Ord, Marybank, Strathconon",Highland
+IV7,"Conon Bridge, Culbokie",Highland
+IV8,Munlochy,Highland
+IV9,Avoch,Highland
+IV10,Fortrose,Highland
+IV11,Cromarty,Highland
+IV12,Auldearn,Highland
+IV13,Tomatin,Highland
+IV14,Strathpeffer,Highland
+IV15,Dingwall,Highland
+IV16,Evanton,Highland
+IV17,Alness,Highland
+IV18,Invergordon,Highland
+IV19,Tain,Highland
+IV20,Fearn,Highland
+IV21,Gairloch,Highland
+IV22,Achnasheen,Highland
+IV23,Garve,Highland
+IV24,Ardgay,Highland
+IV25,Dornoch,Highland
+IV26,Ullapool,Highland
+IV27,"Lairg, Durness, Tongue, Scourie",Highland
+IV28,Rogart,Highland
+IV30,Elgin,Moray
+IV31,Lossiemouth,Moray
+IV32,Fochabers,Moray
+IV33,Rothes,Rothes
+IV34,Archiestown,Archiestown
+IV35,Archiestown,Archiestown
+IV36,Forres,Moray
+IV40,Kyle,Highland
+IV41,"Kyleakin, Isle Of Skye",Highland
+IV42,"Breakish, Isle Of Skye",Highland
+IV43,Isle Of Skye,Highland
+IV44,Isle Of Skye,Highland
+IV45,"Armadale, Isle Of Skye",Highland
+IV46,Isle Of Skye,Highland
+IV47,Isle Of Skye,Highland
+IV48,Isle Of Skye,Highland
+IV49,"Broadford, Isle Of Skye",Highland
+IV51,Portree,Highland
+IV52,Plockton,Highland
+IV53,Strome Ferry,Highland
+IV54,Applecross,Highland
+IV55,Isle Of Skye,Highland
+IV56,Isle Of Skye,Highland
+IV63,"Drumnadrochit, Glenurquhart, Invermoriston",Highland
+IV99,Non-geographic,Inverness
+JE2,"Saint Helier, Saint Clement, Saint Saviour",Jersey
+JE3,"Saint Lawrence, Saint Ouen, Saint Mary, Saint John, Trinity, Saint Martin, Saint Peter, Saint Brelade, Grouville",Jersey
+KA1,"Kilmarnock, Bonnyton, Grange, Bellfield, Caprington, Riccarton, Shortlees, Hurlford South",East Ayrshire
+KA2,"Knockentiber, Crosshouse, Dundonald",East Ayrshire
+KA3,"Kilmarnock, Altonhill, Knockinlaw, Longpark, Beansburn, Hillhead, Kilmaurs, Kirktoun, Onthank, Stewarton, Lugton, Dunlop, Fullwood, Kingsford, Southcraigs, Fenwick, Crookedholm, Hurlford, Whinpark, New Farm Loch, Beansburn",East Ayrshire
+KA4,Galston,East Ayrshire
+KA5,"Tarbolton, Mauchline, Catrine, Sorn",East Ayrshire
+KA6,"Dalrymple, Hollybush, Patna, Dalmellington, Bellsbank, Waterside, Rankinston, Drongan",East Ayrshire
+KA7,"Ayr, Belmont, Holmston, Forehill, Castlehill, Masonhill, Kincaidston, Doonfoot, Alloway",South Ayrshire
+KA8,"Dalmilling, Craigie, Woodfield, Wallacetown, Heathfield, Whitletts, Newton on Ayr, Lochside, Braehead",South Ayrshire
+KA9,"Prestwick, Monkton",South Ayrshire
+KA10,"Troon, Barassie, Muirhead, Loans, Barassie",South Ayrshire
+KA11,"Girdle Toll, Stanecastle, Bourtreehill, Broomlands, Perceton, Sourlie, Doura, Roddinghill, Springside, Irvine, Dreghorn",North Ayrshire
+KA12,"Irvine, Fullarton, Irvine Centre, Stanecastle",North Ayrshire
+KA13,Kilwinning,North Ayrshire
+KA14,"Beith, Glengarnock, Longbar",North Ayrshire
+KA15,"Beith, Glengarnock, Longbar",North Ayrshire
+KA16,"Newmilns, Greenholm",East Ayrshire
+KA17,Darvel,East Ayrshire
+KA18,"Cumnock, Ochiltree, Auchinleck, Muirkirk, Smallburn, Lugar, Logan, New Cumnock",East Ayrshire
+KA19,"Maybole, Crosshill, Straiton",South Ayrshire
+KA20,"Stevenston, Auchenharvie",North Ayrshire
+KA21,Saltcoats,North Ayrshire
+KA22,"Ardrossan, Whitlees, Chapelhill",North Ayrshire
+KA23,West Kilbride,North Ayrshire
+KA24,"Dalry, Drakemyre",North Ayrshire
+KA25,Kilbirnie,North Ayrshire
+KA26,"Girvan, Ballantrae, Colmonell, Barrhill, Old Dally, Dally, Turnberry",South Ayrshire
+KA27,"Holy Island, Isle of Arran",North Ayrshire
+KA28,Millport,North Ayrshire
+KA29,"Largs, Glenside, Fairlie, Kelburn",North Ayrshire
+KA30,Largs,North Ayrshire
+KT1,"Kingston upon Thames, Hampton Wick",Kingston upon Thames
+KT2,"Kingston upon Thames, Norbiton",Kingston upon Thames
+KT3,New Malden,Kingston upon Thames
+KT4,Worcester Park,Sutton
+KT5,"Berrylands, Tolworth",Kingston upon Thames
+KT6,"Surbiton, Tolworth, Long Ditton",Kingston upon Thames
+KT7,"Thames Ditton, Weston Green",Elmbridge
+KT8,"West Molesey, East Molesey, Hampton Court Palace, Bushy Park",Elmbridge
+KT9,"Chessington, Hook, Malden Rushett",Kingston upon Thames
+KT10,"Esher, Claygate, Hinchley Wood",Elmbridge
+KT11,Cobham,Elmbridge
+KT12,"Walton-on-Thames, Hersham",Elmbridge
+KT13,Weybridge,Elmbridge
+KT14,"Byfleet, West Byfleet",Elmbridge
+KT15,"Addlestone, New Haw",Runnymede
+KT16,"Chertsey, Lyne",Runnymede
+KT17,"Stoneleigh, East Ewell, Epsom",Epsom and Ewell
+KT18,"Epsom, Headley, Langley Vale, Tattenham Corner",Epsom and Ewell
+KT19,"Horton, West Ewell, Stoneleigh",Epsom and Ewell
+KT20,"Tadworth, Burgh Heath",Reigate and Banstead
+KT21,Ashtead,Mole Valley
+KT22,"Leatherhead, Oxshott, Fetcham",Mole Valley
+KT23,The Bookhams,Mole Valley
+KT24,"West Horsley, East Horsley, Effingham",Guildford
+KW1,Wick,Highland
+KW2,Lybster,Highland
+KW3,Lybster,Highland
+KW5,Latheron,Highland
+KW6,Dunbeath,Highland
+KW7,Berriedale,Highland
+KW8,Helmsdale,Highland
+KW9,Brora,Highland
+KW10,Golspie,Highland
+KW11,Kinbrace,Highland
+KW12,Halkirk,Highland
+KW13,Forsinard,Highland
+KW14,Thurso,Highland
+KW15,Kirkwall,Orkney Islands
+KW16,Stromness,Orkney Islands
+KW17,Orkney,Orkney Islands
+KY1,Kirkcaldy,Fife
+KY2,Kirkcaldy,Fife
+KY3,Burntisland,Fife
+KY4,Cowdenbeath,Fife
+KY5,Lochgelly,Fife
+KY6,Glenrothes,Fife
+KY7,Glenrothes,Fife
+KY8,Leven,Fife
+KY9,Leven,Fife
+KY10,Anstruther,Fife
+KY11,Dunfermline,Fife
+KY12,Dunfermline,Fife
+KY13,Kinross,Kinross-Shire
+KY14,Cupar,Fife
+KY15,Cupar,Fife
+KY16,Saint Andrews,Fife
+KY99,Dunfermline,Fife
+L1,Liverpool city centre,Liverpool
+L2,Liverpool city centre,Liverpool
+L3,"Liverpool City Centre, Everton, Vauxhall",Liverpool
+L4,"Anfield, Kirkdale, Walton",Liverpool
+L5,"Anfield, Everton, Kirkdale, Vauxhall",Liverpool
+L6,"Anfield, Liverpool City Centre, Everton, Fairfield, Kensington, Tuebrook",Liverpool
+L7,"Liverpool City Centre, Edge Hill, Fairfield, Kensington",Liverpool
+L8,"Liverpool City Centre, Dingle, Toxteth",Liverpool
+L9,"Aintree, Fazakerley, Orrell Park, Walton",Liverpool
+L10,"Aintree Village, Fazakerley",Liverpool
+L11,"Clubmoor, Croxteth, Gillmoss, Norris Green",Liverpool
+L12,"Croxteth Park, West Derby",Liverpool
+L13,"Clubmoor, Old Swan, Stoneycroft, Tuebrook",Liverpool
+L14,"Broadgreen, Dovecot, Knotty Ash, Page Moss",Liverpool
+L15,Wavertree,Liverpool
+L16,"Broadgreen, Bowring Park, Childwall",Liverpool
+L17,"Aigburth, St Michael's Hamlet, Sefton Park",Liverpool
+L18,"Allerton, Mossley Hill",Liverpool
+L19,"Aigburth, Garston, Grassendale",Liverpool
+L20,"Bootle, Kirkdale, Orrell",Liverpool
+L21,"Ford, Litherland, Seaforth",Liverpool
+L22,Waterloo,Sefton
+L23,"Blundellsands, Brighton-le-Sands, Crosby, Little Crosby, Thornton",Sefton
+L24,"Hale, Speke",Liverpool
+L25,"Belle Vale, Gateacre, Hunts Cross, Woolton, Halewood",Liverpool
+L26,Halewood,Liverpool
+L27,Netherley,Liverpool
+L28,Stockbridge Village,Liverpool
+L29,"Lunt, Sefton Village",Sefton
+L30,"Bootle, Netherton",Sefton
+L31,"Maghull, Lydiate, Melling, Waddicar",Sefton
+L32,Kirkby,Knowsley
+L33,Kirkby,Knowsley
+L34,"Prescot, Knowsley Village",Knowsley
+L35,"Prescot, Whiston, Rainhill",Knowsley
+L36,"Huyton, Roby, Tarbock",Knowsley
+L37,"Formby, Little Altcar, Great Altcar",Sefton
+L38,"Ince Blundell, Hightown",Sefton
+L39,Ormskirk,West Lancashire
+L40,"Burscough, Scarisbrick",West Lancashire
+L41,Birkenhead,Liverpool
+L42,Birkenhead,Liverpool
+L43,Birkenhead,Liverpool
+L44,Wallasey,Liverpool
+L45,Wallasey,Liverpool
+L46,Wallasey,Liverpool
+L47,Hoylake,Liverpool
+L48,West Kirby,Liverpool
+L49,Upton,Liverpool
+L60,Heswall,Liverpool
+L61,"Thingwall, Pensby, Irby",Liverpool
+L62,"Port Sunlight, Bromborough, Eastham",Liverpool
+L63,Bebington,Liverpool
+L64,"Neston, Burton, Willaston",Liverpool
+L65,Ellesmere Port,Liverpool
+L66,"Great Sutton, Hooton, South Wirral",Liverpool
+L67,Liverpool,Liverpool
+L68,Liverpool,Liverpool
+L69,"Liverpool, Liverpool University",Liverpool
+L70,"Liverpool, Speke",Liverpool
+L71,Liverpool,Liverpool
+L72,Liverpool,Liverpool
+L73,Liverpool,Liverpool
+L74,Liverpool,Liverpool
+L75,Liverpool,Liverpool
+L80,Non-geographic,Liverpool
+LA1,"Lancaster, Aldcliffe, Bailrigg",Lancaster
+LA2,"Lancaster, Abbeystead, Aldcliffe, Aughton, Austwick, Bailrigg, Bay Horse, Caton, Clapham, Cockerham, Dolphinholme, Ellel, Farleton, Galgate, Glasson Dock, Halton, Hest Bank, High Bentham, Hornby, Quernmore, Tatham, Wharfe",Lancaster
+LA3,"Morecambe, Heysham, Middleton, Overton, Sunderland Point",Lancaster
+LA4,"Morecambe, Torrisholme",Lancaster
+LA5,"Carnforth, Arnside, Silverdale, Warton, Bolton-Le-Sands",Lancaster
+LA6,"Arkholme, Cantsfield, Casterton, Ingleton, Ireby, Kirkby Lonsdale, Masongill, Tunstall, Whittington",Lancaster
+LA7,"Milnthorpe, Beetham, Storth, Heversham",Lancaster
+LA8,"Kendal, Sizergh, Grayrigg",South Lakeland
+LA9,"Kendal, Burneside, Sedgwick",South Lakeland
+LA10,"Sedbergh, Dent",South Lakeland
+LA11,"Grange-over-Sands, Allithwaite",South Lakeland
+LA12,"Ulverston, Backbarrow, Leece, Newby Bridge",South Lakeland
+LA13,Barrow-in-Furness,Barrow-in-Furness
+LA14,"Barrow-in-Furness, Walney Island",Barrow-in-Furness
+LA15,Dalton-in-Furness,Barrow-in-Furness
+LA16,Askam-in-furness,Barrow-in-Furness
+LA17,Kirkby-in-Furness,South Lakeland
+LA18,Millom,Copeland
+LA19,"Millom, Waberthwaite, Bootle",Copeland
+LA20,Broughton-in-furness,South Lakeland
+LA21,Coniston,South Lakeland
+LA22,"Ambleside, Hawkshead, Near Sawrey",South Lakeland
+LA23,"Windermere, Bowness-on-Windermere, Troutbeck",South Lakeland
+LD1,Llandrindod Wells,Llandrindod Wells
+LD2,Builth Wells,Llandrindod Wells
+LD3,"Brecon, Talgarth",Llandrindod Wells
+LD4,Llangammarch Wells,Llandrindod Wells
+LD5,Llanwrtyd Wells,Llandrindod Wells
+LD6,Rhayader,Llandrindod Wells
+LD7,Knighton,Llandrindod Wells
+LD8,Presteigne,Llandrindod Wells
+LE1,Leicester,Leicester
+LE2,"Oadby, Knighton, Highfields, Aylestone, Glen Parva",Leicester
+LE3,"Braunstone, Glenfield, New Parks, Groby Road (A50), Leicester Forest East, Westcotes",Leicester
+LE4,"Birstall, Belgrave, Beaumont Leys, Thurmaston",Leicester
+LE5,"Hamilton, Thurnby Lodge, Evington",Leicester
+LE6,"Ratby, Groby, Newtown Linford",Leicester
+LE7,"Scraptoft, Anstey, Billesdon, Gaddesby, Hungarton, Rearsby, Tilton on the Hill, Tugby, Cropston, Thurcaston, Rothley, Barkby, Syston",Leicester
+LE8,"Great Glen, Fleckney, Kibworth, Peatling Magna, Countesthorpe",Leicester
+LE9,"Stoney Stanton, Cosby, Huncote, Croft, Desford, Newbold Verdon, Kirkby Mallory, Earl Shilton, Barwell, Sapcote, Sutton in the Elms, Broughton Astley, Thurlaston",Leicester
+LE10,Hinckley,Leicester
+LE11,"Loughborough, Charnwood",Charnwood
+LE12,"East Leake, West Leake, Sutton Bonington, Mountsorrel, Shepshed, Belton, Quorn, Sileby, Wymeswold",Charnwood
+LE13,Melton Mowbray,Leicester
+LE14,"Brooksby, Harby, Hoby, Ragdale, Rotherby, Scalford, Somerby, Stonesby, Waltham on the Wolds, Wymondham",Melton
+LE15,"Empingham, Manton, Thistleton, Uppingham, Whissendine, Langham",Rutland
+LE16,"East Langton, Hallaton, Market Harborough, Medbourne, Braybrooke",Harborough
+LE17,"Leire, Lutterworth, Swinford, Bitteswell, Ullesthorpe",Leicester
+LE18,Wigston,Leicester
+LE19,"Narborough, Enderby",Leicester
+LE21,Leicester,Leicester
+LE41,Non-geographic,Leicester
+LE55,Leicester,Leicester
+LE65,"Ashby-de-la-Zouch, Boundary, Calke, Smisby, Willesley, Worthington",Leicester
+LE67,"Coalville, Ibstock, Markfield",Leicester
+LE87,Leicester,Leicester
+LE94,Non-geographic,Leicester
+LE95,Non-geographic,Leicester
+LE99,Non-geographic,Leicester
+LL11,"Wrexham, Coedpoeth, Llandegla, Minera, Bradley, Gwersyllt, Rhosrobin, Stansty, Brymbo, Bwlchgwyn, Cymau, Ffrith, Gwynfryn, Tanyfron, Brynteg",Wrexham
+LL12,"Wrexham, Caergwrle, Cefn-y-Bedd, Cymau, Gresford, Hope, Llay, Marford, Rossett",Wrexham
+LL13,"Wrexham, Abenbury, Bowling Bank, Holt, Llan-y-Pwll, Pentre Maelor, Ridley Wood, Bangor-on-Dee, Gyfelia, Marchwiel, Overton, Penley, Worthenbury",Wrexham
+LL14,"Wrexham, Rhosllanerchrugog, Cefn Mawr, Ponciau, Rhostyllen, Chirk, Ruabon",Wrexham
+LL15,"Ruthin, Bontuchel, Clawddnewydd, Clocaenog, Cyffylliog, Gellifor, Graigfechan, Llanbedr Dyffryn Clwyd, Llanelidan, Llanfair Dyffryn Clwyd, Pwllglas, Rhewl",Denbighshire
+LL16,"Denbigh, Bodfari, Llandyrnog, Llanrhaeadr, Bylchau, Groes, Henllan, Llannefydd, Llansannan, Nantglyn, The Green, Trefnant",Denbighshire
+LL17,"St. Asaph, Allt Goch, Rhuallt, Tremeirchion, Waen",Conwy
+LL18,"Rhyl, Bodelwyddan, Cwm Dyserth, Kinmel Bay, Dyserth, Gwaenysgor, Rhuddlan, Trelawnyd",Conwy
+LL19,"Prestatyn, Gronant",Flintshire
+LL20,"Froncysyllte, Garth, Glyn Ceiriog, Llanarmon Dyffryn Ceiriog, Llwynmawr, Pandy, Pontcysyllte, Pontfadog, Rhewl, Tregeiriog, Trevor, Llangollen, Eglwyseg, Llantysilio",Denbighshire
+LL21,"Corwen, Cynwyd, Glanrafon, Glasfryn, Llandrillo, Llangwm, Maerdy, Ty Nant, Betws Gwerfil Goch, Bryneglwys, Carrog, Cerrigydrudion, Clawdd Poncen, Derwen, Glyndyfrdwy, Gwyddelwern, Llanfihangel Glyn Myfyr, Llidiart-y-Parc, Melin-y-Wig",Conwy
+LL22,"Abergele, Betws Yn Rhos, Gwytherin, Llanddulas, Llanfairtalhaiarn, Llangernyw, Moelfre, Pandy Tudur, Rhyd-y-Foel, Glascoed, St. George",Denbighshire
+LL23,"Bala, Llandderfel, Llanfor, Llanuwchllyn, Sarnau",Gwynedd
+LL24,"Betws-y-Coed, Capel Curig, Cwm Penmachno, Penmachno, Pentre Du, Pentrefoelas, Ysbyty Ifan",Conwy
+LL25,Dolwyddelan,Conwy
+LL26,"Llanrwst, Capel Garmon, Llanddoged, Melin-y-Coed, Maenan",Conwy
+LL27,Trefriw,Conwy
+LL28,"Colwyn Bay, Rhos on Sea, Eglwysbach, Glan Conwy, Mochdre, Tal-y-Cafn",Conwy
+LL29,"Colwyn Bay, Llanelian, Llysfaen, Old Colwyn",Conwy
+LL30,"Llanrhos, Llandudno, Penrhyn Bay",Conwy
+LL31,"Deganwy, Glanwydden, Llangwstenin, Llandudno Junction",Conwy
+LL32,"Conwy, Dolgarrog, Groesffordd, Henryd, Rowen, Tal-y-Bont, Tyn-y-Groes",Conwy
+LL33,"Abergwyngregyn, Llanfairfechan",Conwy
+LL34,"Penmaenmawr, Dwygyfylchi",Conwy
+LL35,Aberdovey,Gwynedd
+LL36,"Tywyn, Abergynolwyn, Bryncrug, Llanegryn, Rhoslefain",Gwynedd
+LL37,Llwyngwril,Gwynedd
+LL38,"Fairbourne, Friog",Gwynedd
+LL39,Arthog,Gwynedd
+LL40,"Dolgellau, Brithdir, Drws Y Nant, Ganllwyd, Llanelltyd, Llanfachreth, Rhydymain, Tabor",Gwynedd
+LL41,"Blaenau Ffestiniog, Talwaenydd, Ffestiniog, Gellilydan, Maentwrog, Manod, Trawsfynydd",Gwynedd
+LL42,"Barmouth, Llanaber",Gwynedd
+LL43,Talybont,Gwynedd
+LL44,Dyffryn Ardudwy,Gwynedd
+LL45,Llanbedr,Gwynedd
+LL46,"Harlech, Llanfair",Gwynedd
+LL47,"Talsarnau, Soar, Ynys",Gwynedd
+LL48,"Penrhyndeudraeth, Llanfrothen, Minffordd",Gwynedd
+LL49,"Porthmadog, Borth-y-Gest, Morfa Bychan, Penmorfa, Prenteg, Tremadog",Gwynedd
+LL51,Garndolbenmaen,Gwynedd
+LL52,"Criccieth, Llanystumdwy, Pentrefelin, Rhoslan",Gwynedd
+LL53,"Pwllheli, Efailnewydd, Llannor, Abererch, Chwilog, Llithfaen, Nefyn, Pistyll, Plas Gwyn, Y Ffor, Abersoch, Bwlchtocyn, Llanbedrog, Mynytho, Penrhos, Rhydyclafdy, Aberdaron, Boduan, Botwnnog, Edern, Morfa Nefyn, Sarn, Tudweiliog",Gwynedd
+LL54,"Caernarfon, Clynnogfawr, Llanaelhaearn, Llandwrog, Pontllyfni, Saron, Trefor, Llanllyfni, Nantlle, Penygroes, Rhyd Ddu, Talysarn, Bontnewydd, Carmel, Dinas, Groeslon, Rhosgadfan, Rhostryfan",Gwynedd
+LL55,"Caernarfon, Bethel, Bontnewydd, Caeathro, Brynrefail, Clwt-y-Bont, Deiniolen, Penisarwaun, Beddgelert, Ceunant, Cwm-y-Glo, Llanberis, Llanrug, Nant Gwynant, Nant Peris, Waunfawr",Gwynedd
+LL56,Y Felinheli,Gwynedd
+LL57,"Bangor, Llanllechid, Rachub, Talybont, Bethesda, Glasinfryn, Llandygai, Mynydd Llandygai, Rhiwlas, Tregarth",Gwynedd
+LL58,"Beaumaris, Llanddona, Llanfaes, Llangoed, Penmon",Anglesey
+LL59,"Menai Bridge, Llandegfan, Llansadwrn",Anglesey
+LL60,"Gaerwen, Llanddaniel, Llangaffo, Star",Anglesey
+LL61,"Llanfairpwllgwyngyll, Brynsiencyn, Dwyran, Newborough",Anglesey
+LL62,"Bodorgan, Bethel, Hermon, Llangristiolus, Malltraeth, Trefdraeth",Anglesey
+LL63,"Ty Croes, Aberffraw, Llanfaelog",Anglesey
+LL64,Rhosneigr,Anglesey
+LL65,"Holyhead, Trearddur Bay, Four Mile Bridge, Rhoscolyn, Bodedern, Bryngwran, Caergeiliog, Llanynghenedl, Trefor, Valley, Gwalchmai, Llanddeusant, Llanfachraeth, Llanfaethlu, Llanfairynghornwy, Llanrhyddlad, Rhydwyn",Anglesey
+LL66,Rhosgoch,Anglesey
+LL67,"Cemaes Bay, Tregele",Anglesey
+LL68,"Amlwch, Bull Bay, Carreglefn, Llanfechell, Rhosybol",Anglesey
+LL69,Penysarn,Anglesey
+LL70,Dulas,Anglesey
+LL71,Llanerchymedd,Anglesey
+LL72,Moelfre,Anglesey
+LL73,Marianglas,Anglesey
+LL74,"Tyn-y-Gongl, Benllech",Anglesey
+LL75,"Pentraeth, Red Wharf Bay, Rhoscefnhir",Anglesey
+LL76,Llanbedrgoch,Anglesey
+LL77,"Bodffordd, Rhostrehwfa, Talwrn, Llangefni",Anglesey
+LL78,Brynteg,Anglesey
+LN1,"Lincoln city centre, Stow",West Lindsey
+LN2,"Nettleham, Ermine & St Giles Estates",West Lindsey
+LN3,Lincoln,Lincoln
+LN4,"Branston, Canwick, Coningsby, Dunston, Heighington, Nocton, Washingborough, Timberland, Martin",North Kesteven
+LN5,Waddon,Lincoln
+LN6,"Doddington Park, Birchwood, North/South Hykeham",Lincoln
+LN7,Market Rasen,Lincoln
+LN8,Market Rasen,Lincoln
+LN9,Horncastle,Lincoln
+LN10,Woodhall Spa,Lincoln
+LN11,Louth,Lincoln
+LN12,"Mablethorpe, Sutton-on-Sea",East Lindsey
+LN13,Alford,Lincoln
+LS1,Leeds city centre,Leeds
+LS2,"Leeds city centre, Woodhouse",Leeds
+LS3,Woodhouse,Leeds
+LS4,"Burley, Kirkstall, Kirkstall Valley",Leeds
+LS5,"Hawksworth, Kirkstall",Leeds
+LS6,"Beckett Park, Headingley, Hyde Park, Meanwood, Woodhouse",Leeds
+LS7,"Chapel Allerton, Chapeltown, Little London, Meanwood, Potternewton, Scott Hall, Sheepscar",Leeds
+LS8,"Fearnville, Gipton, Gledhow, Harehills, Oakwood, Roundhay",Leeds
+LS9,"Burmantofts, Cross Green, East End Park, Gipton, Harehills, Osmondthorpe, Richmond Hill",Leeds
+LS10,"Belle Isle, Hunslet, Middleton, Stourton",Leeds
+LS11,"Beeston, Beeston Hill, Cottingley, Holbeck",Leeds
+LS12,"Armley, Farnley, New Farnley, Wortley",Leeds
+LS13,"Bramley, Rodley, Swinnow",Leeds
+LS14,"Killingbeck, Seacroft, Scarcroft, Swarcliffe, Thorner, Whinmoor",Leeds
+LS15,"Austhorpe, Barwick-in-Elmet, Colton, Cross Gates, Halton, Halton Moor, Scholes, Whitkirk",Leeds
+LS16,"Adel, Bramhope, Cookridge, Eccup, Far Headingley, Holt Park, Ireland Wood, Lawnswood, Moor Grange, Tinshill, Weetwood, West Park",Leeds
+LS17,"Alwoodley, Bardsey, East Keswick, Eccup, Harewood, Moor Allerton, Moortown, Shadwell, Weardley, Wike",Leeds
+LS18,Horsforth,Leeds
+LS19,"Rawdon, Yeadon",Leeds
+LS20,Guiseley,Leeds
+LS21,"Arthington, Otley, Pool",Leeds
+LS22,"Collingham, Linton, Wetherby",Leeds
+LS23,"Boston Spa, Bramham, Clifford, Thorp Arch, Walton",Leeds
+LS24,"Saxton, Stutton, Ulleskelf, Church Fenton, Tadcaster, Toulston",Selby
+LS25,"Aberford, Ferry Fryston, Garforth, Hillam, Kippax, Ledsham, Micklefield, Monk Fryston, Sherburn-in-Elmet",Leeds
+LS26,"Great Preston, Methley, Mickletown, Oulton, Rothwell, Swillington, Woodlesford",Leeds
+LS27,"Churwell, Gildersome, Morley",Leeds
+LS28,"Calverley, Farsley, Pudsey, Stanningley",Leeds
+LS29,"Addingham, Ben Rhydding, Burley in Wharfedale, Ilkley, Menston",Bradford
+LS88,Non-geographic,Leeds
+LS98,First Direct,Leeds
+LS99,Leeds,Leeds
+LU1,"Luton (South), Aley Green, Caddington, Lower Woodside, Pepperstock, Skimpot, Slip End, Woodside",Luton
+LU2,"Luton (East), Chiltern Green, Cockernhoe, East Hyde, Lawrence End, Lilley, New Mill End, Peters Green, Tea Green, The Hyde, Wandon End, Wandon Green, Winch Hill",Luton
+LU3,"Luton (North), Lower Sundon, Streatley, Sundon",Luton
+LU4,"Luton (West), Chalton, Leagrave",Luton
+LU5,"Dunstable (East including Woodside Estate), Bidwell, Chalgrave, Fancott, Harlington, Houghton Regis (including Townsend Industrial Estate), Thorn, Toddington",Central Bedfordshire
+LU6,"Dunstable (West), Eaton Bray, Edlesborough, Holywell, Kensworth, Northall, Sewell, Studham, Totternhoe, Whipsnade",Central Bedfordshire
+LU7,"Leighton Buzzard, Bragenham, Briggington, Burcott, Cheddington, Chelmscote, Clipstone, Crafton, Cublington, Eggington, Great Billington, Grove, Heath and Reach, Hockliffe, Horton, Hollingdon, Ivinghoe, Ivinghoe Aston, Ledburn, Leedon, Little Billington, Mentmore, Pitstone, Slapton, Soulbury, Stanbridge, Stewkley, Stockgrove, Tebworth, Tilsworth, Wing, Wingfield",Central Bedfordshire
+LU95,Non-geographic,Leighton Buzzard
+M1,"Piccadilly, Northern Quarter, Manchester City Centre",Manchester
+M2,"Deansgate, Manchester City Centre",Manchester
+M3,"Manchester City Centre, Blackfriars, Trinity",Manchester
+M4,"Ancoats, Northern Quarter, Strangeways",Manchester
+M5,"Ordsall, Seedley, Weaste, University",Salford
+M6,"Claremont, Irlams O' Th' Height, Charlestown, Whitlane",Salford
+M7,"Higher Broughton, Cheetwood, Lower Broughton, Kersal",Salford
+M8,"Crumpsall, Cheetham Hill",Manchester
+M9,"Harpurhey, Blackley",Manchester
+M10,"Moston, Newton Heath, Miles Platting",Manchester
+M11,"Clayton, Openshaw, Beswick",Manchester
+M12,"Ardwick, Longsight, Chorlton-on-Medlock",Manchester
+M13,"Ardwick, Longsight, Chorlton-on-Medlock",Manchester
+M14,"Fallowfield, Moss Side, Ladybarn, Rusholme",Manchester
+M15,"Hulme, Manchester Science Park",Manchester
+M16,"Firswood, Old Trafford, Whalley Range",Trafford
+M17,"Trafford Park, The Trafford Centre",Trafford
+M18,"Abbey Hey, Gorton",Manchester
+M19,"Levenshulme, Burnage",Manchester
+M20,"Didsbury, Withington",Manchester
+M21,"Chorlton-cum-Hardy, Firswood",Manchester
+M22,"Wythenshawe, Northenden, Sharston Industrial Area",Manchester
+M23,"Baguley, Roundthorn Industrial Estate",Manchester
+M24,"Middleton, Alkrington",Rochdale
+M25,Prestwich,Bury
+M26,"Radcliffe, Stoneclough",Bury
+M27,"Swinton, Clifton, Pendlebury, Wardley, Agecroft",Salford
+M28,"Worsley, Walkden, Boothstown, Mosley Common, Wardley Industrial Estate",Salford
+M29,"Tyldesley, Astley",Wigan
+M30,Eccles,Salford
+M31,"Carrington, Partington",Trafford
+M32,Stretford,Trafford
+M33,"Sale, Brooklands",Trafford
+M34,"Denton, Audenshaw",Tameside
+M35,"Failsworth, Castle Industrial Estate",Oldham
+M38,Little Hulton,Salford
+M40,"Collyhurst, Miles Platting, Moston, New Moston, Newton Heath",Manchester
+M41,Urmston,Trafford
+M43,Droylsden,Tameside
+M44,"Irlam, Cadishead",Salford
+M45,Whitefield,Bury
+M46,Atherton,Wigan
+M50,Salford Quays,Salford
+M52,Non-geographic,Manchester
+M60,Large user and PO Box,Manchester
+M61,Non-geographic,Manchester
+M90,Manchester Airport,Manchester
+M99,"Manchester X, JD Williams",Manchester
+ME1,"Rochester, Burham, Wouldham",Medway
+ME2,"Strood, Halling, Cuxton, Frindsbury",Medway
+ME3,Rochester,Medway
+ME4,Chatham,Medway
+ME5,"Walderslade, Blue Bell Hill, Luton",Medway
+ME6,"Snodland, West Malling",Tonbridge and Malling
+ME7,Gillingham,Medway
+ME8,Rainham,Medway
+ME9,Sittingbourne,Swale
+ME10,Sittingbourne,Swale
+ME11,"Queenborough, Rushenden",Swale
+ME12,Isle of Sheppey,Swale
+ME13,Faversham,Swale
+ME14,"Maidstone, Bearsted, Grove Green",Maidstone
+ME15,"Bearsted, Downswood, Shepway, Senacre, Maidstone Town Centre, Loose, Mangravet, Parkwood",Maidstone
+ME16,"Barming, West Maidstone",Maidstone
+ME17,"Hollingbourne, Hucking, Harrietsham, Lenham, Boughton Monchelsea, Linton, Coxheath, Chart Sutton, Sutton Valence",Maidstone
+ME18,Maidstone,Maidstone
+ME19,West Malling,Tonbridge and Malling
+ME20,Aylesford,Tonbridge and Malling
+ME99,Non-geographic,Maidstone
+MK1,"Denbigh, Mount Farm",Milton Keynes
+MK2,"Brickfields, Central Bletchley, Fenny Stratford, Water Eaton",Milton Keynes
+MK3,"Church Green, Far Bletchley, Old Bletchley, West Bletchley",Milton Keynes
+MK4,"Emerson Valley, Furzton, Kingsmead, Shenley Brook End, Snelshall West, Tattenhoe, Tattenhoe Park, Westcroft, Whaddon, Woodhill",Milton Keynes
+MK5,"Crownhill, Elfield Park, Grange Farm, Oakhill, Knowlhill, Loughton, Medbourne, Shenley Brook End, Shenley Church End, Shenley Lodge, Shenley Wood",Milton Keynes
+MK6,"Ashland, Beanhill, Bleak Hall, Coffee Hall, Eaglestone, Fishermead, Great Woolstone, Leadenhall, Little Woolstone, Middleton/Milton Keynes Village, Netherfield, Oldbrook, Peartree Bridge, Redmoor, Springfield, Tinkers Bridge, Woughton on the Green, Woughton Park, Simpson, Winterhill",Milton Keynes
+MK7,"Caldecotte, Kents Hill, Tilbrook, Walton, Walton Hall, Wavendon",Milton Keynes
+MK8,"Crownhill, Grange Farm, Great Holm, Hazeley, Loughton, Loughton Lodge, Two Mile Ash, Wymbush",Milton Keynes
+MK9,"Central Milton Keynes, Campbell Park",Milton Keynes
+MK10,"Brinklow, Broughton, Kingston, Middleton (Milton Keynes Village), Monkston, Oakgrove",Milton Keynes
+MK11,"Fullers Slade, Galley Hill, Kiln Farm, Stony Stratford",Milton Keynes
+MK12,"Greenleys, Hodge Lea, Old Wolverton, Stacey Bushes, Wolverton, Wolverton Mill",Milton Keynes
+MK13,"Bancroft/Bancroft Park, Bluebridge, Bradwell and Bradwell Abbey, Bradwell Common, New Bradwell, Heelands, Stonebridge",Milton Keynes
+MK14,"Blakelands, Conniburrow, Downs Barn, Giffard Park, Great Linford, Linford Wood, Stantonbury, Neath Hill",Milton Keynes
+MK15,"Bolbeck Park, Downhead Park, Fox Milne, Newlands, Pennyland, Pineham, Northfield, Tongwell, Willen Park, Willen, Willen Lake",Milton Keynes
+MK16,"Astwood, Broughton, Chicheley, Filgrave, Gayhurst, Hardmead, Lathbury, Little Crawley, Moulsoe, North Crawley, Newport Pagnell, Sherington, Stoke Goldington, Tyringham",Milton Keynes
+MK17,"Aspley Guise, Battlesden, Bow Brickhill, Drayton Parslow, Eversholt, Great Brickhill, Great Horwood, Hulcote, Little Brickhill, Little Horwood, Milton Bryan, Mursley, Nash, Newton Longville, Potsgrove, Salford, Stoke Hammond, Swanbourne, Thornton, Tingrith, Wavendon, Whaddon, Woburn, Woburn Sands.",Milton Keynes
+MK18,"Addington, Adstock, Akeley, Barton Hartshorn, Botolph Claydon, Buckingham, Calvert, Chackmore, Chetwode, Dadford, Dunton, East Claydon, Finmere, Foscott, Gawcott, Granborough, Hillesden, Hoggeston, Leckhamstead, Lillingstone Dayrell, Lillingstone Lovell, Maids Moreton, Middle Claydon, Newton Purcell, Oxfordshire, North Marston, Padbury, Shalstone, Steeple Claydon, Tingewick, Thornborough, Water Stratford, Winslow",Aylesbury Vale
+MK19,"Beachampton, Calverton, Castlethorpe Cosgrove, Deanshanger, Hanslope, Haversham, Little Linford, Long Street, Old Stratford, Passenham, Upper Weald, Wicken",Aylesbury Vale
+MK40,"Biddenham, Castle, De Parys, Great Denham, Harpur, Queens Park",Bedford
+MK41,"Brickhill, Clapham, De Parys, Goldington, Harpur, Newnham, Putnoe, Renhold, Salph End",Bedford
+MK42,"Cauldwell, Elstow, Harrowden, Kempston, Kingsbrook, Shortstown, Wixams",Bedford
+MK43,"Bourne End, Brogborough, Box End, Bromham, Cranfield, Carlton, Felmersham, Harrold, Husborne Crawley, Keeley Green, Kempston Rural, Lidlington, Lower Shelton, Marston Moretaine, Newton Blossomville Oakley, Odell, Pavenham, Radwell, Ridgmont, Stagsden, Stevington, Stewartby, Turvey, Upper Shelton, West End, Wood End, Wootton, Wootton Green",Bedford
+MK44,"Begwary, Bletsoe, Blunham, Bolnhurst, Cardington, Chawston, Colesden, Colmworth, Cople, Duck's Cross, Great Barford, Keysoe, Keysoe Row, Kingsbrook, Knotting, Knotting Green, Little Staughton, Melchbourne, Milton Ernest, Mogerhanger, Newton Bromswold, Pertenhall, Ravensden, Riseley, Roxton, Sharnbrook, Souldrop, Swineshead, Thurleigh, Top End, Wilden, Willington, Wyboston, Yielden",Bedford
+MK45,"Ampthill, Barton-le-Clay, Clophill, Cotton End, Flitton, Flitwick, Gravenhurst, Greenfield, Haynes, Haynes Church End, Herring's Green, Houghton Conquest, How End, Kempston Hardwick, Maulden, Millbrook, Pulloxhill, Sharpenhoe, Silsoe, Steppingley, Westoning, Wilstead",Bedford
+MK46,"Clifton Reynes, Cold Brayfield, Emberton, Lavendon, Olney, Ravenstone, Warrington, Weston Underwood",Milton Keynes
+MK77,Morgan Stanley Processing Centre,Milton Keynes
+MK98,Non-geographic,Milton Keynes
+ML1,"Motherwell, Carfin, Cleland, Hareshaw, Holytown, New Stevenston, Newarthill, Newhouse",North Lanarkshire
+ML2,"Wishaw, Bonkle, Bogside, Garrion Bridge, Morningside, Overtown, Waterloo",North Lanarkshire
+ML3,"Hamilton, Ferniegair, Limekilnburn, Quarter",South Lanarkshire
+ML4,"Bellshill, Orbiston, Mossend",North Lanarkshire
+ML5,"Coatbridge, Annathill, Glenboig",North Lanarkshire
+ML6,"Airdrie, Calderbank, Caldercruix, Chapelhall, Forrestfield, Gartness, Glenmavis, Greengairs, Plains, Riggend, Stand, Wattston",North Lanarkshire
+ML7,"Shotts, Allanton, Eastfield, Harthill, Hartwood, Salsburgh",North Lanarkshire
+ML8,"Carluke, Law",South Lanarkshire
+ML9,"Netherburn, Stonehouse, Ashgill",South Lanarkshire
+ML10,"Strathaven, Caldermill, Chapelton, Drumclog, Glassford, Sandford, Gilmourton, West Dykes Farm",South Lanarkshire
+ML11,"Lesmahagow, Blackwood, Carluke, Kirkmuirhill",South Lanarkshire
+ML12,"Biggar, Broughton, Symington, Wanlockhead",South Lanarkshire
+N1,"Barnsbury, Canonbury, Kings Cross, Islington, Pentonville, De Beauvoir Town, Hoxton",Hackney
+N1C,Kings Cross,Camden
+N1P,Non-geographic,Islington
+N2,"East Finchley, Fortis Green, Hampstead Garden Suburb",Barnet
+N3,"Finchley, Church End, Finchley Central",Barnet
+N4,"Finsbury Park, Manor House, Harringay, Stroud Green",Haringey
+N5,"Highbury, Highbury Fields",Islington
+N6,"Highgate, Hampstead Heath",Camden
+N7,"Holloway, Barnsbury, Islington, Tufnell Park",Islington
+N8,"Hornsey, Crouch End, Harringay",Haringey
+N9,"Lower Edmonton, Edmonton",Enfield
+N10,Muswell Hill,Haringey
+N11,"New Southgate, Friern Barnet, Bounds Green, Arnos Grove",Enfield
+N12,"North Finchley, Woodside Park",Barnet
+N13,Palmers Green,Enfield
+N14,"Southgate, Oakwood, Arnos Grove",Enfield
+N15,"West Green, Seven Sisters, Duckett's Green",Haringey
+N16,"Stoke Newington, Stamford Hill, Shacklewell, Dalston, Newington Green",Hackney
+N17,"Tottenham, South Tottenham",Haringey
+N18,"Upper Edmonton, Edmonton",Enfield
+N19,"Upper Holloway, Archway, Tufnell Park, Hornsey",Islington
+N20,"Whetstone, Totteridge, Oakleigh Park",Barnet
+N21,"Winchmore Hill, Bush Hill, Grange Park",Enfield
+N22,"Wood Green, Bounds Green, Bowes Park",Haringey
+N81,Non-geographic,Haringey
+NE1,Newcastle city centre,Newcastle
+NE2,"Jesmond, Spital Tongues",Newcastle
+NE3,"Gosforth, Fawdon, Kingston Park",Newcastle
+NE4,"Fenham, West Gate, Wingrove",Newcastle
+NE5,"Westerhope, Newcastle West",Newcastle
+NE6,"Walker, Byker, Heaton",Newcastle
+NE7,"High Heaton, Benton",Newcastle
+NE8,"Gateshead, Bensham",Gateshead
+NE9,"Low Fell, Springwell",Gateshead
+NE10,"Felling, Leam Lane, Pelaw",Gateshead
+NE11,"Dunston, Metro Centre, Team Valley, Kibblesworth",Gateshead
+NE12,Killingworth,North Tyneside
+NE13,"Airport, Wideopen, Dinnington",Newcastle
+NE15,"Lemington, Throckley, Newburn",Newcastle
+NE16,"Whickham, Sunniside, Burnopfield",Gateshead
+NE17,"Chopwell, Western Chopwell Wood",Gateshead
+NE18,Stamfordham,Northumberland
+NE19,"Otterburn, Catcleugh",Northumberland
+NE20,Ponteland,Northumberland
+NE21,"Blaydon, Winlaton",Gateshead
+NE22,"Bedlington, Hartford Bridge",Northumberland
+NE23,Cramlington,Northumberland
+NE24,"Blyth, Newsham",Northumberland
+NE25,"Monkseaton, New Hartley, Holywell, Seaton Delaval",North Tyneside
+NE26,"Whitley Bay, Seaton Sluice",North Tyneside
+NE27,"Shiremoor, West Allotment, Backworth, Holystone, Murton Village",North Tyneside
+NE28,"Battle Hill, Willington, Wallsend, North Tyne Tunnel",North Tyneside
+NE29,"North Shields, Royal Quays, Billy Mill, New York",North Tyneside
+NE30,"Marden, Tynemouth, Cullercoats",North Tyneside
+NE31,Hebburn,South Tyneside
+NE32,"Jarrow, Fellgate, South Tyne Tunnel",South Tyneside
+NE33,"South Shields Town Centre, Deans, High Shields",South Tyneside
+NE34,"Harton, Horsley Hill, Marsden, Simonside, Brockley Whins",South Tyneside
+NE35,Boldon Colliery,South Tyneside
+NE36,East & West Boldon,South Tyneside
+NE37,"Usworth, Sulgrave, Albany",Sunderland
+NE38,"Washington Town Centre, Oxclose, Fatfield",Sunderland
+NE39,"Rowlands Gill, High Spen, Hamsterley Mill, Eastern Chopwell Wood",Gateshead
+NE40,"Ryton, Crawcrook, Greenside",Gateshead
+NE41,Wylam,Gateshead
+NE42,"West Wylam, Prudhoe, Ovingham, Ovington",Gateshead
+NE43,"Stocksfield, Painshawfield, Newton",Northumberland
+NE44,"Riding Mill, Broomhaugh",Northumberland
+NE45,"Corbridge, Dilston, Aydon, Halton",Northumberland
+NE46,"Hexham, Anick, Oakwood, Acomb",Northumberland
+NE47,"Allendale Town, Allenheads, Haydon Bridge, Bardon Mill",Northumberland
+NE48,"Bellingham, Kielder, Wark",Northumberland
+NE49,"Haltwhistle, Melkridge",Northumberland
+NE61,"Morpeth, Tranwell, Clifton Hepscott",Northumberland
+NE62,"Scotland Gate, Guidepost, Stakeford, West Sleekburn, Bomarsund",Northumberland
+NE63,Ashington,Northumberland
+NE64,Newbiggin-by-the-Sea,Northumberland
+NE65,"Rothbury, Longhorsley, Felton, Amble",Northumberland
+NE66,"Alnwick, Alnmouth, Embleton, Powburn",Northumberland
+NE67,Benthall,Northumberland
+NE68,"Seahouses, North Sunderland",Northumberland
+NE69,Bamburgh,Northumberland
+NE70,Belford,Northumberland
+NE71,Wooler,Northumberland
+NE82,Non-geographic,Newcastle
+NE83,Non-geographic,Newcastle
+NE85,Non-geographic,Newcastle
+NE88,Non-geographic,Newcastle
+NE89,Washington,Newcastle upon Tyne
+NE92,Non-geographic,Gateshead
+NE98,Non-geographic,Newcastle
+NE99,Non-geographic,Newcastle
+NG1,Nottingham City Centre,Nottingham
+NG2,"Nottingham City Centre, Sneinton, The Meadows, West Bridgford",Nottingham
+NG3,"Carlton, St Ann's, Mapperley",Gedling
+NG4,"Carlton, Gedling Village, Netherfield",Gedling
+NG5,"Sherwood, Arnold, Bestwood, Carrington, Top Valley, Rise Park",Nottingham
+NG6,"Bestwood Village, Bulwell, Old Basford",Nottingham
+NG7,"New Basford, Forest Fields, Hyson Green, Radford, Lenton",Nottingham
+NG8,"Aspley, Wollaton, Whitemoor, Bilborough",Nottingham
+NG9,"Beeston, Stapleford, Lenton Abbey, Chilwell, Trowell",Broxtowe
+NG10,"Long Eaton, Sawley, Sandiacre",Erewash
+NG11,"Clifton, Ruddington, Gotham",Nottingham
+NG12,"Cotgrave, Radcliffe on Trent, Keyworth",Rushcliffe
+NG13,"Bingham, Whatton, Bottesford, Aslockton",Rushcliffe
+NG14,"Calverton, Lowdham",Gedling
+NG15,"Hucknall, Ravenshead, Newstead",Ashfield
+NG16,"Kimberley, Eastwood, Nuthall, Langley Mill, Pinxton, Selston, Awsworth, Ironville, Jacksdale, Underwood, Brinsley, Watnall",Broxtowe
+NG17,"Sutton-in-Ashfield, Kirkby-in-Ashfield, Stanton Hill, Skegby",Ashfield
+NG18,Mansfield,Mansfield
+NG19,Mansfield Woodhouse,Mansfield
+NG20,"Shirebrook, Market Warsop",Bolsover
+NG21,"Rainworth, Edwinstowe, Clipstone",Newark and Sherwood
+NG22,Newark-on-Trent,Newark and Sherwood
+NG23,Newark-on-Trent,Newark and Sherwood
+NG24,Newark-on-Trent,Newark and Sherwood
+NG25,Southwell,Newark and Sherwood
+NG31,Grantham,South Kesteven
+NG32,"Grantham, Croxton Kerrial, Sedgebrook",South Kesteven
+NG33,"Grantham, Castle Bytham, Corby Glen",South Kesteven
+NG34,Sleaford,North Kesteven
+NG70,Special Business Reply Service,Mansfield
+NG80,Experian,Nottingham
+NG90,Boots the Chemists,Nottingham
+NN1,Northampton,Northampton
+NN2,Kingsthorpe,Northampton
+NN3,"Boothville, Moulton, Weston Favell",Daventry
+NN4,"Brackmills, East Hunsbury, West Hunsbury, Great Houghton, Hardingstone, Wootton, Grange Park",Northampton
+NN5,"Duston, New Duston",Northampton
+NN6,"Brixworth, Cold Ashby, Earls Barton, Ecton, Guilsborough, Long Buckby Spratton, Sywell, West Haddon",Daventry
+NN7,"Alderton, Blisworth, Bugbrooke, Castle Ashby, Cogenhoe, Dodford, Flore, Gayton, Grafton Regis, Hackleton, Harpole, Harlestone, Hartwell, Horton, Milton Malsor, Nether Heyford, Piddington, Preston Deanery, Quinton, Roade, Rothersthorpe, Stoke Bruerne, Weedon Bec, Yardley Gobion, Yardley Hastings, Weedon Bec",Daventry
+NN8,"Wellingborough, Wilby",Wellingborough
+NN9,"Wellingborough, Chelveston, Finedon, Great Harrowden, Irthlingborough, Little Harrowden, Raunds",Wellingborough
+NN10,"Higham Ferrers, Rushden, Wymington",East Northamptonshire
+NN11,"Braunston, Daventry, Greens Norton, Hinton, Moreton Pinkney, Welton",Daventry
+NN12,"Abthorpe, Caswell, Greens Norton, Silverstone, Towcester, Weston",South Northamptonshire
+NN13,"Brackley, Croughton, Farthinghoe, Hinton-in-the-Hedges",South Northamptonshire
+NN14,"Broughton, Desborough, Geddington, Isham, Pytchley, Rothwell, Thorpe Malsor, Thrapston",East Northamptonshire
+NN15,"Burton Latimer, Barton Seagrave",Kettering
+NN16,Kettering,Kettering
+NN17,"Bulwick, Corby",Corby
+NN18,"Great Oakley, Little Oakley",Corby
+NN29,"Bozeat, Great Doddington, Irchester, Podington, Wollaston",Bedford
+NN99,Northampton town centre,Northampton
+NPT,Newport,Newport
+NP1,"Newbridge, Risca, Rogerstone",Newport
+NP2,"Blackwood, Ebbw Vale",Newport
+NP3,"Ebbw Vale, Arbertillery",Newport
+NP4,"Pontypool, Blaenavon, Little Mill, Glascoed",Monmouthshire
+NP5,"Monmouth, Usk",Newport
+NP6,Chepstow,Newport
+NP7,Abergavenny,Monmouthshire
+NP8,Crickhowell,Powys
+NP9,Newport,Newport
+NP10,"Western Newport, including Bassaleg, Duffryn, Rogerstone",Newport
+NP11,"North-western Newport, including: Abercarn, Crumlin, Cwmfelinfach, Risca, Ynysddu",Caerphilly
+NP12,"Blackwood, Pontllanfraith, Wyllie",Caerphilly
+NP13,Abertillery,Blaenau Gwent
+NP15,"Usk, Raglan",Monmouthshire
+NP16,"Chepstow, Sedbury, Beachley",Monmouthshire
+NP18,"Eastern Newport, including Caerleon, Langstone, Llanwern, Nash, Llandegveth Underwood",Newport
+NP19,"Eastern and East Central Newport, Beechwood, Maindee, St. Julians, Ringland",Newport
+NP20,"Western and West Central Newport, Pill, Maesglas, Crindau, Malpas, Bettws",Newport
+NP22,"Tredegar, Rhymney",Blaenau Gwent
+NP23,"Ebbw Vale, Brynmawr",Blaenau Gwent
+NP24,New Tredegar,Blaenau Gwent
+NP25,"Monmouth, Redbrook, Welsh Newton",Monmouthshire
+NP26,"Caldicot, Magor, Newport",Monmouthshire
+NP44,Cwmbran,Torfaen
+NR1,"Thorpe Hamlet, Norwich city centre",Norfolk
+NR2,Eaton,Norfolk
+NR3,Norwich,Norfolk
+NR4,Norwich,Norfolk
+NR5,Norwich,Norfolk
+NR6,Norwich,Norfolk
+NR7,Norwich,Norfolk
+NR8,Norwich,Norfolk
+NR9,Norwich,Norfolk
+NR10,"Pettywell, Reepham, Hevingham, Stratton Strawless",Norfolk
+NR11,"Alby with Thwaite, Aldborough, Aylmerton, Aylsham, Banningham, Blickling, East Beckham, Little Barningham, Hanworth, North Barningham, Roughton, Felbrigg, Gimingham, Ingworth, Matlask, Mundesley, Southrepps, Wickmere",Norfolk
+NR12,"Bacton, Brumstead, Coltishall, East Ruston, Hickling, Ingham, Lessingham, Sloley, Stalham, Tunstead, Wroxham",Norfolk
+NR13,"Acle, Brundall, Reedham, Rackheath, Salhouse",Norfolk
+NR14,"Loddon, Poringland, Trowse",Norfolk
+NR15,Long Stratton,Norfolk
+NR16,Larling,Norfolk
+NR17,"Little Ellingham, Great Ellingham",Norfolk
+NR18,Wymondham,Norfolk
+NR19,Dereham,Norfolk
+NR20,"Bawdeswell, Bylaugh, Elsing, Foxley, Foulsham, Gressenhall, Guestwick, Whissonsett, Nethergate, North Elmham, Swanton Morley, Themelthorpe",Norfolk
+NR21,"Barsham, Binham, Fakenham, Fulmodeston, South Raynham, East Raynham, West Raynham, Hempton, Helhoughton, Hindringham, Gunthorpe, Tatterford, Toftrees",Norfolk
+NR22,Walsingham,Norfolk
+NR23,Quarles,Norfolk
+NR24,"Stody, Briningham, Brinton, Sharrington, Plumstead, Swanton Novers",Norfolk
+NR25,"Kelling, Baconsthorpe, Blakeney, Bodham, Cley next the Sea, Edgfield, Hempstead, High Kelling, HunworthLangham, Letheringsett, Glandford, Weybourne, West Beckham, Salthouse",Norfolk
+NR26,"Beeston Regis, West Runton, Upper Sheringham",Norfolk
+NR27,"Cromer, East Runton, Frogshall, Trimingham, Northrepps, Overstrand",Norfolk
+NR28,"Antingham, Crostwight, Honing, Knapton, Paston, Ridlington",Norfolk
+NR29,Great Yarmouth,Norfolk
+NR30,Caister-on-Sea,Norfolk
+NR31,"Gorleston, Bradwell",Norfolk
+NR32,North Lowestoft,Suffolk
+NR33,South Lowestoft,Suffolk
+NR34,Beccles,Suffolk
+NR35,"Bungay, Topcroft, Flixton",Suffolk
+NR99,Non-geographic,Norwich
+NW1,"Euston, Camden Town, Somers Town, Primrose Hill, Gospel Oak, Lisson Grove",Camden
+NW1W,"Non-geographic, Euston",Camden
+NW2,"Cricklewood, Willesden, Neasden, Dollis Hill, Childs Hill",Barnet
+NW3,"Hampstead, Chalk Farm, Primrose Hill, Swiss Cottage, Belsize Park, Gospel Oak, Frognal, Childs Hill",Camden
+NW4,"Brent Cross, Hendon",Barnet
+NW5,"Kentish Town, Tufnell Park, Dartmouth Park, Gospel Oak",Camden
+NW6,"Kilburn, Brondesbury, West Hampstead, Queen's Park",Brent
+NW7,"Mill Hill, Arkley",Barnet
+NW8,"St John's Wood, Primrose Hill, Lisson Grove",Camden
+NW9,"The Hyde, Colindale, Kingsbury, Queensbury, West Hendon",Barnet
+NW10,"Willesden, Acton, Harlesden, Kensal Green, Neasden, Old Oak Common, Park Royal, Stonebridge, Brent Park",Brent
+NW11,"Golders Green, Hampstead Garden Suburb",Barnet
+NW26,Non-geographic,Camden
+OL1,"Chadderton, Higginshaw, Oldham",Oldham
+OL2,"Heyside, Royton, Shaw",Oldham
+OL3,"Delph, Denshaw, Diggle, Dobcross, Greenfield, Uppermill",Oldham
+OL4,"Austerlands, Grasscroft, Grotton, Lees, Lydgate, Oldham, Scouthead, Springhead, Waterhead",Oldham
+OL5,"Mossley, Mossley Cross",Tameside
+OL6,Ashton-under-Lyne,Tameside
+OL7,Ashton-under-Lyne,Tameside
+OL8,"Bardsley, Oldham",Oldham
+OL9,"Chadderton, Oldham, Westwood",Oldham
+OL10,Heywood,Rochdale
+OL11,"Ashworth, Rochdale, Castleton",Rochdale
+OL12,"Buckley, Facit, Great Howarth, Healy, Hurstead, Rochdale, Shawforth, Wardle, Whitworth",Rochdale
+OL13,"Bacup, Britannia, Stacksteads",Rossendale
+OL14,"Cornholme, Todmorden, Eastwood, Walsden",Calderdale
+OL15,"Littleborough, Shore, Smithybridge, Summit",Rochdale
+OL16,"Burnedge, Firgrove, Hurstead, Milnrow, Rochdale, Smallbridge, Thornham",Rochdale
+OL95,Non-geographic,Oldham
+OX1,"Central and South Oxford, Kennington",Oxford
+OX2,"North and West Oxford, Botley, North Hinksey, Summertown, Wytham",Oxford
+OX3,"North East Oxford, Headington, Marston, Elsfield",Oxford
+OX4,"East Oxford, Cowley, Blackbird Leys, Sandford-on-Thames, Iffley",Oxford
+OX5,Kidlington,Cherwell
+OX6,Bicester,Oxford
+OX7,"Charlbury, Chadlington",West Oxfordshire
+OX8,"Witney, Burford, Eynsham",Oxford
+OX9,"Postcombe, Thame, Towersey, North Weston",South Oxfordshire
+OX10,"Wallingford, Berinsfield, Cholsey, Dorchester",South Oxfordshire
+OX11,"Didcot, Blewbury, Harwell",South Oxfordshire
+OX12,"Wantage, Grove",Vale of White Horse
+OX13,"Longworth, Sunningwell, Frilford, Cothill, Appleton",Vale of White Horse
+OX14,"Abingdon, Appleford-on-Thames, Burcot, Clifton Hampden, Culham, Drayton, Little Wittenham, Long Wittenham, Radley, Milton, Sutton Courtenay",South Oxfordshire
+OX15,"Bloxham, Drayton, Wroxton, North Newington, South Newington, Swalcliffe, Sibford Gower, Sibford Ferris, Barford St Michael, Barford St John, Deddington, Hempton, Broughton, Hornton, Horley, Balscote, Shenington, Alkerton, Wigginton, Milton, Hook Norton, Milcombe, Shutford, Epwell, Tadmarton, Swerford, Bodicote, Brailes, Edge Hill, Ratley, Upton",Cherwell
+OX16,Banbury,Cherwell
+OX17,"Adderbury, Aynho, Arlescote, Chacombe, Charlton, Chipping Warden, Claydon, Cropredy, Culworth, Edgcote, Farnborough, Great Bourton, Hanwell, King's Sutton, Little Bourton, Lower Thorpe, Marston St Lawrence, Middleton Cheney, Mollington, Nethercote, Newbottle, Overthorpe, Shotteswell, Stuchbury, Sulgrave, Thenford, Thorpe Mandeville, Twyford, Wardington, Warkworth, Warmington, Williamscott",Cherwell
+OX18,"Alvescot, Asthall, Aston, Bampton, Barrington, Black Bourton, Bradwell, Brize Norton, Burford, Carterton, Chimney, Clanfield, Cote, Fulbrook, Grafton, Holwell, Lew, Little Clanfield, Radcot, Shilton, Signet, Swinbrook, Taynton, Upper Windrush, Upton, Weald, Westwell, Widford, Windrush",West Oxfordshire
+OX20,"Woodstock, Bladon, Glympton, Kiddington, Woodleys, Wootton",West Oxfordshire
+OX25,"Ambrosden, Arncott, Blackthorn, Caulcott, Duns Tew, Little Chesterton, Lower Heyford, Merton, Middle Aston, Middleton Stoney, North Aston, Piddington, Rousham, Somerton, Steeple Aston, Steeple Barton, Upper Heyford, Wendlebury, Weston-on-the-Green",Cherwell
+OX26,"Bicester, Chesterton, Launton",Cherwell
+OX27,"Ardley, Bainton, Baynards Green, Bucknell, Caversfield, Charndon, Fewcott, Fringford, Fritwell, Godington, Hardwick, Hethe, Marsh Gibbon, Newton Morrell, Poundon, Souldern, Stoke Lyne, Stratton Audley, Tusmore",Cherwell
+OX28,Witney,West Oxfordshire
+OX29,"Barnard Gate, Brighthampton, Church Hanborough, Combe, Crawley, Curbridge, Ducklington, Eynsham, Freeland, Hailey, Hardwick, High Cogges, Long Hanborough, New Yatt, Newbridge, North Leigh, East End (North Leigh), Old Shifford, Shifford, Standlake, Stanton Harcourt, Stonesfield, Sutton, Yelford",West Oxfordshire
+OX33,"Wheatley, Forest Hill, Holton, Horspath, Horton-cum-Studley, Littleworth, Milton Common, Stanton St. John, Waterperry, Waterstock, Woodperry.",South Oxfordshire
+OX39,Chinnor,South Oxfordshire
+OX44,"Chalgrove, Garsington, Toot Baldon",South Oxfordshire
+OX49,Watlington,South Oxfordshire
+PA1,"Paisley (Central, East and Northeast), Ralston",Renfrewshire
+PA2,Paisley (South),Renfrewshire
+PA3,"Paisley (Northwest), Linwood",Renfrewshire
+PA4,"Renfrew, Inchinnan",Renfrewshire
+PA5,"Johnstone, Brookfield, Elderslie",Renfrewshire
+PA6,"Johnstone, Houston",Renfrewshire
+PA7,Bishopton,Renfrewshire
+PA8,Erskine,Renfrewshire
+PA9,"Johnstone, Howwood",Renfrewshire
+PA10,Johnstone,Renfrewshire
+PA11,Bridge Of Weir,Renfrewshire
+PA12,"Lochwinnoch, Newton of Belltrees",Renfrewshire
+PA13,Kilmacolm,Renfrewshire
+PA14,"Port Glasgow, Langbank",Renfrewshire
+PA15,Greenock,Renfrewshire
+PA16,Greenock,Renfrewshire
+PA17,Skelmorlie,Ayrshire
+PA18,Wemyss Bay,Renfrewshire
+PA19,Gourock,Renfrewshire
+PA20,Isle Of Bute,Buteshire
+PA21,Tighnabruaich,Argyllshire
+PA22,"Colintraive, Glendaruel",Argyllshire
+PA23,Dunoon,Argyllshire
+PA24,Cairndow,Argyllshire
+PA25,Cairndow,Argyllshire
+PA26,Cairndow,Argyllshire
+PA27,Cairndow,Argyllshire
+PA28,Campbeltown,Argyllshire
+PA29,Tarbert,Argyllshire
+PA30,Lochgilphead,Argyllshire
+PA31,Lochgilphead,Argyllshire
+PA32,Inveraray,Argyllshire
+PA33,Dalmally,Argyllshire
+PA34,Oban,Argyllshire
+PA35,Taynuilt,Argyllshire
+PA36,Bridge Of Orchy,Argyllshire
+PA37,Oban,Argyllshire
+PA38,Appin,Argyllshire
+PA39,Glencoe,Highland
+PA40,Kinlochleven,Highland
+PA41,Isle Of Gigha,Argyllshire
+PA42,Isle Of Islay,Argyllshire
+PA43,Isle Of Islay,Argyllshire
+PA44,Isle Of Islay,Argyllshire
+PA45,Isle Of Islay,Argyllshire
+PA46,Isle Of Islay,Argyllshire
+PA47,Isle Of Islay,Argyllshire
+PA48,Isle Of Islay,Argyllshire
+PA49,Isle Of Islay,Argyllshire
+PA60,Isle Of Jura,Argyllshire
+PA61,Isle Of Colonsay,Argyllshire
+PA62,Isle Of Mull,Argyllshire
+PA63,Isle Of Mull,Argyllshire
+PA64,Isle Of Mull,Argyllshire
+PA65,Isle Of Mull,Argyllshire
+PA66,Isle Of Mull,Argyllshire
+PA67,Isle Of Mull,Argyllshire
+PA68,Isle Of Mull,Argyllshire
+PA69,Isle Of Mull,Argyllshire
+PA70,Isle Of Mull,Argyllshire
+PA71,Isle Of Mull,Argyllshire
+PA72,Isle Of Mull,Argyllshire
+PA73,"Ulva Ferry, Isle Of Mull",Argyllshire
+PA74,Isle Of Mull,Argyllshire
+PA75,Isle Of Mull,Argyllshire
+PA76,Isle Of Iona,Argyllshire
+PA77,Isle Of Tiree,Argyllshire
+PA78,Isle Of Coll,Argyllshire
+PA80,Morvern,Renfrewshire
+PA81,Isle Of South Uist,Comhairle nan Eilean Siar
+PA82,Isle Of North Uist,Comhairle nan Eilean Siar
+PA83,Isle Of Harris,Comhairle nan Eilean Siar
+PA84,Isle of Scalpay,Comhairle nan Eilean Siar
+PA85,Isle of Lewis,Comhairle nan Eilean Siar
+PA86,Isle of Lewis,Comhairle nan Eilean Siar
+PA87,Isle of Lewis,Comhairle nan Eilean Siar
+PA88,Isle of North Uist,Comhairle nan Eilean Siar
+PA98,Glasgow Airport,Glasgow
+PE1,"Peterborough, Eastfield, Eastgate, Dogsthorpe, Fengate, Newark, Parnwell",Peterborough
+PE2,"Alwalton, Fletton, The Ortons, Stanground, Woodston",Peterborough
+PE3,"Peterborough, Bretton, Longthorpe, Netherton, Westwood, Ravensthorpe",Peterborough
+PE4,"Gunthorpe, Paston, Walton, Werrington",Peterborough
+PE5,"Ailsworth, Castor, Sutton",Peterborough
+PE6,"Baston, The Deepings, Crowland, Upton, Langtoft",South Kesteven
+PE7,"Coates, Hampton, Folksworth, Yaxley, Whittlesey",Peterborough
+PE8,"Oundle, Achurch, Apethorpe, Armston, Ashton, Barnwell, Blatherwycke, Cotterstock, Elton, Fotheringhay, Hemington, Kings Cliffe, Lower Benefield, Luddington, Nassington, Polebrook, Sibson, Southwick, Stibbington, Tansor, Thornhaugh, Thurning, Upper Benefield, Wadenhoe, Wansford, Warmington, Water Newton, Wigsthorpe, Wittering, Woodnewton, Yarwell",East Northamptonshire
+PE9,"Stamford, Ashton, Aunby, Bainton, Barholm, Barnack, Braceborough, Careby, Carlby, Collyweston, Duddington, Essendine, Easton-on-the-Hill, Great Casterton, Greatford, Ketton, Little Casterton, Newstead, Pickworth, Pilsgate, Ryhall, Southorpe, Tallington, Tickencote, Tinwell, Tixover, Uffington, Ufford, Wilsthorpe, Wothorpe",South Kesteven
+PE10,"Bourne, Bulby, Cawthorpe, Dowsby, Dunsby, Dyke, Edenham, Grimsthorpe, Haconby, Hanthorpe, Keisby, Kirkby Underwood, Lound, Manthorpe, Morton, Rippingale, Scottlethorpe, Stainfield, Thurlby, Toft, Twenty, Witham on the Hill",South Kesteven
+PE11,"Spalding, Deeping St. Nicholas, Donington, Gosberton, Hop Pole, Pinchbeck, Pode Hole, Quadring, Quadring Fen, Surfleet, Tongue End",South Holland
+PE12,"Spalding, Cowbit, Gedney, Holbeach, Fleet, Holbeach, Holbeach Drove, Long Sutton, Little Sutton, Moulton, Sutton Bridge, Weston, Weston Hills, Whaplode",South Holland
+PE13,"Wisbech, Guyhirn, Murrow, Parson Drove, Tydd St. Giles, Wisbech St. Mary",Fenland
+PE14,"Wisbech, Elm, Emneth, Emneth Hungate, Marshland St. James, Outwell, Terrington St. John, Upwell, Walpole Highway, Walsoken, Welney, Tipps End, West Walton",Fenland
+PE15,"March, Benwick, Doddington, Manea, Wimblington",Fenland
+PE16,"Chatteris, Swingbrow",Fenland
+PE17,"Warboys, Sawtry, St Ives",Peterborough
+PE18,"Huntingdon, Kimbolton, Spaldwick, Southoe",Huntingdonshire
+PE19,"St Neots, Abbotsley, Buckden, Croxton, Diddington, Duloe, Eaton Ford, Eaton Socon, Eltisley, Eynesbury,",Huntingdonshire
+PE20,"Algarkirk, Amber Hill, Bicker, Brothertoft, Fosdyke, Frampton, Kirton, Sutterton, Swineshead, Wigtoft",Boston
+PE21,"Fishtoft, Wyberton",Boston
+PE22,"Benington, Butterwick, Carrington, Eastville, Freiston, Friskney, Frithville, Langrick, Leverton, Mareham-le-Fen, Moorby, New Bolingbroke, Old Leake, Revesby, Stickney, Wrangle",Boston
+PE23,"Asgarby, Aswardby, Bag Enderby, Dalby, East Kirkby, Firsby, Halton Holegate, Harrington, Keal Cotes, Langton, Mavis Enderby, Monksthorpe, Partney, Sausthorpe, Somersby",East Lindsey
+PE24,"Addlethorpe, Anderby, Anderby Creek, Ashington End, Bratoft, Burgh Le Marsh, Chapel St Leonards, Croft, Hogsthorpe, Orby, Wainfleet",East Lindsey
+PE25,"Skegness, Croft, Ingoldmells, Roman Bank",East Lindsey
+PE26,"Huntingdon, Ramsey, Bury, Ramsey Mereside, Upwood",Huntingdonshire
+PE27,"St Ives, Holywell, Needingworth",Huntingdonshire
+PE28,"Abbots Ripton, Alconbury, Alconbury Weston, Barham, Bluntisham, Brampton, Broughton, Buckworth, Bythorn, Catworth, Colne, Coppingford, Covington, Earith, Easton, Ellington, Fenstanton, Glatton, Grafham, Great Gidding, Great Stukeley, Hamerton, Hartford, Hemingford Abbots, Hemingford Grey, Hilton, Houghton, Keyston, Kimbolton, Kings Ripton, Leighton Bromswold, Little Gidding, Little Stukeley, Lower Dean, Molesworth, Old Hurst, Old Weston, Perry, Pidley, Sawtry, Somersham, Spaldwick, Stow Longa, Tilbrook, Upper Dean, Warboys, Wennington, Winwick, Wistow, Woodhurst, Woodwalton, Woolley, Wyton",Huntingdonshire
+PE29,"Huntingdon, Godmanchester, Hartford, Hinchingbrooke",Huntingdonshire
+PE30,"King's Lynn, North Wootton, South Wootton",West Norfolk
+PE31,"Wolferton, Snettisham, Heacham, Brancaster, Burnham Thorpe",West Norfolk
+PE32,"East Winch, Leziate, Middleton, Mileham, Narborough, East Lexham",West Norfolk
+PE33,"Barton Bendish, Fincham",West Norfolk
+PE34,"Clenchwarton, Islington, Stow Bardolph, Terrington St Clement, Tilney All Saints, Tilney St. Lawrence, Walpole Cross Keys, West Lynn, Wimbotsham",West Norfolk
+PE35,Sandringham,West Norfolk
+PE36,"Hunstanton, Holme, Ringstead, Sedgeford, Thornham",West Norfolk
+PE37,"Swaffham, Beachamwell, Cockley Cley, Necton, North Pickenham, South Pickenham",West Norfolk
+PE38,Downham Market,West Norfolk
+PE99,Non-geographic,Peterborough
+PH1,Perth,Perth and Kinross
+PH2,Perth,Perth and Kinross
+PH3,Aberuthven,Perth and Kinross
+PH4,Blackford,Perth and Kinross
+PH5,Crieff,Perth and Kinross
+PH6,Crieff,Perth and Kinross
+PH7,Crieff,Perth and Kinross
+PH8,Dunkeld,Perth and Kinross
+PH9,Pitlochry,Perth and Kinross
+PH10,Blairgowrie,Perth and Kinross
+PH11,Alyth,Perth and Kinross
+PH12,"Meigle, Newtyle",Perth and Kinross
+PH13,Coupar Angus,Perth and Kinross
+PH14,Perth,Perth and Kinross
+PH15,Aberfeldy,Perth and Kinross
+PH16,Pitlochry,Perth and Kinross
+PH17,Pitlochry,Perth and Kinross
+PH18,Pitlochry,Perth and Kinross
+PH19,Dalwhinnie,Highland
+PH20,"Newtonmore, Kinloch Laggan, Laggan",Highland
+PH21,"Kingussie, Insh, Kincraig",Highland
+PH22,Aviemore,Highland
+PH23,"Carrbridge, Bogroy",Highland
+PH24,Boat of Garten,Highland
+PH25,Nethy Bridge,Highland
+PH26,"Grantown-on-Spey, Advie, Cromdale, Dulnain Bridge",Highland
+PH30,Corrour,Highland
+PH31,"Roy Bridge, Murlaggan, Tulloch",Highland
+PH32,"Fort Augustus, Auchterawe",Highland
+PH33,Fort William,Highland
+PH34,Spean Bridge,Highland
+PH35,Invergarry,Highland
+PH36,Acharacle,Highland
+PH37,"Glenfinnan, Polloch",Highland
+PH38,"Lochailort, Glenuig, Kinlochmoidart",Highland
+PH39,Arisaig,Highland
+PH40,Morar,Highland
+PH41,Knoydart,Highland
+PH42,Isle Of Eigg,Highland
+PH43,Isle Of Rum,Highland
+PH44,Isle Of Canna,Highland
+PH49,Ballachulish,Highland
+PH50,Kinlochleven,Highland
+PL1,"Plymouth, Devonport, The Hoe, Millbridge, Stoke, Stonehouse",Plymouth
+PL2,"Beacon Park, Ford, Keyham, North Prospect, Pennycross, Home Park",Plymouth
+PL3,"Efford, Hartley, Laira, Mannamead, Milehouse, Peverell, Higher Compton",Plymouth
+PL4,"Barbican, Lipson, Mount Gould, Mutley, Prince Rock, St. Judes",Plymouth
+PL5,"Crownhill, Ernesettle, Honicknowle, Whitleigh, St. Budeaux, Tamerton Foliot",Plymouth
+PL6,"Derriford, Eggbuckland, Estover, Leigham, Roborough, Southway",Plymouth
+PL7,"Plympton, Sparkwell",Plymouth
+PL8,"Brixton, Newton Ferrers, Noss Mayo, Yealmpton",South Hams
+PL9,"Plymstock, Heybrook Bay, Mount Batten, Wembury",Plymouth
+PL10,"Cawsand, Cremyll, Fort Picklecombe, Freathy, Kingsand, Millbrook",Cornwall
+PL11,"Torpoint, Antony, Crafthole, Downderry, Seaton, Sheviock, St John",Cornwall
+PL12,"Saltash, Hatt, Landrake, St Germans, Tideford, Trerulefoot",Cornwall
+PL13,"Looe, Lansallos, Polperro",Cornwall
+PL14,"Liskeard, Dobwalls, Doublebois, Minions, St Cleer, St Ive, St Neot",Cornwall
+PL15,"Launceston, Bolventor, Lezant, South Petherwin, Treneglos",Cornwall
+PL16,"Lifton, Broadwoodwidger, Marystow",West Devon
+PL17,"Callington, Ashton, Bray Shop, Kelly Bray, South Hill",Cornwall
+PL18,"Calstock, Gunnislake, Albaston",Cornwall
+PL19,"Tavistock, Bradstone, Mary Tavy, Morwellham, Peter Tavy, Whitchurch",West Devon
+PL20,"Yelverton, Bellever, Crapstone, Horrabridge, Postbridge, Princetown, Two Bridges",West Devon
+PL21,"Ivybridge, Brownston, Cornwood, Ermington, Modbury, Ugborough",South Hams
+PL22,"Lostwithiel, Boconnoc, Lanlivery, Lerryn, St Veep",Cornwall
+PL23,"Fowey, Bodinnick, Golant, Polruan",Cornwall
+PL24,"Par, Polkerris, St Blazey, Tywardreath",Cornwall
+PL25,"St Austell, Carlyon Bay, Charlestown, Trewoon",Cornwall
+PL26,"Gorran Haven, Foxhole, Mevagissey, St Dennis, St Ewe, Sticker",Cornwall
+PL27,"Wadebridge, Little Petherick, Polzeath, Rock, St Eval, St Minver, Trebetherick",Cornwall
+PL28,"Padstow, Crugmeer, Porthcothan, St Merryn, Trevone, Treyarnon",Cornwall
+PL29,"Port Isaac, Port Gaverne, Port Quin, St Endellion, Trelights",Cornwall
+PL30,"Blisland, Lanivet, Luxulyan, Nanstallon, St Kew, St Mabyn, Temple, Withiel",Cornwall
+PL31,"Bodmin, Dunmere",Cornwall
+PL32,"Camelford, Davidstow, Lanteglos-by-Camelford, Otterham, Tresinney",Cornwall
+PL33,"Delabole, Trebarwith, Westdowns",Cornwall
+PL34,"Tintagel, Bossiney, Trewarmett",Cornwall
+PL35,"Boscastle, Lesnewth, Trevalga",Cornwall
+PL95,Non-geographic,Plymouth
+PO1,"Portsmouth, Fratton",Hampshire
+PO2,"Portsmouth, Hilsea, North End",Hampshire
+PO3,"Portsmouth, Hilsea",Hampshire
+PO4,Southsea,Hampshire
+PO5,Southsea,Hampshire
+PO6,Cosham,Hampshire
+PO7,"Waterlooville, Denmead, Purbrook",Hampshire
+PO8,"Clanfield, Cowplain, Horndean",Hampshire
+PO9,"Havant, Rowland's Castle",Hampshire
+PO10,Emsworth,Hampshire
+PO11,Hayling Island,Hampshire
+PO12,"Gosport, Alverstoke, Hardway",Hampshire
+PO13,"Gosport, Lee-on-the-Solent",Hampshire
+PO14,"Fareham, Hill Head, Stubbington, Titchfield",Hampshire
+PO15,"Fareham, Titchfield, Whiteley",Hampshire
+PO16,Portchester,Hampshire
+PO17,Wickham,Hampshire
+PO18,Chichester,Sussex
+PO19,Chichester,Sussex
+PO20,Chichester,Sussex
+PO21,Bognor Regis,Sussex
+PO22,Bognor Regis,Sussex
+PO30,Newport,Isle of Wight
+PO31,"Cowes, Gurnard",Isle of Wight
+PO32,"East Cowes, Whippingham",Isle of Wight
+PO33,Ryde,Isle of Wight
+PO34,Seaview,Isle of Wight
+PO35,"Bembridge, Whitecliff Bay",Isle of Wight
+PO36,Sandown,Isle of Wight
+PO37,Shanklin,Isle of Wight
+PO38,Ventnor,Isle of Wight
+PO39,"Totland Bay, Alum Bay",Isle of Wight
+PO40,Freshwater,Isle of Wight
+PO41,Yarmouth,Isle of Wight
+PR0,Non-geographic,Preston
+PR1,"City Centre, Avenham, Broadgate, Deepdale, Fishwick, St. Matthew's, Penwortham",Preston
+PR2,"Ashton On Ribble, Brookfield, Cadley, Fulwood, Grimsargh, Haighton, Ingol, Larches, Lea, Ribbleton, Riversway, Sharoe Green, Tanterton",Preston
+PR3,"Barnacre-with-Bonds, Barton, Bilsborrow, Bonds, Bowgreave, Broughton, Calder Vale, Chipping, Garstang, Goosnargh, Great Eccleston, Little Eccleston, Longridge, Myerscough, Oakenclough, Pilling, Ribchester, St Michael's On Wyre, Scorton, Whittingham",Fylde
+PR4,"Becconsall, Catforth, Clifton, Cottam, Eaves, Elswick, Freckleton, Hesketh Bank, Hutton, Inskip, Kirkham, Longton, Much Hoole, New Longton, Newton, Tarleton, Thistleton, Walmer Bridge, Warton, Wesham, Woodplumpton, Wrea Green",Fylde
+PR5,"Bamber Bridge, Coupe Green, Gregson Lane, Higher Walton, Hoghton, Lostock Hall, Riley Green, Samlesbury, Walton-le-Dale, Walton Park, Walton Summit",South Ribble
+PR6,"Abbey Village, Adlington, Anderton, Anglezarke, Astley Village, Brindle, Brinscall, Clayton-le-Woods, Cuerden, Heapey, Heath Charnock, Wheelton, White Coppice, Whittle-le-Woods, Withnell",Chorley
+PR7,"Adlington, Buckshaw Village, Charnock Richard, Coppull, Eccleston, Euxton, Heath Charnock, Heskin",Chorley
+PR8,"Ainsdale, Birkdale, Blowick",Sefton
+PR9,"Banks, Churchtown, Crossens, Marshside",Sefton
+PR11,Non-geographic,Preston
+PR25,"Leyland, Clayton-le-Woods, Farington",South Ribble
+PR26,"Leyland, Bretherton, Croston, Farington Moss, Moss Side, Ulnes Walton",South Ribble
+RG1,Reading,Berkshire
+RG2,Whitley,Berkshire
+RG3,"Tilehurst, Burghfield",Berkshire
+RG4,Caversham,Berkshire
+RG5,Woodley,Wokingham
+RG6,Earley,Wokingham
+RG7,"Aldermaston, Bradfield, Burghfield Common, Silchester, Mortimer, Theale",Berkshire
+RG8,"Goring, Streatley",South Oxfordshire
+RG9,"Hambleden, Rotherfield Peppard, Turville, Turville Heath, Skirmett, Rockwell End, Mill End, Fawley, Fingest, Frieth, Greenlands, Nettlebed, Shiplake",South Oxfordshire
+RG10,"Charvil, Hurst, Ruscombe, Twyford, Wargrave",Wokingham
+RG11,"Wokingham, Winnersh, Crowthorne",Wokingham
+RG12,"Bracknell, Bullbrook, Wick Hill",Bracknell Forest
+RG13,"Newbury, Thatcham",Berkshire
+RG14,Newbury,Berkshire
+RG15,"Newbury, Kintbury, Headley, Kingsclere, Woolton Hill",Berkshire
+RG16,"Chieveley, Compton, Lambourn",West Berkshire
+RG17,Hungerford,Berkshire
+RG18,"Hampstead Norreys, Hermitage, Yattendon",West Berkshire
+RG19,Thatcham,Berkshire
+RG20,"Chieveley, Compton",West Berkshire
+RG21,"Basingstoke Town Centre, Eastrop, Black Dam",Hampshire
+RG22,"South Ham, Brighton Hill, Kempshott, Buckskin",Hampshire
+RG23,"Winklebury, Rooksdown, Oakley",Hampshire
+RG24,"Popley, Chineham, Sherborne St John",Hampshire
+RG25,"Cliddesden, Dummer, Overton",Hampshire
+RG26,"Baughurst, Bramley, Brimpton Common, Pamber End, Pamber Heath, Tadley",Hampshire
+RG27,"Hook, Sherfield-on-Loddon, Stratfield Turgis, Turgis Green",Hampshire
+RG28,Whitchurch,Hampshire
+RG29,Hook,Hampshire
+RG30,"Tilehurst, Purley-on-Thames, Southcote",Berkshire
+RG31,"Calcot Row, Tilehurst",Berkshire
+RG40,"Wokingham, Finchampstead, Barkham",Wokingham
+RG41,"Winnersh, Woosehill, Emmbrook, Sindlesham",Wokingham
+RG42,"Binfield, Newell Green, Priestwood, Warfield, Winkfield Row",Bracknell Forest
+RG45,"Crowthorne, Ravenswood",Bracknell Forest
+RH1,"Redhill, Bletchingley, Nutfield, Merstham, South Nutfield",Reigate and Banstead
+RH2,Reigate,Reigate and Banstead
+RH3,"Betchworth, Brockham, Buckland, Strood Green",Mole Valley
+RH4,Dorking,Mole Valley
+RH5,"Capel, Westhumble, Mickleham, Ockley",Mole Valley
+RH6,"Horley, Gatwick Airport",Crawley
+RH7,"Lingfield, Dormansland",Tandridge
+RH8,Oxted,Tandridge
+RH9,"Godstone, South Godstone",Tandridge
+RH10,"Copthorne, Crawley Down, Domewood, Furnace Green, Northgate, Maidenbower, Pound Hill, Rowfant, Southgate, Three Bridges, Tilgate",Crawley
+RH11,"Bewbush, Broadfield, Gossops Green, Ifield, Langley Green, Lowfield Heath, Pease Pottage, Southgate West, West Green",Crawley
+RH12,"Horsham, Broadbridge Heath, Rusper, Rudgwick, Warnham",Horsham
+RH13,"Barns Green, Cowfold, Mannings Heath, Partridge Green, Slinfold, Southwater, West Grinstead",Horsham
+RH14,"Billingshurst, Ifold, Kirdford, Loxwood, Plaistow, Wisborough Green",Chichester
+RH15,"Burgess Hill, Ditchling Common",Mid Sussex
+RH16,"Haywards Heath, Lindfield",Mid Sussex
+RH17,"Ansty, Ardingly, Balcombe, Bolney, Chelwood Gate, Cuckfield, Danehill, Handcross, Hickstead, Horsted Keynes, Wivelsfield, Wivelsfield Green",Mid Sussex
+RH18,Forest Row,Mid Sussex
+RH19,"East Grinstead, Ashurst Wood, Dormans Park, Felbridge, Felcourt, Sharpthorne, West Hoathly",Mid Sussex
+RH20,"Pulborough, Ashington, Storrington, West Chiltington, West Chiltington Common",Horsham
+RH77,Non-geographic,Crawley
+RM1,Romford,Havering
+RM2,"Gidea Park, Heath Park",Havering
+RM3,"Harold Wood, Harold Hill, Noak Hill",Havering
+RM4,"Havering-atte-Bower, Abridge, Stapleford Abbotts, Noak Hill, Navestock, Stapleford Tawney, Stapleford Aerodrome",Havering
+RM5,Collier Row,Havering
+RM6,"Chadwell Heath, Little Heath",Barking and Dagenham
+RM7,"Rush Green, Mawneys, Romford",Havering
+RM8,"Dagenham, Becontree Heath",Barking and Dagenham
+RM9,"Dagenham, Becontree",Barking and Dagenham
+RM10,Dagenham,Barking and Dagenham
+RM11,"Hornchurch, Emerson Park, Ardleigh Green",Havering
+RM12,"Hornchurch, Elm Park",Havering
+RM13,"Rainham, South Hornchurch, Wennington",Havering
+RM14,"Upminster, Cranham, North Ockendon, Bulphan",Havering
+RM15,"South Ockendon, Aveley",Thurrock
+RM16,"Chafford Hundred, Chadwell St Mary, North Stifford, Orsett",Thurrock
+RM17,"Grays, Badgers Dene",Thurrock
+RM18,"Tilbury, East Tilbury, West Tilbury",Thurrock
+RM19,Purfleet,Thurrock
+RM20,"West Thurrock, South Stifford",Thurrock
+RM50,Non-geographic,Romford
+S1,Sheffield City Centre,Sheffield
+S2,"Arbourthorne, Heeley, Highfield, Manor, Norfolk Park, Wybourn, Park Hill",Sheffield
+S3,"Broomhall, Burngreave, Neepsend, Netherthorpe",Sheffield
+S4,"Grimesthorpe, Pitsmoor",Sheffield
+S5,"Firth Park, Shirecliffe, Shiregreen, Southey Green, Parson Cross, Longley, Fir Vale, Wadsley Bridge",Sheffield
+S6,"Bradfield, Hillsborough, Malin Bridge, Stannington, Upperthorpe, Walkley, Fox Hill",Sheffield
+S7,"Abbeydale, Nether Edge, Millhouses, Carter Knowle",Sheffield
+S8,"Batemoor, Beauchief, Greenhill, Jordanthorpe, Lowedges, Meersbrook, Norton, Norton Lees, Woodseats",Sheffield
+S9,"Attercliffe, Brightside, Darnall, Meadowhall, Tinsley, Wincobank",Sheffield
+S10,"Broomhill, Broomhall, Crookes, Crookesmoor, Fulwood, Ranmoor, Crosspool",Sheffield
+S11,"Ecclesall, Endcliffe Park, Ecclesall Road, Greystones, Hunter's Bar, Millhouses, Sharrow Vale, Nether Edge",Sheffield
+S12,"Birley, Gleadless, Gleadless Townend, Hackenthorpe, Intake, Ridgeway",Sheffield
+S13,"Handsworth, Richmond, Woodhouse",Sheffield
+S14,Gleadless Valley,Sheffield
+S17,"Dore, Totley, Bradway",Sheffield
+S18,"Coal Aston, Dronfield, Dronfield Woodhouse, Holmesfield, Unstone",North East Derbyshire
+S19,"Hackenthorpe, Beighton, Mosborough",Sheffield
+S20,"Westfield, Waterthope, Sothall, Donetsk Way, Owlthorpe, Beighton, Crystal Peaks, Halfway, Mosborough",Sheffield
+S21,"Eckington, Killamarsh, Renishaw, Spinkhill",North East Derbyshire
+S25,"Anston, Dinnington, Laughton-en-le-Morthen",Rotherham
+S26,"Aston, Aughton, Harthill, Kiveton Park, Swallownest, Todwick, Wales",Rotherham
+S30,"Penistone, Stocksbridge, Chapeltown, Hope Valley",Sheffield
+S31,"Aughton, Dinnington, Todwick, Wales, Killamarsh, Eddington",Rotherham
+S32,"Calver, Eyam, Grindleford, Hathersage, Stoney Middleton",Derbyshire Dales
+S33,"Bamford, Bradwell, Castleton, Edale, Hope, Yorkshire Bridge",High Peak
+S35,"Chapeltown, Ecclesfield, Grenoside, High Green, Oughtibridge, Thurgoland, Wharncliffe Side, Wortley",Sheffield
+S36,"Penistone, Thurlstone, Millhouse Green, Oxspring, Stocksbridge, Deepcar",Barnsley
+S40,"Central and West Chesterfield, Brampton",Chesterfield
+S41,"Hasland, North Chesterfield, Old Whittington",Chesterfield
+S42,"Holymoorside, Grassmoor, North Wingfield, Tupton, Wingerworth",Chesterfield
+S43,"Barlborough, Clowne, Inkersall Green, Staveley",Chesterfield
+S44,"Bolsover, Calow, Sutton-cum-Duckmanton, Scarcliffe",Bolsover
+S45,"Ashover, Clay Cross, Pilsley",North East Derbyshire
+S49,Bulk users,Chesterfield
+S60,"Brinsworth, Catcliffe, Central Rotherham, Masbrough, Moorgate, Treeton, Whiston",Rotherham
+S61,"Greasbrough, Kimberworth, Rockingham, Thorpe Hesley",Rotherham
+S62,"Rawmarsh, Wentworth",Rotherham
+S63,"Bolton-on-Dearne, Goldthorpe, Thurnscoe, Wath-on-Dearne, West Melton",Barnsley
+S64,"Kilnhurst, Mexborough, Swinton",Doncaster
+S65,"Herringthorpe, Ravenfield, Thrybergh",Rotherham
+S66,"Bramley Hellaby, Maltby, Thurcroft, Wickersley, Braithwell",Rotherham
+S69,Non-geographic,Sheffield
+S70,"Central Barnsley, Birdwell, Stairfoot, Worsborough",Barnsley
+S71,"Ardsley, Athersley, Monk Bretton, Royston",Barnsley
+S72,"Brierley, Cudworth, Grimethorpe, Shafton, South Hiendley",Barnsley
+S73,"Brampton, Darfield, Wombwell, Hemingfield",Barnsley
+S74,"Elsecar, Hoyland, Jump",Barnsley
+S75,"Barugh Green, Cawthorne, Darton, Dodworth, Gawber, Mapplewell, Pogmoor, Staincross, Wilthorpe",Barnsley
+S80,"Creswell, South Worksop, Whitwell",Bassetlaw
+S81,"Blyth, Carlton-in-Lindrick, Langold, North Worksop, Shireoaks, Woodsetts",Bassetlaw
+S95,Non-geographic,Rotherham
+S96,Bulk users,Sheffield
+S97,Bulk users,Sheffield
+S98,Bulk users,Sheffield
+S99,Non-geographic,Sheffield
+SA1,"Bonymaen, Copper Quarter, Crymlyn Burrows, Danygraig, Greenhill, Hafod, Jersey Marine, Landore, Maritime Quarter, Mayhill, Mount Pleasant, Pentrechwyth, Port Tennant, St. Thomas, City Centre, Townhill, Waun Wen, Winch Wen, Winch Wen Industrial Estate",Swansea
+SA2,"Brynmill, Cockett, Derwen Fawr, Dunvant, Fairwood, Glanmor, Hendrefoilan, Hendrefoilan Student Village, Ilston, Killay, Sketty, Sketty Park, Singleton Park (University Campus), Tycoch, Uplands, Upper Killay",Swansea
+SA3,"Bishopston, Blackpill, Caswell, Clyne, Langland, Mumbles, Oystermouth, Southgate, South Gower, West Cross",Swansea
+SA4,"Blue Anchor, Gorseinon, Gowerton, Hendy (Carmarthenshire), Loughor, North Gower, Penllergaer, Penclawdd, Pontarddulais, Three Crosses",Swansea
+SA5,"Blaenymaes, Cwmdu, Cwmdu Industrial Estate, Felindre, Fforestfach, Gendros, Llangyfelach, Llewitha, Manselton, Penlan, Portmead, Tirdeunaw, Waunarlwydd",Swansea
+SA6,"Clase, Cwmrhydyceirw, Clydach, Morriston, Plasmarl, Plasmarl Industrial Estate, Swansea Enterprise Park, Ynystawe, Ynysforgan",Swansea
+SA7,"Birchgrove, Glais, Llansamlet, Swansea Enterprise Park, Talycoppa, Trallwn",Swansea
+SA8,"Alltwen, Cwmtawe, Pontardawe, Rhos, Rhyd-y-fro, Trebanos, Ynysmeudwy",Neath Port Talbot
+SA9,"Abercraf, Cwmllynfell, Cwmtwrch, Lower Cwmtwrch, Rhiwfawr, Upper Cwmtwrch, Ystalyfera, Ystradgynlais",Neath Port Talbot
+SA10,"Aberdulais, Bryncoch, Cadoxton, Caewern, Coed Darcy, Crynant, Jersey Marine, Llandarcy, Neath Abbey, Onllwyn, Seven Sisters, Skewen",Neath Port Talbot
+SA11,"Blaengwrach, Briton Ferry, Cimla, Glynneath, Neath town centre, Resolven, Tonmawr, Tonna",Neath Port Talbot
+SA12,"Aberafan, Aberavon, Baglan, Cwmafan, Port Talbot town centre, Sandfields,",Neath Port Talbot
+SA13,"Bryn, Cymmer, Margam, Taibach",Neath Port Talbot
+SA14,"Bynea, Dafen, Llanelli town centre",Carmarthenshire
+SA15,"Felinfoel, Pontyates",Carmarthenshire
+SA16,"Burry Port, Pembrey",Carmarthenshire
+SA17,"Ferryside, Kidwelly, Llansaint, Mynyddygarreg, Carway",Carmarthenshire
+SA18,"Ammanford town centre, Betws, Gwaun-Cae-Gurwen, Lower Brynamman",Carmarthenshire
+SA19,"Llandeilo, Llangadog, Llanwrda",Carmarthenshire
+SA20,Llandovery,Carmarthenshire
+SA31,Carmarthen town centre,Carmarthenshire
+SA32,"Nantgaredig, Dryslwyn",Carmarthenshire
+SA33,"Bancyfelin, Pendine, Blaenycoed",Carmarthenshire
+SA34,Whitland,Carmarthenshire
+SA35,Llanfyrnach,Pembrokeshire
+SA36,"Glogue, Hermon",Pembrokeshire
+SA37,Boncath,Pembrokeshire
+SA38,Newcastle Emlyn,Carmarthenshire
+SA39,Pencader,Carmarthenshire
+SA40,Llanybydder,Carmarthenshire
+SA41,Crymych,Pembrokeshire
+SA42,Newport,Pembrokeshire
+SA43,"Cardigan, New Quay",Ceredigion
+SA44,Llandysul,Ceredigion
+SA45,New Quay,Ceredigion
+SA46,Aberaeron,Ceredigion
+SA47,Llanarth,Ceredigion
+SA48,Lampeter,Ceredigion
+SA61,"Haverfordwest town centre, Merlin's Bridge",Pembrokeshire
+SA62,Haverfordwest,Pembrokeshire
+SA63,Clarbeston Road,Pembrokeshire
+SA64,Goodwick,Pembrokeshire
+SA65,Fishguard,Pembrokeshire
+SA66,Clynderwen,Carmarthenshire
+SA67,Narberth,Pembrokeshire
+SA68,Kilgetty,Pembrokeshire
+SA69,Saundersfoot,Pembrokeshire
+SA70,Tenby,Pembrokeshire
+SA71,Pembroke,Pembrokeshire
+SA72,Pembroke Dock,Pembrokeshire
+SA73,Milford Haven,Pembrokeshire
+SA80,Swansea,Swansea
+SA99,Non-geographic,Swansea
+SE1,"Bankside, South Bank, Southwark, Bermondsey, Vauxhall",Southwark
+SE1P,Non-geographic,Southwark
+SE2,"Abbey Wood, West Heath, Crossness, Thamesmead",Greenwich
+SE3,"Blackheath, Kidbrooke, Westcombe Park",Greenwich
+SE4,"Brockley, Crofton Park, Western Ladywell, Honor Oak",Lewisham
+SE5,"Camberwell, Denmark Hill, Southampton Way Estate, Peckham",Lambeth
+SE6,"Bellingham, Catford, Hither Green",Lewisham
+SE7,Charlton,Greenwich
+SE8,"Deptford, Evelyn",Lewisham
+SE9,"Eltham, Mottingham, New Eltham, Falconwood, Chinbrook, Longlands, Kidbrooke",Greenwich
+SE10,"Greenwich, Maze Hill, Greenwich Peninsula",Greenwich
+SE11,"Kennington, Vauxhall",Lambeth
+SE12,"Lee, Grove Park, Chinbrook, Hither Green, Eltham, Horn Park, Blackheath",Lewisham
+SE13,"Lewisham, Hither Green, Ladywell",Lewisham
+SE14,"New Cross, New Cross Gate",Lewisham
+SE15,"Nunhead, Peckham",Lewisham
+SE16,"Rotherhithe, Bermondsey, Surrey Quays",Southwark
+SE17,"Walworth, Newington",Southwark
+SE18,"Plumstead, Woolwich",Greenwich
+SE19,"Upper Norwood, Crystal Palace, Crown Point, Norwood",Croydon
+SE20,"Anerley, Crystal Palace, Penge, Beckenham",Bromley
+SE21,"Dulwich, Dulwich Village, West Dulwich, Tulse Hill, Sydenham Hill",Lambeth
+SE22,"East Dulwich, Peckham Rye, Loughborough Junction, Herne Hill",Southwark
+SE23,"Forest Hill, Honor Oak, Crofton Park",Lewisham
+SE24,"Herne Hill, Tulse Hill",Lambeth
+SE25,"South Norwood, Selhurst",Croydon
+SE26,"Sydenham, Crystal Palace",Bromley
+SE27,"West Norwood, Gipsy Hill, Norwood",Lambeth
+SE28,Thamesmead,Greenwich
+SE99,Non-geographic,London
+SG1,North Stevenage,Stevenage
+SG2,"South Stevenage, Walkern, Ardeley",Stevenage
+SG3,"Knebworth, Woolmer Green, Datchworth",North Hertfordshire
+SG4,"Breachwood Green, Kimpton, King's Walden, Graveley, Little Wymondley, Great Wymondley",North Hertfordshire
+SG5,"Apsley End, Higham Gobion, Offley, Little Offley, Pegsdon, Stotfold, Shillington, Pirton",North Hertfordshire
+SG6,Letchworth,North Hertfordshire
+SG7,Baldock,North Hertfordshire
+SG8,Royston,North Hertfordshire
+SG9,"Buntingford, Westmill",East Hertfordshire
+SG10,Much Hadham,East Hertfordshire
+SG11,"Albury, Braughing, Bury Green, Colliers End, Haultwick, High Cross, Little Hadham, Nasty, Patmore Heath, Puckeridge, Standon, Standon Green End",East Hertfordshire
+SG12,Ware,East Hertfordshire
+SG13,"Hertford, Newgate Street Village, Bayford, Brickendon",East Hertfordshire
+SG14,Hertford,Hertfordshire
+SG15,Arlesey,Central Bedfordshire
+SG16,"Henlow, Henlow Camp, Lower Stondon, Upper Stondon",Central Bedfordshire
+SG17,Shefford,Central Bedfordshire
+SG18,"Biggleswade, Budna, Hatch, Langford, Lower Caldecote, Northill, Upper Caldecote",Central Bedfordshire
+SG19,"Potton, Sandy",Central Bedfordshire
+SK1,Stockport,Stockport
+SK2,Stockport,Stockport
+SK3,"Stockport, Davenport, Edgeley, Adswood, Bridgehall",Stockport
+SK4,"Stockport, Four Heatons",Stockport
+SK5,"Stockport, Brinnington, Reddish",Stockport
+SK6,"Bredbury, Romiley, Woodley, Marple",Stockport
+SK7,"Bramhall, Hazel Grove, Woodford",Stockport
+SK8,"Cheadle, Cheadle Hulme, Gatley, Heald Green",Stockport
+SK9,"Alderley Edge, Wilmslow, Handforth, Styal",Cheshire East
+SK10,"Macclesfield, Bollington, Pott Shrigley, Prestbury, Rainow",Cheshire East
+SK11,Macclesfield,Cheshire East
+SK12,"Disley, Poynton",Cheshire East
+SK13,"Glossop, Hadfield",High Peak
+SK14,"Hyde, Broadbottom, Gee Cross, Hollingworth, Mottram",Tameside
+SK15,"Stalybridge, Carrbrook, Heyrod, Matley, Millbrook",Tameside
+SK16,Dukinfield,Tameside
+SK17,"Buxton, Tideswell, Hartington, Longnor, Chelmorton",Derbyshire Dales
+SK22,"Birch Vale, Hayfield, Little Hayfield, New Mills, Rowarth",High Peak
+SK23,"Buxworth, Chapel-en-le-Frith, Chinley, Combs, Furness Vale, Kettleshulme, Whaley Bridge",High Peak
+SL0,"Iver, Iver Heath, Richings Park, Thorney",South Buckinghamshire
+SL1,"Burnham, Littleworth, Salt Hill, Slough, Upton, Cippenham",South Buckinghamshire
+SL2,"Farnham Common, Farnham Royal, Hedgerley, Stoke Poges",South Buckinghamshire
+SL3,"Colnbrook, Datchet, Fulmer, George Green, Horton, Langley, Poyle ",Slough
+SL4,"Boveney, Clewer, Cranbourne, Dorney, Eton, Eton Wick, Fifield, Oakley Green, Old Windsor, Spital, Windsor, Berkshire, Winkfield, Woodside",Bracknell Forest
+SL5,"Ascot, Burleigh, Cheapside, North Ascot, South Ascot, Sunningdale, Sunninghill",Windsor and Maidenhead
+SL6,"Bray, Bray Wick, Burchett's Green, Cookham, Cookham Dean, Cookham Rise, Furze Platt, Hitcham, Holyport, Hurley, Hurley Bottom, Littlewick Green, Maidenhead, Paley Street, Pinkneys Green, Stud Green, Taplow, Touchen End, White Waltham, Woodlands Park",South Buckinghamshire
+SL7,"Bisham, Little Marlow, Lower Woodend, Buckinghamshire, Marlow, Marlow Bottom, Medmenham",South Buckinghamshire
+SL8,"Bourne End, Well End, Buckinghamshire",South Buckinghamshire
+SL9,"Chalfont Common, Chalfont St Peter, Gerrards Cross, Horn Hill",South Buckinghamshire
+SL60,Non-geographic,Maidenhead
+SL95,Non-geographic,Slough
+SM1,"Sutton, Rose Hill, The Wrythe, Carshalton, Benhilton, Erskine Village",Sutton
+SM2,"Belmont, South Sutton, East Ewell",Sutton
+SM3,North Cheam,Sutton
+SM4,"Morden, Morden Park, Lower Morden, St. Helier",Merton
+SM5,"Carshalton, Carshalton Beeches, Carshalton on the Hill, The Wrythe, Carshalton Village, Eastern St. Helier, Middleton Circle",Sutton
+SM6,"Wallington, Beddington, Hackbridge, Roundshaw, South Beddington",Sutton
+SM7,Banstead,Reigate and Banstead
+SN1,Swindon Centre,Swindon
+SN2,Swindon,Swindon
+SN3,"Swindon, Stratton",Swindon
+SN4,"Wroughton, Chiseldon, Wootton Bassett",Swindon
+SN5,West Swindon,Swindon
+SN6,"Cricklade, Ashton Keynes, Highworth, Shrivenham, Watchfield",Wiltshire
+SN7,Faringdon,Vale of White Horse
+SN8,"Marlborough, Burbage",Kennet
+SN9,Pewsey,Kennet
+SN10,Devizes,Kennet
+SN11,Calne,Wiltshire
+SN12,Melksham,Wiltshire
+SN13,Corsham,Wiltshire
+SN14,Chippenham,Wiltshire
+SN15,Chippenham,Wiltshire
+SN16,Malmesbury,Wiltshire
+SN17,Non-geographic,Swindon
+SN25,Swindon,Swindon
+SN26,Blunsdon,Swindon
+SN38,Swindon,Swindon
+SN42,Non-geographic,Swindon
+SN86,Non-geographic,Swindon
+SN99,Swindon,Swindon
+SO1,Southampton city centre,Southampton
+SO2,"Portswood, Bitterne",Southampton
+SO3,"Bishop's Waltham, Botley, Warsash",Southampton
+SO4,"Southampton, Cadnam, Lyndhurst, Borckenhurst, Lymington",Southampton
+SO5,"Chandler's Ford, Eastleigh, Romsey",Southampton
+SO9,Southampton city centre,Southampton
+SO14,"City Centre, St. Mary's, Newtown, Nicholstown, Ocean Village, Chapel, Eastern Docks, Bevois Valley",Southampton
+SO15,"Shirley, Freemantle, Banister Park, Millbrook",Southampton
+SO16,"Bassett, Redbridge, Rownhams, Nursling, Chilworth",Southampton
+SO17,"Highfield, Portswood, St Denys, Swaythling",Southampton
+SO18,"Bitterne, Bitterne Park, Chartwell Green, Townhill Park, Southampton Airport",Southampton
+SO19,"Sholing, Thornhill",Southampton
+SO20,Stockbridge,Test Valley
+SO21,"Compton, Colden Common, Hursley, Micheldever, Owslebury, Shawford, South Wonston, Sutton Scotney, Sparsholt, Twyford",Winchester
+SO22,"Badger Farm, Fulflood, Hursley, Littleton and Harestock, Olivers Battery, Pitt, St Cross (W), Stanmore, Weeke",Winchester
+SO23,"City Centre, Abbotts Barton, Bar End, Highcliffe, Hyde, St Cross (E), Winnall",Winchester
+SO24,"New Alresford, Old Alresford, Cheriton, Tichborne",Winchester
+SO25,Non-geographic,Southampton
+SO30,"Botley, Hedge End, West End",Eastleigh
+SO31,"Warsash, Hamble-le-Rice , Locks Heath",Eastleigh
+SO32,"Bishops Waltham, Corhampton, Droxford, Durley, Exton, Meonstoke, Shedfield, Soberton, Swanmore, Upham, Warnford, Wickham",Eastleigh
+SO40,"Totton, Lyndhurst, Cadnam, Marchwood",New Forest
+SO41,"Milford-on-Sea, Pennington, Boldre, Hordle, Sway",New Forest
+SO42,Beaulieu,New Forest
+SO43,Lyndhurst,New Forest
+SO45,"Hythe, Fawley, Blackfield, Calshot, Hardley",New Forest
+SO50,Eastleigh Town Centre,Eastleigh
+SO51,"Romsey, Ampfield, Lockerley, Mottisfont, Wellow",Test Valley
+SO52,North Baddesley,Test Valley
+SO53,Chandler's Ford,Eastleigh
+SO97,Non-geographic,Southampton
+SP1,Salisbury,Wiltshire
+SP2,Salisbury,Wiltshire
+SP3,Salisbury,Wiltshire
+SP4,Salisbury,Wiltshire
+SP5,Salisbury,Wiltshire
+SP6,Fordingbridge,New Forest
+SP7,Shaftesbury,North Dorset
+SP8,Gillingham,North Dorset
+SP9,Tidworth,Wiltshire
+SP10,Andover,Test Valley
+SP11,"Ludgershall, Weyhill, Thruxton, Upper Clatford, Longparish, Enham Alamein, St Mary Bourne, Hurstbourne Tarrant",Test Valley
+SR1,"Sunderland City Centre, East End, Hendon",Sunderland
+SR2,"Ashbrooke, Ryhope, Grangetown, Hendon, Hillview, Thornhill",Sunderland
+SR3,"Chapelgarth, Doxford Park, Farringdon, Elstob Farm, Essen Way, Gilley Law, Hall Farm, Herrington, Humbledon Hill, Mill Hill, Plains Farm, Ryhope, Silksworth, Springwell, Thorney Close, Tunstall",Sunderland
+SR4,"Ayres Quay, Barnes, Chester Road, Deptford, Ford Estate, Grindon, Hastings Hill, Hylton Lane Estate, High Barnes, Millfield, Pallion, Pennywell, South Hylton",Sunderland
+SR5,"Carley Hill, Castletown, Downhill, Fulwell, Hylton Castle, Hylton Red House, Marley Pots, Monkwearmouth, Sheepfolds, Southwick, Town End Farm, Witherwack",Sunderland
+SR6,"Cleadon, Fulwell, Monkwearmouth, North Haven, Roker, St Peter's Riverside, Seaburn, Seaburn Dene, South Bents, Whitburn",Sunderland
+SR7,"Cold Hesledon, Dalton-le-Dale, Dawdon, Deneside, Greenhill, Murton, Northlea, Parkside, Seaham, West Lea",County Durham
+SR8,"Easington, Easington Colliery, Horden, Little Thorpe, Peterlee, Shotton, Shotton Colliery",County Durham
+SR9,Post office boxes,Sunderland
+SR43,Sunderland,Sunderland
+SR88,Peterlee,County Durham
+SS0,"Southend-on-Sea, Westcliff-on-Sea",Southend-on-Sea
+SS1,"Southend-on-Sea, Thorpe Bay",Southend-on-Sea
+SS2,"Prittlewell, Southend-on-Sea",Southend-on-Sea
+SS3,Shoeburyness,Rochford
+SS4,Rochford,Rochford
+SS5,Hockley,Rochford
+SS6,Rayleigh,Rochford
+SS7,"Hadleigh, South Benfleet, Thundersley",Castle Point
+SS8,Canvey Island,Castle Point
+SS9,"Eastwood, Leigh-on-Sea",Southend-on-Sea
+SS11,Wickford,Basildon
+SS12,Wickford,Basildon
+SS13,Basildon,Basildon
+SS14,Basildon,Basildon
+SS15,Laindon,Basildon
+SS16,Langdon Hills,Basildon
+SS17,"Corringham, Stanford-le-Hope",Thurrock
+SS22,Non-geographic,Southend-on-Sea
+SS99,Non-geographic,Southend-on-Sea
+ST1,"Hanley, Cobridge, Sneyd Green",Staffordshire
+ST2,"Bentilee, Abbey Hulton, Bucknall",Staffordshire
+ST3,"Longton, Meir, Blurton, Weston Coyney",Staffordshire
+ST4,"Stoke, Fenton",Staffordshire
+ST5,Newcastle-under-Lyme,Staffordshire
+ST6,"Tunstall, Burslem, Smallthorne, Brown Edge",Staffordshire
+ST7,"Kidsgrove, Talke, Talke Pits, Alsager, Mow Cop",Staffordshire
+ST8,Biddulph,Staffordshire
+ST9,"Werrington, Endon",Staffordshire
+ST10,"Cheadle, Church Leigh, Tean",Staffordshire
+ST11,"Cheddleton, Blythe Bridge",Staffordshire
+ST12,Barlaston,Staffordshire
+ST13,Leek,Staffordshire
+ST14,"Uttoxeter, Stramshall",Staffordshire
+ST15,Stone,Staffordshire
+ST16,Stafford,Staffordshire
+ST17,Stafford,Staffordshire
+ST18,Stafford,Staffordshire
+ST19,Penkridge,Staffordshire
+ST20,"Stafford, Woodseaves",Staffordshire
+ST21,"Stafford, Eccleshall, Rodbaston",Staffordshire
+ST55,Non-geographic,Newcastle-under-Lyme
+SW1A,"Whitehall, Buckingham Palace",Westminster
+SW1E,"Buckingham Gate, Victoria Station",Westminster
+SW1H,"Buckingham Gate, Victoria St, Birdcage Walk",Westminster
+SW1P,"Victoria Station, the Houses of Parliament, Vauxhall Bridge, Pimlico",Westminster
+SW1V,"Vauxhall Bridge, Chelsea Bridge, Victoria Station, Pimlico",Westminster
+SW1W,Belgravia,Westminster
+SW1X,"Belgravia, Knightsbridge",Westminster
+SW1Y,St. James's,Westminster
+SW2,"Brixton, Brixton Hill, Streatham Hill, Tulse Hill, Clapham Park, Balham",Lambeth
+SW3,"Chelsea, Brompton, Knightsbridge",Kensington and Chelsea
+SW4,"Clapham, Stockwell",Lambeth
+SW5,Earl's Court,Kensington and Chelsea
+SW6,"Fulham, Parson's Green",Hammersmith and Fulham
+SW7,"South Kensington, Knightsbridge",Kensington and Chelsea
+SW8,"South Lambeth, Vauxhall, Battersea, Clapham, Stockwell",Lambeth
+SW9,"Stockwell, Brixton, Clapham",Lambeth
+SW10,"West Brompton, Chelsea",Kensington and Chelsea
+SW11,"Battersea, Clapham Junction",Wandsworth
+SW12,"Balham, Clapham South, Hyde Farm",Wandsworth
+SW13,"Barnes, Castelnau",Richmond upon Thames
+SW14,"Mortlake, East Sheen",Richmond upon Thames
+SW15,"Putney, Roehampton University",Wandsworth
+SW16,"Streatham, Norbury, Thornton Heath, Streatham Park, Furzedown, Streatham Vale, Pollards Hill",Lambeth
+SW17,"Tooting, Mitcham",Wandsworth
+SW18,"Wandsworth, Southfields, Earlsfield",Wandsworth
+SW19,"Wimbledon, Colliers Wood, Southfields",Merton
+SW20,"Merton Park, Raynes Park",Merton
+SW95,Non-geographic,Lambeth
+SW99,Non-geographic,Lambeth
+SY1,"Shrewsbury Town Centre, North Shrewsbury",Shropshire
+SY2,East Shrewsbury,Shropshire
+SY3,"South Shrewsbury, West Shrewsbury, Bayston Hill",Shropshire
+SY4,"Shawbury, Wem, Atcham, Ruyton-XI-Towns",Shropshire
+SY5,"Dorrington, Donnington, Pontesbury, Westbury",Shropshire
+SY6,"Church Stretton, Cardington",Shropshire
+SY7,Clun Valley,Shropshire
+SY8,Ludlow,Shropshire
+SY9,Bishops Castle,Shropshire
+SY10,Oswestry,Shropshire
+SY11,Oswestry,Shropshire
+SY12,Ellesmere,Shropshire
+SY13,Whitchurch,Shropshire
+SY14,Malpas,Cheshire West and Chester
+SY15,Montgomery,Powys
+SY16,Newtown,Powys
+SY17,"Caersws, Llandinam",Powys
+SY18,Llanidloes,Powys
+SY19,Llanbrynmair,Powys
+SY20,Machynlleth,Powys
+SY21,Welshpool,Powys
+SY22,"Llanfechain, Llanfyllin, Llansantffraid, Llanymynech, Meifod",Powys
+SY23,"Aberystwyth, Llanon, Llanrhystud",Ceredigion
+SY24,"Bow Street, Pen-y-garn, Rhydypennau, Llandre",Ceredigion
+SY25,"Tregaron, Ystrad Meurig",Ceredigion
+SY99,Non-geographic,Shrewsbury
+TA1,Taunton,Somerset
+TA2,Taunton,Somerset
+TA3,North Curry,Somerset
+TA4,"Bicknoller, Bishops Lydeard, Crowcombe, West Bagborough, Williton",Somerset
+TA5,"Cannington, Nether Stowey, Over Stowey, Spaxton, Fiddington",Somerset
+TA6,"Bridgwater, North Petherton, Wembdon",Sedgemoor
+TA7,"Puriton, Polden Hills, Westonzoyland, Middlezoy, Shapwick, Catcott, Ashcott, Chedzoy",Somerset
+TA8,"Burnham on Sea, Berrow, Brean",Somerset
+TA9,"Highbridge, West Huntspill, Brent Knoll",Somerset
+TA10,Langport,Somerset
+TA11,Somerton,South Somerset
+TA12,Martock,Somerset
+TA13,South Petherton,Somerset
+TA14,Stoke-sub-hamdon,Somerset
+TA15,Montacute,Somerset
+TA16,Merriott,Somerset
+TA17,Hinton Saint George,Somerset
+TA18,Crewkerne,Somerset
+TA19,Ilminster,Somerset
+TA20,Chard,Somerset
+TA21,Wellington,Somerset
+TA22,Dulverton,Somerset
+TA23,Watchet,Somerset
+TA24,Minehead,Somerset
+TD1,"Galashiels, Blainslie, Clovenfords, Fountainhall, Stow, Tweedbank",Scottish Borders
+TD2,"Lauder, Oxton",Scottish Borders
+TD3,Gordon,Scottish Borders
+TD4,Earlston,Scottish Borders
+TD5,Kelso,Scottish Borders
+TD6,Melrose,Scottish Borders
+TD7,Selkirk,Scottish Borders
+TD8,"Jedburgh, Ancrum, Camptown, Crailing, Jed Valley, Nisbet, Oxnam",Scottish Borders
+TD9,"Hawick, Newcastleton, Bedrule, Bonchester Bridge, Chesters, Denholm, Kershopefoot, Newmill-on-Teviot, Roberton, Wilton Dean",Scottish Borders
+TD10,Greenlaw,Scottish Borders
+TD11,Duns,Scottish Borders
+TD12,"Cornhill-on-Tweed, Coldstream, Mindrum",Scottish Borders
+TD13,Cockburnspath,East Lothian
+TD14,Eyemouth,Scottish Borders
+TD15,Berwick-upon-Tweed,Northumberland
+TF1,Wellington,Telford and Wrekin
+TF2,Priorslee,Telford and Wrekin
+TF3,"Randlay, Hollinswood",Telford and Wrekin
+TF4,Dawley,Telford and Wrekin
+TF5,Telford,Telford and Wrekin
+TF6,"Wrockwardine, Telford",Telford and Wrekin
+TF7,"Madeley, Sutton Hill",Telford and Wrekin
+TF8,Telford,Telford and Wrekin
+TF9,Market Drayton,Shropshire
+TF10,Newport,Telford and Wrekin
+TF11,Shifnal,Shropshire
+TF12,Broseley,Shropshire
+TF13,Much Wenlock,Shropshire
+TN1,Royal Tunbridge Wells,Tunbridge Wells
+TN2,"Royal Tunbridge Wells, Pembury",Tunbridge Wells
+TN3,Langton Green,Sevenoaks
+TN4,Rusthall,Tunbridge Wells
+TN5,"Wadhurst, Ticehurst, Tidebrook, Stonegate",Rother
+TN6,"Black Hill, Boars Head, Burnt Oak, Castle Hill, Friars Gate, Mark Cross, Rotherfield, St Johns, Stone Cross, Town Row",Wealden
+TN7,Hartfield,Wealden
+TN8,Edenbridge,Sevenoaks
+TN9,Tonbridge,Tonbridge and Malling
+TN10,Tonbridge,Tonbridge and Malling
+TN11,Penshurst,Sevenoaks
+TN12,"Paddock Wood, Staplehurst",Maidstone
+TN13,Riverhead,Sevenoaks
+TN14,Cudham,Bromley
+TN15,"Ightham, Wrotham",Sevenoaks
+TN16,"Biggin Hill, Tatsfield",Bromley
+TN17,"Cranbrook, Goudhurst, Benenden, Frittenden",Ashford
+TN18,"Hawkhurst, Sandhurst",Tunbridge Wells
+TN19,Etchingham,Rother
+TN20,Mayfield,Wealden
+TN21,Heathfield,Rother
+TN22,Uckfield,Wealden
+TN23,Ashford,Ashford
+TN24,Ashford,Ashford
+TN25,"Challock, Wye, Stowting",Ashford
+TN26,"Bethersden, Woodchurch, Shadoxhurst",Ashford
+TN27,"Headcorn, Biddenden",Ashford
+TN28,"New Romney, Greatstone-on-Sea, Littlestone-on-Sea",Shepway
+TN29,Lydd,Shepway
+TN30,Tenterden,Ashford
+TN31,Rye,Rother
+TN32,Robertsbridge,Rother
+TN33,Battle,Rother
+TN34,Hastings town centre,Hastings
+TN35,"Hastings, Pett, Guestling, Westfield",Hastings
+TN36,"Winchelsea, Icklesham",Rother
+TN37,St Leonards,Hastings
+TN38,"St Leonards, Silverhill, Wishing Tree, North Hastings, Bulverhythe",Hastings
+TN39,"Bexhill-on-Sea, Cooden",Rother
+TN40,Bexhill-on-Sea,Rother
+TQ1,"Torquay (centre), St Marychurch",Torbay
+TQ2,"Torquay (west, north)",Torbay
+TQ3,"Paignton (north), Preston",Torbay
+TQ4,"Paignton (centre), Goodrington",Torbay
+TQ5,Brixham,Torbay
+TQ6,Dartmouth,South Hams
+TQ7,Kingsbridge,South Hams
+TQ8,Salcombe,South Hams
+TQ9,Totnes,South Hams
+TQ10,South Brent,South Hams
+TQ11,Buckfastleigh,Teignbridge
+TQ12,"Newton Abbot, Kingsteignton",Teignbridge
+TQ13,"Ashburton, Bovey Tracey, Chudleigh, Moretonhampstead, Widecombe in the Moor",Teignbridge
+TQ14,Teignmouth,Teignbridge
+TR1,Truro,Cornwall
+TR2,"Truro, Gerrans",Cornwall
+TR3,Truro,Cornwall
+TR4,"Goonhavern, Trispen",Cornwall
+TR5,"St Agnes, Mithian",Cornwall
+TR6,"Perranporth, Bolingey, Perrancoombe",Cornwall
+TR7,Newquay,Cornwall
+TR8,Mitchell,Cornwall
+TR9,Saint Columb,Cornwall
+TR10,Penryn,Cornwall
+TR11,"Falmouth, Flushing, Mylor Bridge, Constantine, Mawnan Smith",Cornwall
+TR12,Helston,Cornwall
+TR13,Helston,Cornwall
+TR14,Camborne,Cornwall
+TR15,Redruth,Cornwall
+TR16,"Lanner, Carharrack, St Day",Cornwall
+TR17,Marazion,Cornwall
+TR18,Penzance,Cornwall
+TR19,St Buryan,Cornwall
+TR20,Penzance,Cornwall
+TR21,St Mary's,Isles of Scilly
+TR22,St Agnes,Isles of Scilly
+TR23,Bryher,Isles of Scilly
+TR24,Tresco,Isles of Scilly
+TR25,St Martin's,Isles of Scilly
+TR26,Saint Ives,Cornwall
+TR27,Hayle,Cornwall
+TR93,Penzance,Cornwall
+TS1,"Middlesborough Town Centre, Gresham, University, Abingdon",Middlesbrough
+TS2,"Middlehaven, Port Clarence",Middlesbrough
+TS3,"Brambles Farm, Thorntree, Park End, North Ormesby, Berwick Hills",Middlesbrough
+TS4,"Grove Hill, Longlands",Middlesbrough
+TS5,"Acklam, Linthorpe",Middlesbrough
+TS6,"Eston, Grangetown, Normanby, Teesville, South Bank",Redcar & Cleveland
+TS7,"Marton, Nunthorpe, Ormesby",Middlesbrough
+TS8,"Coulby Newham, Marton, Hemlington, Stainton, Thornton, Maltby",Middlesbrough
+TS9,"Great Ayton, Stokesley",Hambleton
+TS10,Redcar,Redcar & Cleveland
+TS11,"Marske-by-the-Sea, New Marske",Redcar & Cleveland
+TS12,Skelton-in-Cleveland,Redcar & Cleveland
+TS13,Saltburn-by-the-Sea,Redcar & Cleveland
+TS14,Guisborough,Redcar & Cleveland
+TS15,"Yarm, Kirklevington",Stockton-on-Tees
+TS16,"Eaglescliffe, Egglescliffe, Aislaby",Stockton-on-Tees
+TS17,"Thornaby, Ingleby Barwick, Stainton",Stockton-on-Tees
+TS18,"Stockton-on-Tees, Hartburn, Preston-on-Tees, Grangefield, Oxbridge, Portrack",Stockton-on-Tees
+TS19,"Newtown, Fairfield, Hardwick, Roseworth, Bishopsgarth, Elm Tree Farm",Stockton-on-Tees
+TS20,"Norton, Mount Pleasant",Stockton-on-Tees
+TS21,"Stillington, Bishopton, Redmarshall, Thorpe Thewles, Carlton, Sedgefield, Long Newton",Stockton-on-Tees
+TS22,"Billingham (West), Wolviston",Stockton-on-Tees
+TS23,Billingham (East),Stockton-on-Tees
+TS24,Hartlepool,Hartlepool
+TS25,"Seaton Carew, Fens Estate, Owton Manor",Hartlepool
+TS26,Hartlepool,Hartlepool
+TS27,"Blackhall Rocks, Blackhall Colliery, Castle Eden, Hesleden, High Hesleden, Hutton Henry",Hartlepool
+TS28,"Wingate, Station Town",County Durham
+TS29,Trimdon Station,County Durham
+TS90,Non-geographic,Middlesborough
+TW1,"Twickenham, St. Margarets, Strawberry Hill",Richmond upon Thames
+TW2,"Whitton, Strawberry Hill",Richmond upon Thames
+TW3,"Hounslow, Maswell Park, Lampton",Hounslow
+TW4,"Hounslow West, Hounslow Heath, Whitton",Hounslow
+TW5,Heston,Hounslow
+TW6,Heathrow,Hillingdon
+TW7,"Isleworth, Osterley",Hounslow
+TW8,Brentford,Hounslow
+TW9,"North Sheen, Kew",Richmond upon Thames
+TW10,"Ham, Petersham",Richmond upon Thames
+TW11,Teddington,Richmond upon Thames
+TW12,Hampton,Richmond upon Thames
+TW13,"Feltham, Hanworth",Hounslow
+TW14,Hatton,Hounslow
+TW15,Ashford,Spelthorne
+TW16,Sunbury-on-thames,Spelthorne
+TW17,Shepperton,Spelthorne
+TW18,"Staines, Egham Hythe",Spelthorne
+TW19,"Stanwell, Wraysbury",Spelthorne
+TW20,"Egham, Englefield Green",Runnymede
+UB1,Southall,Ealing
+UB2,Southall,Ealing
+UB3,"Hayes, Harlington",Hillingdon
+UB4,"Yeading, Hayes",Hillingdon
+UB5,Northolt,Ealing
+UB6,"Greenford, Perivale",Ealing
+UB7,"West Drayton, Harmondsworth, Sipson, Yiewsley, Longford",Hillingdon
+UB8,"Uxbridge, Cowley, Hillingdon",Hillingdon
+UB9,"Denham, Harefield",South Buckinghamshire
+UB10,"Hillingdon, Ickenham",Hillingdon
+UB11,Stockley Park,Hillingdon
+UB18,Non-geographic,Ealing
+W1A,Non-geographic,Westminster
+W1B,"Portland Street, Regent Street",Westminster
+W1C,Oxford Street (west),Westminster
+W1D,"Soho (south east), Chinatown, Soho Square",Westminster
+W1E,Non-geographic,West London
+W1F,Soho (north west),Westminster
+W1G,Harley Street,Westminster
+W1H,Marylebone,Westminster
+W1J,"Mayfair (south), Piccadilly, Royal Academy",Westminster
+W1K,"Mayfair (north), Grosvenor Square",Westminster
+W1M,Marylebone,London
+W1N,"Regents Park, Oxford Circus",London
+W1P,"Goodge Street, Warren Street",London
+W1R,"Oxford Street, Regent Street",London
+W1S,"Hanover Square, Savile Row",Westminster
+W1T,"Fitzrovia, Tottenham Court Road",Camden
+W1U,Marylebone,Westminster
+W1V,"Soho, Piccadilly",London
+W1W,"Great Portland Street, Fitzrovia",Westminster
+W1X,Mayfair,London
+W1Y,Mayfair,London
+W2,"Paddington, Bayswater, Hyde Park, Westbourne Green, Little Venice, Westbourne Green, Notting Hill",Westminster
+W3,"Acton, East Acton, Park Royal, West Acton",Ealing
+W4,"Chiswick, Gunnersbury, Turnham Green, Bedford Park",Hounslow
+W5,"Ealing, Park Royal",Ealing
+W6,"Hammersmith, Ravenscourt Park",Hammersmith and Fulham
+W7,"Hanwell, Boston Manor",Ealing
+W8,"Kensington, Holland Park",Kensington and Chelsea
+W9,"Maida Vale, Little Venice",Westminster
+W10,"North Kensington, Queens Park",Kensington and Chelsea
+W11,"Notting Hill, Holland Park",Kensington and Chelsea
+W12,"Shepherds Bush, White City",Hammersmith and Fulham
+W13,"West Ealing, Northfields",Ealing
+W14,"West Kensington, Kensington Olympia, Holland Park",Kensington and Chelsea
+WA1,"Warrington, Town Centre, Woolston, Paddington, Bruche",Warrington
+WA2,"Warrington, Orford, Longford, Dallam, Padgate, Fearnhead",Warrington
+WA3,"Lowton, Golborne, Birchwood, Rixton, Glazebrook, Culcheth",Wigan
+WA4,"Warrington, Latchford, Stockton Heath, Appleton, Grappenhall, Daresbury, Moore, Walton",Warrington
+WA5,"Warrington, Burtonwood, Westbrook, Penketh, Great Sankey, White Cross.",Warrington
+WA6,"Frodsham, Helsby",Cheshire West and Chester
+WA7,Runcorn,Halton
+WA8,"Widnes, Cronton",Halton
+WA9,"Clock Face, Sutton, Thatto Heath",St. Helens
+WA10,"Eccleston, St. Helens, West Park",St. Helens
+WA11,"Crank, Haydock, Moss Bank, Rainford",St. Helens
+WA12,"Newton-le-Willows, Earlestown",St. Helens
+WA13,"Lymm, Statham, Warburton",Warrington
+WA14,"Altrincham, Bowdon, Broadheath, Dunham Town, Timperley, Dunham Massey, Little Bollington",Trafford
+WA15,"Altrincham, Ashley, Hale, Hale Barns, Timperley, Ringway",Trafford
+WA16,Knutsford,Cheshire East
+WA55,Non-geographic,Warrington
+WA88,"Non-geographic, Widnes",Halton
+WC1A,New Oxford Street,Camden
+WC1B,"Bloomsbury, British Museum",Camden
+WC1E,University College London,Camden
+WC1H,St Pancras,Camden
+WC1N,Great Ormond Street Hospital,Camden
+WC1R,Gray's Inn,Camden
+WC1V,High Holborn,Camden
+WC1X,"Kings Cross, Finsbury (west)",Camden
+WC2A,"Lincoln's Inn Fields, Royal Courts of Justice",Camden
+WC2B,"Drury Lane, Aldwych",Camden
+WC2E,Covent Garden,Westminster
+WC2H,Leicester Square,Westminster
+WC2N,Charing Cross,Westminster
+WC2R,Somerset House,Westminster
+WC99,Covent Garden,London
+WD1,Watford,Watford
+WD2,"Watford, Leavesden, Bushey",Watford
+WD3,"Batchworth Heath, Chandlers Cross, Chenies, Chorleywood, Croxley Green, Heronsgate, Loudwater, Maple Cross, Mill End, Rickmansworth, Sarratt, West Hyde",Three Rivers
+WD4,"Bucks Hill, Chipperfield, Hunton Bridge, Kings Langley",Dacorum
+WD5,"Bedmond, Abbots Langley",Three Rivers
+WD6,"Borehamwood, Elstree, Well End",Hertsmere
+WD7,"Shenley, Radlett",Hertsmere
+WD17,"Watford, Cassiobury, Nascot Wood",Watford
+WD18,West Watford,Watford
+WD19,"Oxhey, South Oxhey, Carpenders Park",Watford
+WD23,"Bushey, Bushey Heath",Hertsmere
+WD24,North Watford,Watford
+WD25,"Garston, Aldenham, Leavesden, Letchmore Heath",Watford
+WD99,Non-geographic,Watford
+WF1,"Alverthorpe, Eastmoor, Kirkthorpe, Outwood, Wakefield City Centre",Wakefield
+WF2,"Kirkhamgate, Kettlethorpe, Lupset, Newmillerdam, Sandal, Thornes, Walton (Wakefield)",Wakefield
+WF3,"East Ardsley, Lofthouse, Lofthouse Gate, Robin Hood, Stanley, Tingley, West Ardsley",Leeds
+WF4,"Crigglestone, Crofton, Durkar, Flockton, Havercroft, Horbury, Netherton, New Crofton, Ryhill, West Bretton, Woolley",Wakefield
+WF5,"Gawthorpe, Ossett",Wakefield
+WF6,"Altofts, Normanton",Wakefield
+WF7,"Ackworth Moor Top, Featherstone, Purston Jaglin, Streethouse",Wakefield
+WF8,"Darrington, Kirk Smeaton, Pontefract (Monkhill), Thorpe Audlin",Wakefield
+WF9,"Badsworth, Fitzwilliam, Hemsworth, Kinsley, South Elmsall, South Kirkby, Upton",Wakefield
+WF10,"Airedale, Allerton Bywater, Castleford, Glasshoughton",Wakefield
+WF11,"Brotherton, Byram, Criddling Stubbs, Kellingley, Knottingley",Wakefield
+WF12,"Chickenley, Dewsbury, Savile Town, Shaw Cross, Thornhill, Thornhill Lees",Kirklees
+WF13,"Dewsbury Moor, Ravensthorpe, Staincliffe",Kirklees
+WF14,"Hopton, Mirfield",Kirklees
+WF15,"Roberttown, Liversedge",Kirklees
+WF16,Heckmondwike,Kirklees
+WF17,"Birstall, Batley, Staincliffe",Kirklees
+WF90,Non-geographic,Wakefield
+WN1,"Haigh, Ince, Swinley, Wigan",Wigan
+WN2,"Abram, Aspull, Bamfurlong, Bickershaw, Haigh, Hindley, Hindley Green, Ince, Platt Bridge",Wigan
+WN3,"Goose Green, Ince, Winstanley, Worsley Mesnes",Wigan
+WN4,"Ashton-in-Makerfield, Garswood",Wigan
+WN5,"Billinge, Newtown, Higher End, Orrell, Pemberton, Winstanley, Worsley Hall, Marsh Green.",Wigan
+WN6,"Appley Bridge, Shevington, Standish, Standish Lower Ground, Wrightington",Wigan
+WN7,"Hope Carr, Landside, Leigh, Low Common, Bedford, Westleigh, Pennington, Higher Folds",Wigan
+WN8,"Chapel House, Dalton, Holland Moor, Newburgh, Parbold, Roby Mill, Skelmersdale, Southway, Upholland",West Lancashire
+WR1,Worcester,Worcester
+WR2,Worcester,Worcester
+WR3,Worcester,Worcester
+WR4,Worcester,Worcester
+WR5,Worcester,Worcester
+WR6,Worcester,Worcester
+WR7,Worcester,Worcester
+WR8,Worcester,Worcester
+WR9,Droitwich,Wychavon
+WR10,Pershore,Wychavon
+WR11,Evesham,Wychavon
+WR12,Broadway,Wychavon
+WR13,Malvern,Malvern Hills
+WR14,Malvern,Malvern Hills
+WR15,Tenbury Wells,Worcester
+WR78,Worcester,Worcester
+WR99,Worcester,Worcester
+WS1,"Walsall town centre, Caldmore",Walsall
+WS2,"Pleck, Bentley, Leamore",Walsall
+WS3,"Bloxwich, Coal Pool, Pelsall",Walsall
+WS4,Rushall,Walsall
+WS5,"Bescot, Tamebridge, Yew Tree",Walsall
+WS6,"Cheslyn Hay, Great Wyrley",South Staffordshire
+WS7,Burntwood,Lichfield
+WS8,Walsall,Walsall
+WS9,"Aldridge, Brownhills",Walsall
+WS10,Wednesbury,Sandwell
+WS11,Cannock,Cannock Chase
+WS12,"Heath Hayes, Hednesford, Huntington, Wimblebury",Cannock Chase
+WS13,Lichfield,Lichfield
+WS14,Lichfield,Lichfield
+WS15,"Armitage, Brereton, Rugeley",Cannock Chase
+WV1,"Wolverhampton City Centre, Horseley Fields, East Park",Wolverhampton
+WV2,"All Saints , Blakenhall, Parkfields",Wolverhampton
+WV3,"Finchfield, Compton, Castlecroft",Wolverhampton
+WV4,"Penn, Warstones, Merry Hill, Parkfields",Wolverhampton
+WV5,"Wombourne, Wall Heath",South Staffordshire
+WV6,"Whitmore Reans, Perton, Pattingham, Tettenhall",Wolverhampton
+WV7,Albrighton,Wolverhampton
+WV8,"Codsall, Pendeford, Rakegate, Bilbrook",Wolverhampton
+WV9,Pendeford,Wolverhampton
+WV10,"Low Hill, Bushbury, Heath Town, Fordhouses, Fallings Park, Featherstone, Wednesfield, Brinsford",Wolverhampton
+WV11,Wednesfield,Wolverhampton
+WV12,"Short Heath, Lodge Farm",Wolverhampton
+WV13,"Shepwell Green, Willenhall Town",Wolverhampton
+WV14,"Bradley, Bilston Town",Wolverhampton
+WV15,Bridgnorth Lower,Shropshire
+WV16,Bridgnorth Upper,Shropshire
+WV98,Non-geographic,Wolverhampton
+WV99,Non-geographic,Wolverhampton
+YO1,York City Centre,York
+YO2,York,York
+YO3,York,York
+YO4,"Pocklington, Market Weighton, Escrick, Stamford Bridge",York
+YO5,"Boroughbridge, Tockwith",York
+YO6,"Helmsley, Easingwold",York
+YO7,Thirsk,North Yorkshire
+YO8,"Barlby, Brayton, Bubwith, Cawood, Camblesforth, Drax, Thorpe Willoughby",York
+YO10,"Fishergate, Fulford, Heslington, Osbaldwick, Tang Hall",York
+YO11,Cayton,North Yorkshire
+YO12,Seamer,North Yorkshire
+YO13,Scarborough,North Yorkshire
+YO14,Filey,North Yorkshire
+YO15,"Bridlington, Bempton, Buckton, Carnaby, Flamborough, Fraisthorpe, Sewerby, Wilsthorpe",East Riding of Yorkshire
+YO16,"Bridlington, Bempton, Bessingby, Boynton, Buckton, Carnaby, Easton, Grindale, Sewerby",East Riding of Yorkshire
+YO17,Norton,North Yorkshire
+YO18,Thornton-le-Dale,North Yorkshire
+YO19,"Dunnington, Escrick, Wheldrake, Murton, Riccall, Stillingfleet, Warthill",York
+YO21,"Whitby, Westerdale",North Yorkshire
+YO22,Robin Hood's Bay,North Yorkshire
+YO23,"South Bank, Bishopthorpe, Copmanthorpe, Rufforth",York
+YO24,"Acomb, Dringhouses, Woodthorpe",York
+YO25,Driffield,East Riding of Yorkshire
+YO26,"Acomb, Leeman Road Area, Upper Poppleton, Nether Poppleton, Green Hammerton",York
+YO30,"Bootham, Clifton, Skelton, Linton-on-Ouse",York
+YO31,"Heworth, Huntington (South), The Groves, Layerthorpe",York
+YO32,"Haxby, Huntington (North), Wigginton, New Earswick, Stockton-on-the-Forest, Strensall",York
+YO41,"Elvington, Full Sutton, Stamford Bridge, Sutton upon Derwent, Wilberfoss",York
+YO42,"Pocklington, Barmby Moor, Melbourne, Seaton Ross",East Riding of Yorkshire
+YO43,"Market Weighton, Holme-on-Spalding-Moor",East Riding of Yorkshire
+YO51,Boroughbridge,North Yorkshire
+YO60,Skewsby,York
+YO61,Easingwold,North Yorkshire
+YO62,"Thorpe Hall, Helmsley. Kirkbymoorside",North Yorkshire
+YO90,"Rougier St, Wellington Row",York
+YO91,"Lawrence Court, PO Boxes",York
+YO95,Pocklington,York
+ZE1,"Lerwick, Scalloway",Shetland
+ZE2,Shetland,Shetland
+ZE3,Bush,Shetland
